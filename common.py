@@ -37,10 +37,12 @@ MOIS = {
     "dec": "12", "déc": "12", "decembre": "12", "décembre": "12",
 }
 
-# Repère "18 sept.26" / "18 septembre 2026" / "18 sept 2026" dans un texte
+# Repère "18 sept.26" / "18 septembre 2026" / "18 sept 2026" dans un texte.
+# Le mot du mois est capturé en entier (lettres + accents), qu'il soit
+# abrégé ("sept") ou en toutes lettres ("septembre") — c'est ensuite
+# parse_date_fr() qui le reconnaît via un préfixe.
 DATE_RE = re.compile(
-    r"(\d{1,2})\s*(janv\.?|f[ée]vr?\.?|mars|avr\.?|mai|juin|juil\.?|ao[uû]t|"
-    r"sept\.?|oct\.?|nov\.?|d[ée]c\.?)\.?\s*'?(\d{2,4})",
+    r"(\d{1,2})\s+([A-Za-zéèêàâûîôç]+)\.?\s*'?(\d{2,4})",
     re.IGNORECASE,
 )
 TIME_RE = re.compile(r"(\d{1,2})[h:](\d{2})?")

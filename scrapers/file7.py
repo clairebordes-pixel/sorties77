@@ -33,6 +33,20 @@ URL = "https://file7.com/fr/programme/programme.html"
 # ex: .../19-09-2026-09h00-ecoute-de-prog-au-marche.html
 URL_DATE_RE = re.compile(r"/(\d{2})-(\d{2})-(\d{4})-(\d{1,2})h(\d{2})-")
 
+# File7 est avant tout une salle de musiques actuelles : par défaut on
+# classe en "concert", sauf mots-clés indiquant autre chose.
+ATELIER_HINTS = ("atelier", "rencontre", "conférence", "masterclass")
+SPECTACLE_HINTS = ("kidz", "just dance", "zélie", "scène ouverte")
+
+
+def guess_type(title: str) -> str:
+    t = title.lower()
+    if any(h in t for h in ATELIER_HINTS):
+        return "atelier"
+    if any(h in t for h in SPECTACLE_HINTS):
+        return "spectacle"
+    return "concert"
+
 
 def scrape():
     from bs4 import BeautifulSoup
@@ -65,7 +79,7 @@ def scrape():
                 date=date,
                 time=time,
                 title=title,
-                type="autre",
+                type=guess_type(title),
                 venue="File7",
                 city="Magny-le-Hongre",
                 source_url=href,

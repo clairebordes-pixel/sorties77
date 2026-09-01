@@ -2,13 +2,28 @@
 Scraper pour Les Cuizines — Chelles.
 Page cible : https://www.lescuizines.fr/events/
 
-Ce site utilise très probablement un plugin d'événements WordPress
-(The Events Calendar ou équivalent), qui structure généralement chaque
-événement dans un article avec un titre (h2/h3) et une date associée.
-Les sélecteurs ci-dessous sont un point de départ raisonnable ; ouvre les
-outils de développement du navigateur (clic droit -> Inspecter) sur la page
-si rien ne remonte, pour ajuster les noms de classes.
+Structure réelle observée (inspectée le 31/08/2026) :
+
+  <div class="row">
+    <div class="col-lg-3 col-md-3 col-xs-4 agenda-item">
+      <div class="label-event">Scène ouverte</div>       <- catégorie
+      <div class="image">
+        <a href="https://www.lescuizines.fr/events/jam-britpop/">
+          <img src="....jpg">
+        </a>
+      </div>
+      <div class="agenda-groupe">...</div>                <- probablement le titre
+      <div class="agenda-secondgroupe">...</div>          <- sous-titre / infos
+      <div class="agenda-date-texte">Samedi 19 septembre 2026</div>
+    </div>
+    ...
+  </div>
+
+Le titre exact (agenda-groupe) reste à confirmer — en attendant, on utilise
+le slug de l'URL de l'événement comme titre de secours si agenda-groupe est
+vide.
 """
+import re
 import sys
 from pathlib import Path
 
@@ -18,6 +33,12 @@ from common import Event, fetch, parse_date_fr, parse_time_fr, write_events
 URL = "https://www.lescuizines.fr/events/"
 
 
+def _title_from_slug(href: str) -> str:
+    slug = href.rstrip("/").split("/")[-1]
+    slug = re.sub(r"[-_]+", " ", slug).strip()
+    return slug.title() if slug else "Événement"
+
+
 def scrape():
     from bs4 import BeautifulSoup
 
@@ -25,29 +46,30 @@ def scrape():
     soup = BeautifulSoup(html, "html.parser")
     events = []
 
-    # Hypothèse : chaque événement est dans un conteneur <article> ou une
-    # div avec une classe contenant "event" (très courant chez The Events
-    # Calendar : "tribe-events-calendar-list__event")
-    candidates = soup.select(
-        "article, [class*='event'], [class*='tribe-events']"
-    )
-
-    seen_titles = set()
-    for block in candidates:
-        title_tag = block.find(["h2", "h3", "h4"])
-        if not title_tag:
+    for item in soup.select(".agenda-item"):
+        date_tag = item.select_one(".agenda-date-texte")
+        if not date_tag:
             continue
-        title = title_tag.get_text(strip=True)
-        if not title or title in seen_titles:
-            continue
-
-        text = block.get_text(" ", strip=True)
-        date = parse_date_fr(text)
+        date = parse_date_fr(date_tag.get_text(strip=True))
         if not date:
             continue
-        time = parse_time_fr(text)
+        time = parse_time_fr(item.get_text(" ", strip=True))
 
-        seen_titles.add(title)
+        category_tag = item.select_one(".label-event")
+        category = category_tag.get_text(strip=True) if category_tag else ""
+
+        # Titre : d'abord agenda-groupe, sinon le slug du lien
+        title = ""
+        groupe_tag = item.select_one(".agenda-groupe")
+        if groupe_tag:
+            title = groupe_tag.get_text(strip=True)
+        if not title:
+            link = item.select_one("a[href]")
+            if link:
+                title = _title_from_slug(link["href"])
+        if not title:
+            title = category or "Événement"
+
         events.append(
             Event(
                 date=date,

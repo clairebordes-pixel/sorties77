@@ -51,10 +51,11 @@ class Event:
     date: str          # YYYY-MM-DD
     time: str          # "20h30" ou ""
     title: str
-    type: str          # concert | cirque | saison | autre
+    type: str          # concert | cirque | saison | atelier | spectacle
     venue: str
     city: str
-    source_url: str = ""
+    source_url: str = ""   # lien vers la page de l'événement / billetterie
+    image_url: str = ""    # image du spectacle, si disponible
 
 
 def parse_date_fr(text: str, default_year: int = 2026):

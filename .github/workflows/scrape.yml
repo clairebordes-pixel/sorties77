@@ -23,6 +23,14 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
+      - name: Diagnostic - voir la structure des fichiers
+        run: |
+          pwd
+          echo "--- racine ---"
+          ls -la
+          echo "--- scrapers/ ---"
+          ls -la scrapers || echo "PAS DE DOSSIER scrapers ICI"
+
       - name: Lancer le scraper
         run: python run_all.py
 

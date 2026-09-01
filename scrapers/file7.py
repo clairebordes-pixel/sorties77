@@ -38,10 +38,13 @@ def scrape():
     from bs4 import BeautifulSoup
 
     html = fetch(URL)
+    print(f"[diagnostic] taille de la page reçue : {len(html)} caractères")
     soup = BeautifulSoup(html, "html.parser")
+    blocs = soup.select(".bloc_show")
+    print(f"[diagnostic] nombre de .bloc_show trouvés : {len(blocs)}")
     events = []
 
-    for block in soup.select(".bloc_show"):
+    for block in blocs:
         link = block.select_one("a[href]")
         if not link:
             continue

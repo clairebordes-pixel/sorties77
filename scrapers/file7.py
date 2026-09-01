@@ -74,6 +74,9 @@ def scrape():
         title = title_tag.get_text(strip=True) if title_tag else "Événement"
         title = title.title() if title.isupper() else title
 
+        img_tag = block.select_one(".show_image img")
+        image_url = img_tag.get("src", "") if img_tag else ""
+
         events.append(
             Event(
                 date=date,
@@ -83,6 +86,7 @@ def scrape():
                 venue="File7",
                 city="Magny-le-Hongre",
                 source_url=href,
+                image_url=image_url,
             )
         )
     return events

@@ -1,0 +1,35 @@
+name: Scraper Sorties 77
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # tous les jours à 5h UTC (7h en France l'été, 6h l'hiver)
+  workflow_dispatch:        # permet aussi de le lancer manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le scraper
+        run: python run_all.py
+
+      - name: Sauvegarder events.json dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/events.json
+          git diff --quiet --cached || git commit -m "Mise à jour automatique des événements"
+          git push

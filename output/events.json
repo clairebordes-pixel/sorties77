@@ -20,6 +20,16 @@
     "image_url": "https://www.file7.com/wmedias/original/mao-draft-tilt-site.jpg"
   },
   {
+    "date": "2026-09-19",
+    "time": "",
+    "title": "Jam Session",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/jam-britpop/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/Jam-Michael-©-Les-Cuizines-3-250x250.jpg"
+  },
+  {
     "date": "2026-09-20",
     "time": "14h00",
     "title": "Dans les Backstages",
@@ -28,6 +38,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/20-09-2026-14h00-dans-les-backstages.html",
     "image_url": "https://file7.com/wmedias/original/Dans_Les_Backstages_2-440x340.png"
+  },
+  {
+    "date": "2026-09-25",
+    "time": "",
+    "title": "Alex Montembault",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/cafe-concert-alex-montembault-amoue/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/press2-250x250.jpg"
   },
   {
     "date": "2026-09-26",
@@ -40,6 +60,26 @@
     "image_url": "https://www.file7.com/wmedias/original/EBONY_SITE-440x340.png"
   },
   {
+    "date": "2026-09-27",
+    "time": "",
+    "title": "Alf & Orel",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/alf-orel-au-salon-de-la-bd/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/affiche-Alf-Orel-scaled-e1783331989461-250x250.jpg"
+  },
+  {
+    "date": "2026-09-30",
+    "time": "",
+    "title": "Guitare",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/masterclass-guitare-gabriel-gosse/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/gabriel-gosse-disillusion-days-fred-margueron-arty-magazine-250x250.jpg"
+  },
+  {
     "date": "2026-10-02",
     "time": "20h00",
     "title": "Jam Session",
@@ -48,6 +88,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/02-10-2026-20h00-jam-session.html",
     "image_url": "https://file7.com/wmedias/original/jam-session-site.jpg"
+  },
+  {
+    "date": "2026-10-02",
+    "time": "",
+    "title": "David Walters",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/david-walters-gabriel-gosse/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/David-Walters-2-Hugues-CMJN-250x250.png"
   },
   {
     "date": "2026-10-03",
@@ -70,6 +120,16 @@
     "image_url": "https://www.file7.com/wmedias/original/Image_site_-_bon_format_-_NEW2-440x340.png"
   },
   {
+    "date": "2026-10-03",
+    "time": "",
+    "title": "Neuvième Planète",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/neuvieme-planete-jeune-public/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/CH-Thierry-Concert9Planete-12-250x250.png"
+  },
+  {
     "date": "2026-10-06",
     "time": "",
     "title": "Ateliers DJing",
@@ -88,6 +148,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/09-10-2026-20h00-soirees-fan-club-tedaak-jasmine-not-jafar.html",
     "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_JNJ_-_TEDAAK-440x340.png"
+  },
+  {
+    "date": "2026-10-09",
+    "time": "",
+    "title": "Bukowski + ODC",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/bukowski-odc/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/05/SITE-250x250.jpg"
   },
   {
     "date": "2026-10-10",
@@ -110,6 +180,26 @@
     "image_url": "https://www.file7.com/wmedias/original/CAMILLE_YEMBE_-_JNLAJDAP_-_PHOTO1_-_cAlexis_Vassiviere-440x340.jpg"
   },
   {
+    "date": "2026-10-16",
+    "time": "",
+    "title": "FEEL + Ruthee",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/feel-ruthee/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/SITE-250x250.jpg"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "",
+    "title": "Skarra Mucci x Manudigital",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/skarra-mucci-x-manudigital/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/0175-Skarra_Mucci-Manudigital-c-Stéphane-Buttigieg-BD-e1781773007628-250x250.jpg"
+  },
+  {
     "date": "2026-10-24",
     "time": "15h00",
     "title": "Café-Concert : Chloé Antoniotti",
@@ -118,6 +208,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/24-10-2026-15h00-cafe-concert-chloe-antoniotti.html",
     "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ3-440x340.png"
+  },
+  {
+    "date": "2026-10-28",
+    "time": "",
+    "title": "Guitare : la pentatonique",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/atelier-guitare-la-pentatonique-autrement/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/koneski-guitare-250x250.jpg"
   },
   {
     "date": "2026-10-30",
@@ -130,6 +230,16 @@
     "image_url": "https://file7.com/wmedias/original/just_dance_2024-440x340.png"
   },
   {
+    "date": "2026-11-06",
+    "time": "",
+    "title": "Joe Bel",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/joe-bel-elias-dris/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/V1-OK-Sarah-Balladere-scaled-e1780415657205-250x250.jpg"
+  },
+  {
     "date": "2026-11-13",
     "time": "20h00",
     "title": "REVNOIR+Solitaris+TRVMA",
@@ -138,6 +248,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/13-11-2026-20h00-revnoir-solitaris-trvma.html",
     "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ4-440x340.png"
+  },
+  {
+    "date": "2026-11-13",
+    "time": "",
+    "title": "Leys + Tracy De Sá",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/tracy-de-sa-leys/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/SITE-1-250x250.jpg"
   },
   {
     "date": "2026-11-14",
@@ -170,6 +290,16 @@
     "image_url": "https://www.file7.com/wmedias/original/INTO_THE_WOOD-440x340.jpg"
   },
   {
+    "date": "2026-11-20",
+    "time": "",
+    "title": "Lynn + Awa Ly",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/lynn-awa-ly/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/pf_1780328991-e1780571484802-250x250.png"
+  },
+  {
     "date": "2026-11-21",
     "time": "10h30",
     "title": "Super Week-end Kidz : INTO THE WOODS",
@@ -190,6 +320,16 @@
     "image_url": "https://www.file7.com/wmedias/original/zzz-ESOP_LILA_EHJA-440x340.png"
   },
   {
+    "date": "2026-11-28",
+    "time": "",
+    "title": "Seule la musique peut me toucher #4",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/seule-la-musique-peut-me-toucher-4/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/staff-ElisaCiavaldini1-250x250.jpg"
+  },
+  {
     "date": "2026-12-04",
     "time": "20h00",
     "title": "2L+Juste Shani",
@@ -198,6 +338,46 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/04-12-2026-20h00-2l-juste-shani.html",
     "image_url": "https://www.file7.com/wmedias/original/zz_-_2L_JUSTE_SHANI-440x340.png"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "",
+    "title": "Ouai Stéphane + Elisa Do Brasil",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/odyssee-ouaistephane-elisa-do-brasil/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/site-ouai-stephane-elisa-do-brasil-250x250.png"
+  },
+  {
+    "date": "2026-12-11",
+    "time": "",
+    "title": "The Inspector Cluzo",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/the-inspector-cluzo-2026/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/TIC_PRESS_2_PHOTO_cCyrilleVidal-250x250.jpg"
+  },
+  {
+    "date": "2026-12-19",
+    "time": "",
+    "title": "Lutherie niv. 2",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/stage-lutherie-niveau-2/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/finalllllllllll-250x250.jpg"
+  },
+  {
+    "date": "2027-01-15",
+    "time": "",
+    "title": "Yael Naim",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/yael-naim/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/yael-naim-c-dr-scaled-2048x2048-1-250x250.jpg"
   },
   {
     "date": "2027-02-05",

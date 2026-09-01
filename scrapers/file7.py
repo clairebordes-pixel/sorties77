@@ -2,16 +2,36 @@
 Scraper pour File7 — Magny-le-Hongre.
 Page cible : https://file7.com/fr/programme/programme.html
 
-Même logique générique que lescuizines.py : à ajuster une fois que tu as
-inspecté le HTML réel de la page (clic droit -> Inspecter).
+Structure réelle observée (inspectée le 31/08/2026) :
+
+  <div class="zone_grille">
+    <div class="bloc_show">
+      <a href="https://www.file7.com/fr/programme/programme/19-09-2026-09h00-ecoute-de-prog-au-marche.html">
+        <span class="show_image">...</span>
+        <span class="infos">
+          <span class="artistes">ÉCOUTE DE PROG' AU MARCHÉ !</span>
+          <span class="date">Samedi 19 septembre</span>   <- pas d'année ici !
+        </span>
+      </a>
+    </div>
+    ...
+  </div>
+
+L'URL de chaque événement contient la date ET l'heure complètes
+(jj-mm-aaaa-hhhmm), donc on s'appuie sur elle plutôt que sur le texte
+".date" qui n'a pas l'année.
 """
+import re
 import sys
 from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from common import Event, fetch, parse_date_fr, parse_time_fr, write_events
+from common import Event, fetch, write_events
 
 URL = "https://file7.com/fr/programme/programme.html"
+
+# ex: .../19-09-2026-09h00-ecoute-de-prog-au-marche.html
+URL_DATE_RE = re.compile(r"/(\d{2})-(\d{2})-(\d{4})-(\d{1,2})h(\d{2})-")
 
 
 def scrape():
@@ -21,23 +41,22 @@ def scrape():
     soup = BeautifulSoup(html, "html.parser")
     events = []
 
-    candidates = soup.select("article, [class*='event'], [class*='programme']")
-    seen_titles = set()
-    for block in candidates:
-        title_tag = block.find(["h2", "h3", "h4"])
-        if not title_tag:
+    for block in soup.select(".bloc_show"):
+        link = block.select_one("a[href]")
+        if not link:
             continue
-        title = title_tag.get_text(strip=True)
-        if not title or title in seen_titles:
+        href = link["href"]
+        m = URL_DATE_RE.search(href)
+        if not m:
             continue
+        day, month, year, hour, minute = m.groups()
+        date = f"{year}-{month}-{day}"
+        time = f"{int(hour)}h{minute}"
 
-        text = block.get_text(" ", strip=True)
-        date = parse_date_fr(text)
-        if not date:
-            continue
-        time = parse_time_fr(text)
+        title_tag = block.select_one(".artistes")
+        title = title_tag.get_text(strip=True) if title_tag else "Événement"
+        title = title.title() if title.isupper() else title
 
-        seen_titles.add(title)
         events.append(
             Event(
                 date=date,
@@ -46,7 +65,7 @@ def scrape():
                 type="autre",
                 venue="File7",
                 city="Magny-le-Hongre",
-                source_url=URL,
+                source_url=href,
             )
         )
     return events

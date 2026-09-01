@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-09-19",
+    "time": "9h00",
+    "title": "Écoute De Prog’ Au Marché !",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/19-09-2026-09h00-ecoute-de-prog-au-marche.html"
+  },
+  {
+    "date": "2026-09-19",
+    "time": "11h00",
+    "title": "Atelier MAO : du draft au banger",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/19-09-2026-11h00-atelier-mao-du-draft-au-banger.html"
+  },
+  {
+    "date": "2026-09-20",
+    "time": "14h00",
+    "title": "Dans les Backstages",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/20-09-2026-14h00-dans-les-backstages.html"
+  },
+  {
+    "date": "2026-09-26",
+    "time": "20h00",
+    "title": "Ebony+Tessa Galli",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/26-09-2026-20h00-ebony-tessa-galli.html"
+  },
+  {
+    "date": "2026-10-02",
+    "time": "20h00",
+    "title": "Jam Session",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/02-10-2026-20h00-jam-session.html"
+  },
+  {
+    "date": "2026-10-03",
+    "time": "18h00",
+    "title": "Dans Ton Casque Avec Les Fatals Picards",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/03-10-2026-18h00-dans-ton-casque-avec-les-fatals-picards.html"
+  },
+  {
+    "date": "2026-10-03",
+    "time": "20h00",
+    "title": "LES FATALS PICARDS+La bise",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/03-10-2026-20h00-les-fatals-picards-la-bise.html"
+  },
+  {
     "date": "2026-10-06",
     "time": "",
     "title": "Ateliers DJing",
@@ -9,6 +72,132 @@
     "source_url": "https://www.lescuizines.fr/events/"
   },
   {
+    "date": "2026-10-09",
+    "time": "20h00",
+    "title": "Soirées Fan Club : TEDAAK+Jasmine not Jafar",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/09-10-2026-20h00-soirees-fan-club-tedaak-jasmine-not-jafar.html"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "14h00",
+    "title": "Rencontre : Le Management 2.0",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/10-10-2026-14h00-rencontre-le-management-2-0.html"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "20h00",
+    "title": "CAMILLE YEMBE+Morgan",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/10-10-2026-20h00-camille-yembe-morgan.html"
+  },
+  {
+    "date": "2026-10-24",
+    "time": "15h00",
+    "title": "Café-Concert : Chloé Antoniotti",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/24-10-2026-15h00-cafe-concert-chloe-antoniotti.html"
+  },
+  {
+    "date": "2026-10-30",
+    "time": "20h00",
+    "title": "Just Dance",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/30-10-2026-20h00-just-dance.html"
+  },
+  {
+    "date": "2026-11-13",
+    "time": "20h00",
+    "title": "REVNOIR+Solitaris+TRVMA",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/13-11-2026-20h00-revnoir-solitaris-trvma.html"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "20h00",
+    "title": "Scène Ouverte",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/14-11-2026-20h00-scene-ouverte.html"
+  },
+  {
+    "date": "2026-11-19",
+    "time": "14h30",
+    "title": "Super Week-end Kidz : Orel, Octave & Mélodie - séance scolaire",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/19-11-2026-14h30-super-week-end-kidz-orel-octave-melodie-seance-scolaire.html"
+  },
+  {
+    "date": "2026-11-20",
+    "time": "14h30",
+    "title": "Super Week-end Kidz : INTO THE WOODS - Séance scolaire",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/20-11-2026-14h30-super-week-end-kidz-into-the-woods-seance-scolaire.html"
+  },
+  {
+    "date": "2026-11-21",
+    "time": "10h30",
+    "title": "Super Week-end Kidz : INTO THE WOODS",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/21-11-2026-10h30-super-week-end-kidz-into-the-woods.html"
+  },
+  {
+    "date": "2026-11-27",
+    "time": "20h00",
+    "title": "Soirées Fan Club : ​Erotic Secrets of Pompeii+Lila Ehjä",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/27-11-2026-20h00-soirees-fan-club-erotic-secrets-of-pompeii-lila-ehja.html"
+  },
+  {
+    "date": "2026-12-04",
+    "time": "20h00",
+    "title": "2L+Juste Shani",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/04-12-2026-20h00-2l-juste-shani.html"
+  },
+  {
+    "date": "2027-02-05",
+    "time": "20h00",
+    "title": "Soirées Fan Club : Guadal Tejaz+MDNS",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/05-02-2027-20h00-soirees-fan-club-guadal-tejaz-mdns.html"
+  },
+  {
+    "date": "2027-02-06",
+    "time": "20h00",
+    "title": "Pony Pony Run Run",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/06-02-2027-20h00-pony-pony-run-run.html"
+  },
+  {
     "date": "2027-03-05",
     "time": "",
     "title": "Elephanz",
@@ -16,5 +205,14 @@
     "venue": "Les Cuizines",
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/"
+  },
+  {
+    "date": "2027-03-06",
+    "time": "20h00",
+    "title": "Zélie",
+    "type": "autre",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/06-03-2027-20h00-zelie.html"
   }
 ]

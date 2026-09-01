@@ -43,10 +43,13 @@ def scrape():
     from bs4 import BeautifulSoup
 
     html = fetch(URL)
+    print(f"[diagnostic] taille de la page reçue : {len(html)} caractères")
     soup = BeautifulSoup(html, "html.parser")
+    items = soup.select(".agenda-item")
+    print(f"[diagnostic] nombre de .agenda-item trouvés : {len(items)}")
     events = []
 
-    for item in soup.select(".agenda-item"):
+    for item in items:
         date_tag = item.select_one(".agenda-date-texte")
         if not date_tag:
             continue

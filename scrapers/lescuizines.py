@@ -63,12 +63,15 @@ def scrape():
         groupe_tag = item.select_one(".agenda-groupe")
         if groupe_tag:
             title = groupe_tag.get_text(strip=True)
-        if not title:
-            link = item.select_one("a[href]")
-            if link:
-                title = _title_from_slug(link["href"])
+        link = item.select_one("a[href]")
+        if not title and link:
+            title = _title_from_slug(link["href"])
         if not title:
             title = category or "Événement"
+
+        img_tag = item.select_one(".image img")
+        image_url = img_tag.get("src", "") if img_tag else ""
+        source_url = link["href"] if link else URL
 
         events.append(
             Event(
@@ -78,7 +81,8 @@ def scrape():
                 type="concert",
                 venue="Les Cuizines",
                 city="Chelles",
-                source_url=URL,
+                source_url=source_url,
+                image_url=image_url,
             )
         )
     return events

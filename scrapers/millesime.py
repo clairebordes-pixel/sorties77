@@ -61,7 +61,7 @@ def scrape():
                 date=date,
                 time=time,
                 title=title,
-                type="autre",
+                type="spectacle",
                 venue="Le Millésime",
                 city="Montévrain",
                 source_url=URL,

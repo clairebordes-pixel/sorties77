@@ -233,6 +233,8 @@
     border:2px solid var(--line);
     overflow:hidden;
     display:flex;flex-direction:column;
+    text-decoration:none;
+    color:inherit;
   }
   .thumb{
     height:110px;
@@ -551,12 +553,20 @@ function render(){
     const t = TYPES[e.type] || TYPES.spectacle;
     const d = new Date(e.date + "T00:00:00");
     const dateLabel = d.toLocaleDateString('fr-FR', {day:'numeric', month:'short'});
-    const card = document.createElement('div');
+    const card = document.createElement(e.source_url ? 'a' : 'div');
     card.className = 'card';
+    if(e.source_url){
+      card.href = e.source_url;
+      card.target = '_blank';
+      card.rel = 'noopener';
+    }
+    const thumbStyle = e.image_url
+      ? `background-image:url('${e.image_url}');background-size:cover;background-position:center;`
+      : `background:linear-gradient(135deg, ${t.color}, ${t.colorDeep});`;
     card.innerHTML = `
-      <div class="thumb" style="background:linear-gradient(135deg, ${t.color}, ${t.colorDeep})">
-        <span class="badge" style="background:rgba(0,0,0,0.28)">${t.label}</span>
-        ${ICONS[e.type] || ''}
+      <div class="thumb" style="${thumbStyle}">
+        <span class="badge" style="background:rgba(0,0,0,0.35)">${t.label}</span>
+        ${e.image_url ? '' : (ICONS[e.type] || '')}
       </div>
       <div class="info">
         <p class="title">${e.title}</p>

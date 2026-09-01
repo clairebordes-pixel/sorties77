@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "date": "2026-10-06",
+    "time": "",
+    "title": "Ateliers DJing",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/"
+  },
+  {
+    "date": "2027-03-05",
+    "time": "",
+    "title": "Elephanz",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/"
+  }
+]

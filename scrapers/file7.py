@@ -39,6 +39,7 @@ def scrape():
 
     html = fetch(URL)
     print(f"[diagnostic] taille de la page reçue : {len(html)} caractères")
+    print(f"[diagnostic] contenu reçu :\n{html[:1500]}")
     soup = BeautifulSoup(html, "html.parser")
     blocs = soup.select(".bloc_show")
     print(f"[diagnostic] nombre de .bloc_show trouvés : {len(blocs)}")

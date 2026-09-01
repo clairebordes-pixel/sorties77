@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sorties 77</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F8F3E9;
+    --card:#FFFFFF;
+    --ink:#1B1626;
+    --muted:#786F86;
+    --line: rgba(27,22,38,0.09);
+
+    --indigo:#4F3CC9;
+    --indigo-deep:#2E2170;
+    --indigo-bg:#EAE6FB;
+
+    --coral:#FF5A45;
+    --coral-deep:#B23422;
+    --coral-bg:#FFE3DE;
+
+    --amber:#FFB627;
+    --amber-deep:#8A5A05;
+    --amber-bg:#FFF1D2;
+
+    --teal:#20B2A0;
+    --teal-deep:#0D6E60;
+    --teal-bg:#D9F5F0;
+
+    --pink:#FF4FA0;
+    --pink-deep:#A82A6C;
+    --pink-bg:#FFE1F1;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter', sans-serif;
+  }
+  .wrap{max-width:1080px;margin:0 auto;padding:0 1.75rem 4rem;}
+
+  /* NAV */
+  nav{
+    display:flex;align-items:center;justify-content:space-between;
+    padding:1.5rem 0;
+  }
+  .logo{
+    font-family:'Unbounded', sans-serif;
+    font-weight:800;
+    font-size:22px;
+    color:var(--indigo-deep);
+    letter-spacing:-0.01em;
+  }
+  .logo span{color:var(--coral);}
+  .navlinks{display:flex;gap:1.75rem;font-size:14px;font-weight:600;color:var(--ink);}
+
+  /* HERO */
+  .hero{
+    display:grid;
+    grid-template-columns:1.1fr 0.9fr;
+    gap:2rem;
+    align-items:center;
+    padding:1.5rem 0 2.5rem;
+  }
+  .hero h1{
+    font-family:'Unbounded', sans-serif;
+    font-weight:700;
+    font-size:40px;
+    line-height:1.08;
+    margin:0 0 0.9rem;
+    color:var(--ink);
+  }
+  .hero h1 .accent{color:var(--coral);}
+  .hero p{font-size:15px;color:var(--muted);margin:0 0 1.5rem;max-width:38ch;}
+
+  .hero-visual{
+    height:230px;
+    border-radius:28px;
+    background:
+      radial-gradient(circle at 30% 30%, rgba(255,255,255,0.35), transparent 45%),
+      linear-gradient(135deg, var(--indigo), var(--pink) 60%, var(--coral));
+    position:relative;
+    overflow:hidden;
+  }
+  .hero-visual .blob{
+    position:absolute; border-radius:50%;
+    background:rgba(255,255,255,0.16);
+  }
+  .hero-visual .b1{width:150px;height:150px; top:-40px; right:-30px;}
+  .hero-visual .b2{width:90px;height:90px; bottom:-20px; left:20px;}
+  .hero-visual .label{
+    position:absolute; bottom:1.1rem; left:1.2rem;
+    color:#fff; font-family:'Unbounded',sans-serif; font-weight:700; font-size:15px;
+  }
+
+  .searchbar{
+    display:flex;
+    align-items:stretch;
+    background:var(--card);
+    border-radius:18px;
+    border:2px solid var(--line);
+    box-shadow:0 10px 24px rgba(27,22,38,0.06);
+    overflow:hidden;
+  }
+  .searchbar input[type=text]{
+    flex:1;
+    border:none;
+    padding:1rem 1.1rem;
+    font-family:inherit;
+    font-size:14px;
+    background:transparent;
+    color:var(--ink);
+  }
+  .searchbar input:focus{outline:none;}
+  .searchbar select{
+    border:none;
+    border-left:1px solid var(--line);
+    background:transparent;
+    font-family:inherit;
+    font-size:14px;
+    color:var(--ink);
+    padding:0 0.9rem;
+  }
+  .searchbar button{
+    border:none;
+    background:var(--indigo);
+    color:#fff;
+    font-family:inherit;
+    font-weight:600;
+    font-size:14px;
+    padding:0 1.5rem;
+    cursor:pointer;
+  }
+  .searchbar button:hover{background:var(--indigo-deep);}
+
+  /* SECTION HEADINGS */
+  .section-head{
+    display:flex;align-items:center;justify-content:space-between;
+    margin:2.5rem 0 1.1rem;
+  }
+  .section-head h2{
+    font-family:'Unbounded', sans-serif;
+    font-weight:700;
+    font-size:19px;
+    margin:0;
+    display:flex;align-items:center;gap:0.5rem;
+  }
+  .section-head h2::before{
+    content:"";
+    width:9px;height:9px;
+    background:var(--coral);
+    border-radius:3px;
+    transform:rotate(15deg);
+    display:inline-block;
+  }
+  .section-head a{font-size:13px;font-weight:600;color:var(--indigo);text-decoration:none;}
+
+  /* CATEGORY PILLS */
+  .categories{
+    display:flex;gap:1.5rem;flex-wrap:wrap;
+    margin-top:0.5rem;
+  }
+  .cat{
+    display:flex;flex-direction:column;align-items:center;
+    gap:0.5rem;
+    cursor:pointer;
+    width:88px;
+    text-align:center;
+  }
+  .cat .circle{
+    width:60px;height:60px;border-radius:50%;
+    display:flex;align-items:center;justify-content:center;
+    color:#fff;
+  }
+  .cat .circle svg{width:26px;height:26px;}
+  .cat span{font-size:12.5px;font-weight:600;}
+  .cat.active .circle{outline:3px solid var(--ink);outline-offset:2px;}
+
+  /* CALENDAR (déplié sur clic date) */
+  .cal-wrap{display:none;margin-top:1rem;}
+  .cal-wrap.open{display:block;}
+  .cal-card{
+    background:var(--card);
+    border-radius:20px;
+    border:2px solid var(--line);
+    padding:1.25rem 1.4rem 1.5rem;
+  }
+  .cal-nav{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;}
+  .cal-nav h3{font-family:'Unbounded',sans-serif;font-weight:600;font-size:16px;margin:0;text-transform:capitalize;color:var(--indigo-deep);}
+  .navbtn{
+    width:30px;height:30px;border-radius:9px;border:2px solid var(--line);
+    background:var(--card);font-size:15px;font-weight:600;color:var(--indigo-deep);
+    cursor:pointer;display:flex;align-items:center;justify-content:center;
+  }
+  .navbtn:hover{background:var(--indigo-bg);}
+  .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;}
+  .cal-dow{text-align:center;font-size:10.5px;font-weight:600;color:var(--muted);padding-bottom:4px;}
+  .cal-day{
+    aspect-ratio:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+    border-radius:10px;font-size:12.5px;font-weight:500;cursor:pointer;color:var(--ink);
+  }
+  .cal-day.pad{visibility:hidden;cursor:default;}
+  .cal-day:hover{background:var(--indigo-bg);}
+  .cal-day.has-event{font-weight:700;}
+  .cal-day .dot{width:5px;height:5px;border-radius:50%;background:var(--coral);margin-top:2px;}
+  .cal-day.selected{background:var(--indigo);color:#fff;}
+  .cal-day.selected .dot{background:#fff;}
+
+  .selected-bar{display:flex;align-items:center;gap:0.6rem;margin:1rem 0 0.2rem;}
+  .selected-bar .pill{
+    font-size:13px;font-weight:600;background:var(--indigo);color:#fff;
+    padding:0.35rem 0.85rem;border-radius:99px;
+  }
+  .selected-bar button{
+    font-family:inherit;font-size:13px;font-weight:600;color:var(--coral-deep);
+    background:none;border:none;cursor:pointer;text-decoration:underline;
+  }
+
+  /* CARDS GRID */
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(4, 1fr);
+    gap:1.1rem;
+  }
+  .card{
+    background:var(--card);
+    border-radius:18px;
+    border:2px solid var(--line);
+    overflow:hidden;
+    display:flex;flex-direction:column;
+  }
+  .thumb{
+    height:110px;
+    position:relative;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .thumb svg{width:34px;height:34px;color:rgba(255,255,255,0.9);}
+  .badge{
+    position:absolute; top:0.6rem; left:0.6rem;
+    font-size:10.5px;font-weight:700;letter-spacing:0.02em;text-transform:uppercase;
+    padding:0.25rem 0.6rem;border-radius:99px;color:#fff;
+  }
+  .card .info{padding:0.85rem 0.95rem 1rem;flex:1;display:flex;flex-direction:column;}
+  .card .title{
+    font-weight:700;font-size:14px;margin:0 0 0.5rem;line-height:1.25;
+    min-height:2.4em;
+  }
+  .card .meta{
+    font-size:12.5px;color:var(--muted);
+    display:flex;align-items:center;gap:0.35rem;
+    margin-bottom:0.25rem;
+  }
+  .card .venue{margin-top:auto;padding-top:0.5rem;font-size:12.5px;font-weight:600;color:var(--indigo-deep);}
+
+  .empty{grid-column:1/-1;padding:3rem 0;text-align:center;color:var(--muted);font-size:14px;}
+
+  footer{
+    margin-top:3rem;padding-top:1.75rem;border-top:2px solid var(--line);
+    font-size:13px;color:var(--muted);line-height:1.6;
+  }
+  footer b{color:var(--ink);}
+
+  @media (max-width: 800px){
+    .hero{grid-template-columns:1fr;}
+    .hero h1{font-size:32px;}
+    .grid{grid-template-columns:repeat(2,1fr);}
+    .searchbar{flex-wrap:wrap;}
+    .searchbar select{border-left:none;border-top:1px solid var(--line);}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <nav>
+    <div class="logo">SORTIES<span> 77</span></div>
+    <div class="navlinks"><span>Explorer</span><span>Favoris</span></div>
+  </nav>
+
+  <div class="hero">
+    <div>
+      <h1>QU'EST-CE QU'ON<br>FAIT <span class="accent">CE MOIS-CI ?</span></h1>
+      <p>Tous les spectacles et concerts des salles autour de chez toi, en Seine-et-Marne.</p>
+      <div class="searchbar">
+        <input type="text" id="search" placeholder="Concert, théâtre, cirque…">
+        <select id="villeSelect"><option value="toutes">Toutes les villes</option></select>
+        <button id="dateToggle">📅 Choisir une date</button>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="blob b1"></div>
+      <div class="blob b2"></div>
+      <div class="label">77 · Marne-la-Vallée & alentours</div>
+    </div>
+  </div>
+
+  <div class="section-head"><h2>Explorer par catégorie</h2></div>
+  <div class="categories" id="categories"></div>
+
+  <div class="cal-wrap" id="calWrap">
+    <div class="cal-card">
+      <div class="cal-nav">
+        <button class="navbtn" id="prevMonth">‹</button>
+        <h3 id="monthLabel"></h3>
+        <button class="navbtn" id="nextMonth">›</button>
+      </div>
+      <div class="cal-grid" id="calGrid"></div>
+    </div>
+  </div>
+
+  <div class="selected-bar" id="selectedBar" style="display:none;">
+    <span class="pill" id="selectedPill"></span>
+    <button id="clearDate">réinitialiser</button>
+  </div>
+
+  <div class="section-head"><h2>Événements</h2><span id="count" style="font-size:13px;color:var(--muted);"></span></div>
+  <div class="grid" id="list"></div>
+
+  <footer>
+    <p><b>Sources agrégées :</b> Les Cuizines (Chelles), File7 (Magny-le-Hongre), La Courée (Collégien), Le Millésime (Montévrain), Ferme du Buisson (Noisiel), Auditorium Jean-Cocteau (Noisiel), Ferme des Communes (Serris), La Sucrerie et Théâtre municipal (Coulommiers).</p>
+    <p>Prototype personnel — données saisies manuellement, mise à jour automatique à venir.</p>
+  </footer>
+
+</div>
+
+<script>
+const fallbackEvents = [
+  {date:"2026-09-04", time:"19h00", title:"Victor Hugoat", type:"concert", venue:"Ferme des Communes", city:"Serris"},
+  {date:"2026-09-10", time:"20h00", title:"Jovany & Le Dernier Saltimbanque", type:"saison", venue:"La Sucrerie", city:"Coulommiers"},
+  {date:"2026-09-11", time:"", title:"Bakana (jusqu'au 27/09)", type:"cirque", venue:"Ferme du Buisson", city:"Noisiel"},
+  {date:"2026-09-18", time:"20h30", title:"Smile", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-09-19", time:"", title:"Jam Session", type:"concert", venue:"Les Cuizines", city:"Chelles"},
+  {date:"2026-09-19", time:"09h00", title:"Écoute de prog' au marché", type:"spectacle", venue:"File7", city:"Magny-le-Hongre"},
+  {date:"2026-09-19", time:"21h00", title:"Marine Leonardi — Mauvaise Graine", type:"spectacle", venue:"Ferme des Communes", city:"Serris"},
+  {date:"2026-09-20", time:"14h00", title:"Dans les Backstages", type:"spectacle", venue:"File7", city:"Magny-le-Hongre"},
+  {date:"2026-09-23", time:"20h30", title:"Verino", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-09-25", time:"", title:"Alex Montembault + Amouë", type:"concert", venue:"Les Cuizines", city:"Chelles"},
+  {date:"2026-09-25", time:"20h30", title:"Sortez-moi de là !", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-09-25", time:"20h30", title:"Épopée Américaine", type:"concert", venue:"Théâtre municipal", city:"Coulommiers"},
+  {date:"2026-09-25", time:"", title:"En attendant le grand soir (2 jours)", type:"cirque", venue:"Ferme du Buisson", city:"Noisiel"},
+  {date:"2026-09-26", time:"16h00", title:"Anniversaire de la Courée", type:"spectacle", venue:"La Courée", city:"Collégien"},
+  {date:"2026-09-26", time:"20h00", title:"Ebony + Tessa Galli", type:"concert", venue:"File7", city:"Magny-le-Hongre"},
+  {date:"2026-09-27", time:"", title:"Mélange 2 temps", type:"saison", venue:"Auditorium Jean-Cocteau", city:"Noisiel"},
+  {date:"2026-09-27", time:"", title:"Alf & Orel", type:"concert", venue:"Les Cuizines", city:"Chelles"},
+  {date:"2026-09-30", time:"", title:"Masterclass guitare — Gabriel Gosse", type:"atelier", venue:"Les Cuizines", city:"Chelles"},
+
+  {date:"2026-10-10", time:"20h30", title:"José Cruz", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-10-11", time:"16h00", title:"Ma femme, la tienne, la nôtre", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+
+  {date:"2026-11-05", time:"20h30", title:"La Fontaine", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-11-06", time:"20h30", title:"Giorgio le mentaliste", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-11-14", time:"20h30", title:"Linh", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-11-20", time:"20h30", title:"The Opera Locos", type:"concert", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-11-22", time:"11h00", title:"Mon premier opéra", type:"concert", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-11-27", time:"20h30", title:"Coup de bluff", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2026-11-29", time:"16h00", title:"Les parents viennent de mars (chez maman)", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+
+  {date:"2026-12-19", time:"20h30", title:"Gospel Fire", type:"concert", venue:"Le Millésime", city:"Montévrain"},
+
+  {date:"2027-01-22", time:"20h30", title:"The French Twins", type:"concert", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-01-23", time:"20h30", title:"Elles pardonnent mais n'oublient jamais", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-01-29", time:"20h30", title:"Appelez-moi Walt", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+
+  {date:"2027-02-26", time:"20h30", title:"Mahé", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-02-27", time:"20h30", title:"Le Cid", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+
+  {date:"2027-03-12", time:"20h30", title:"L'art du couple", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-03-14", time:"11h00", title:"Rémi — ma guitare à tiroirs", type:"concert", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-03-19", time:"20h30", title:"Balavoine, hommage", type:"concert", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-03-27", time:"18h30", title:"Zélie la pirate", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+
+  {date:"2027-04-02", time:"20h30", title:"John Sulo", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-04-16", time:"20h30", title:"Zack et Stan", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-04-24", time:"20h30", title:"L'affaire est dans le sac", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-04-30", time:"20h30", title:"No One Is Innocent", type:"concert", venue:"Le Millésime", city:"Montévrain"},
+
+  {date:"2027-05-13", time:"20h30", title:"Manu Lanvin", type:"concert", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-05-21", time:"20h30", title:"Karine Dubernet", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+  {date:"2027-05-22", time:"20h30", title:"En panne de toi", type:"spectacle", venue:"Le Millésime", city:"Montévrain"},
+];
+
+const TYPES = {
+  concert:   {label:"Concert",    color:"var(--coral)",  colorDeep:"var(--coral-deep)"},
+  cirque:    {label:"Cirque",     color:"var(--teal)",   colorDeep:"var(--teal-deep)"},
+  saison:    {label:"Ouverture",  color:"var(--amber)",  colorDeep:"var(--amber-deep)"},
+  atelier:   {label:"Atelier",    color:"var(--indigo)", colorDeep:"var(--indigo-deep)"},
+  spectacle: {label:"Spectacle",  color:"var(--pink)",   colorDeep:"var(--pink-deep)"},
+};
+
+const ICONS = {
+  concert: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>',
+  cirque: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21c3-6 6-9 9-9s6 3 9 9"/><circle cx="12" cy="7" r="4"/></svg>',
+  saison: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.4 6.8L21 11l-6.6 2.2L12 20l-2.4-6.8L3 11l6.6-2.2z"/></svg>',
+  atelier: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2l-9 9 5 5 9-9zM5 16l-2 5 5-2"/></svg>',
+  spectacle: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 13a8 8 0 1 1 16 0v6H4z"/><path d="M2 21h20"/></svg>',
+};
+
+const dows = ["lun","mar","mer","jeu","ven","sam","dim"];
+const monthNames = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
+
+let events = [];
+let usingFallback = false;
+let activeType = "toutes";
+let activeVille = "toutes";
+let query = "";
+let selectedDate = null;
+let viewYear = 2026, viewMonth = 8;
+
+function populateVilleSelect(){
+  const villes = [...new Set(events.map(e => e.city))].sort();
+  const villeSelect = document.getElementById('villeSelect');
+  villeSelect.innerHTML = '<option value="toutes">Toutes les villes</option>';
+  villes.forEach(v => {
+    const opt = document.createElement('option');
+    opt.value = v; opt.textContent = v;
+    villeSelect.appendChild(opt);
+  });
+}
+document.getElementById('villeSelect').addEventListener('change', e => { activeVille = e.target.value; render(); });
+document.getElementById('search').addEventListener('input', e => { query = e.target.value; render(); });
+
+function showDataBanner(){
+  const banner = document.createElement('div');
+  banner.style.cssText = "background:var(--amber-bg);color:var(--amber-deep);padding:0.6rem 1rem;border-radius:12px;font-size:13px;font-weight:600;margin-bottom:1rem;";
+  banner.textContent = usingFallback
+    ? "⚠️ events.json introuvable — affichage des données de démonstration."
+    : "✅ Données chargées depuis events.json (scraper automatique).";
+  document.querySelector('.wrap').insertBefore(banner, document.querySelector('.hero').nextSibling);
+}
+
+async function loadEvents(){
+  try {
+    const res = await fetch('output/events.json', {cache: "no-store"});
+    if(!res.ok) throw new Error("fichier non trouvé");
+    const data = await res.json();
+    if(!Array.isArray(data) || data.length === 0) throw new Error("fichier vide");
+    events = data;
+  } catch (err){
+    console.warn("Impossible de charger events.json, repli sur les données de démo :", err);
+    events = fallbackEvents;
+    usingFallback = true;
+  }
+  populateVilleSelect();
+  showDataBanner();
+  buildCategories();
+  buildCalendar();
+  render();
+}
+
+// categories
+function buildCategories(){
+  const el = document.getElementById('categories');
+  el.innerHTML = "";
+  Object.keys(TYPES).forEach(key => {
+    const t = TYPES[key];
+    const div = document.createElement('div');
+    div.className = 'cat';
+    div.innerHTML = `<div class="circle" style="background:${t.color}">${ICONS[key]}</div><span>${t.label}</span>`;
+    div.onclick = () => {
+      activeType = (activeType === key) ? 'toutes' : key;
+      buildCategories();
+      render();
+    };
+    if(activeType === key) div.classList.add('active');
+    el.appendChild(div);
+  });
+}
+
+// calendar
+document.getElementById('dateToggle').addEventListener('click', () => {
+  document.getElementById('calWrap').classList.toggle('open');
+});
+
+function pad(n){ return n < 10 ? '0'+n : ''+n; }
+function eventsOn(dateStr){ return events.filter(e => e.date === dateStr); }
+
+function buildCalendar(){
+  document.getElementById('monthLabel').textContent = monthNames[viewMonth] + ' ' + viewYear;
+  const grid = document.getElementById('calGrid');
+  grid.innerHTML = "";
+  dows.forEach(d => {
+    const el = document.createElement('div');
+    el.className = 'cal-dow'; el.textContent = d;
+    grid.appendChild(el);
+  });
+  const first = new Date(viewYear, viewMonth, 1);
+  let startPad = first.getDay() - 1; if(startPad < 0) startPad = 6;
+  const daysInMonth = new Date(viewYear, viewMonth + 1, 0).getDate();
+  const todayStr = new Date().toISOString().slice(0,10);
+
+  for(let i=0;i<startPad;i++){
+    const p = document.createElement('div'); p.className = 'cal-day pad';
+    grid.appendChild(p);
+  }
+  for(let day=1; day<=daysInMonth; day++){
+    const dateStr = `${viewYear}-${pad(viewMonth+1)}-${pad(day)}`;
+    const dayEl = document.createElement('div');
+    dayEl.className = 'cal-day';
+    const has = eventsOn(dateStr).length > 0;
+    if(has) dayEl.classList.add('has-event');
+    if(dateStr === selectedDate) dayEl.classList.add('selected');
+    dayEl.innerHTML = `<span>${day}</span>${has ? '<span class="dot"></span>' : ''}`;
+    dayEl.onclick = () => {
+      selectedDate = (selectedDate === dateStr) ? null : dateStr;
+      buildCalendar(); render();
+    };
+    grid.appendChild(dayEl);
+  }
+}
+document.getElementById('prevMonth').onclick = () => { viewMonth--; if(viewMonth<0){viewMonth=11;viewYear--;} buildCalendar(); };
+document.getElementById('nextMonth').onclick = () => { viewMonth++; if(viewMonth>11){viewMonth=0;viewYear++;} buildCalendar(); };
+document.getElementById('clearDate').onclick = () => { selectedDate = null; buildCalendar(); render(); };
+
+function render(){
+  const list = document.getElementById('list');
+  const bar = document.getElementById('selectedBar');
+  list.innerHTML = "";
+
+  let filtered = events.filter(e => {
+    const mVille = activeVille === 'toutes' || e.city === activeVille;
+    const mType = activeType === 'toutes' || e.type === activeType;
+    const q = query.trim().toLowerCase();
+    const mQuery = !q || (e.title + e.venue + e.city).toLowerCase().includes(q);
+    const mDate = !selectedDate || e.date === selectedDate;
+    return mVille && mType && mQuery && mDate;
+  });
+
+  document.getElementById('count').textContent = filtered.length + (filtered.length > 1 ? ' événements' : ' événement');
+
+  if(selectedDate){
+    bar.style.display = 'flex';
+    const d = new Date(selectedDate + "T00:00:00");
+    document.getElementById('selectedPill').textContent = d.toLocaleDateString('fr-FR', {weekday:'long', day:'numeric', month:'long'});
+  } else {
+    bar.style.display = 'none';
+  }
+
+  if(filtered.length === 0){
+    list.innerHTML = '<div class="empty">Aucun événement ne correspond à ta recherche.</div>';
+    return;
+  }
+
+  filtered.sort((a,b) => a.date.localeCompare(b.date));
+
+  filtered.forEach(e => {
+    const t = TYPES[e.type] || TYPES.spectacle;
+    const d = new Date(e.date + "T00:00:00");
+    const dateLabel = d.toLocaleDateString('fr-FR', {day:'numeric', month:'short'});
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="thumb" style="background:linear-gradient(135deg, ${t.color}, ${t.colorDeep})">
+        <span class="badge" style="background:rgba(0,0,0,0.28)">${t.label}</span>
+        ${ICONS[e.type] || ''}
+      </div>
+      <div class="info">
+        <p class="title">${e.title}</p>
+        <p class="meta">🗓️ ${dateLabel}${e.time ? ' · ' + e.time : ''}</p>
+        <p class="meta">📍 ${e.city}</p>
+        <p class="venue">${e.venue}</p>
+      </div>`;
+    list.appendChild(card);
+  });
+}
+
+loadEvents();
+</script>
+</body>
+</html>

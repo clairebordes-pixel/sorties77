@@ -1,99 +1,88 @@
 """
-Utilitaires partagés par tous les scrapers du projet Sorties 77.
+Scraper pour Les Cuizines — Chelles.
+Page cible : https://www.lescuizines.fr/events/
+
+Structure réelle observée (inspectée le 31/08/2026) :
+
+  <div class="row">
+    <div class="col-lg-3 col-md-3 col-xs-4 agenda-item">
+      <div class="label-event">Scène ouverte</div>       <- catégorie
+      <div class="image">
+        <a href="https://www.lescuizines.fr/events/jam-britpop/">
+          <img src="....jpg">
+        </a>
+      </div>
+      <div class="agenda-groupe">...</div>                <- probablement le titre
+      <div class="agenda-secondgroupe">...</div>          <- sous-titre / infos
+      <div class="agenda-date-texte">Samedi 19 septembre 2026</div>
+    </div>
+    ...
+  </div>
+
+Le titre exact (agenda-groupe) reste à confirmer — en attendant, on utilise
+le slug de l'URL de l'événement comme titre de secours si agenda-groupe est
+vide.
 """
-import json
 import re
-from dataclasses import dataclass, asdict
+import sys
 from pathlib import Path
 
-import requests
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+from common import Event, fetch, parse_date_fr, parse_time_fr, write_events
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-    "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Sec-Fetch-Dest": "document",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Site": "none",
-    "Referer": "https://www.google.com/",
-}
-
-MOIS = {
-    "janv": "01", "janvier": "01",
-    "fev": "02", "févr": "02", "fevrier": "02", "février": "02",
-    "mars": "03",
-    "avr": "04", "avril": "04",
-    "mai": "05",
-    "juin": "06",
-    "juil": "07", "juillet": "07",
-    "aout": "08", "août": "08",
-    "sept": "09", "septembre": "09",
-    "oct": "10", "octobre": "10",
-    "nov": "11", "novembre": "11",
-    "dec": "12", "déc": "12", "decembre": "12", "décembre": "12",
-}
-
-# Repère "18 sept.26" / "18 septembre 2026" / "18 sept 2026" dans un texte
-DATE_RE = re.compile(
-    r"(\d{1,2})\s*(janv\.?|f[ée]vr?\.?|mars|avr\.?|mai|juin|juil\.?|ao[uû]t|"
-    r"sept\.?|oct\.?|nov\.?|d[ée]c\.?)\.?\s*'?(\d{2,4})",
-    re.IGNORECASE,
-)
-TIME_RE = re.compile(r"(\d{1,2})[h:](\d{2})?")
+URL = "https://www.lescuizines.fr/events/"
 
 
-@dataclass
-class Event:
-    date: str          # YYYY-MM-DD
-    time: str          # "20h30" ou ""
-    title: str
-    type: str          # concert | cirque | saison | autre
-    venue: str
-    city: str
-    source_url: str = ""
+def _title_from_slug(href: str) -> str:
+    slug = href.rstrip("/").split("/")[-1]
+    slug = re.sub(r"[-_]+", " ", slug).strip()
+    return slug.title() if slug else "Événement"
 
 
-def parse_date_fr(text: str, default_year: int = 2026):
-    """Essaie d'extraire une date YYYY-MM-DD d'un fragment de texte français."""
-    m = DATE_RE.search(text)
-    if not m:
-        return None
-    day, mon_raw, year = m.groups()
-    mon_key = mon_raw.lower().replace(".", "").rstrip("é")
-    month = None
-    for k, v in MOIS.items():
-        if mon_raw.lower().replace(".", "").startswith(k[:4]):
-            month = v
-            break
-    if not month:
-        return None
-    year = int(year)
-    if year < 100:
-        year += 2000
-    return f"{year:04d}-{month}-{int(day):02d}"
+def scrape():
+    from bs4 import BeautifulSoup
+
+    html = fetch(URL)
+    soup = BeautifulSoup(html, "html.parser")
+    events = []
+
+    for item in soup.select(".agenda-item"):
+        date_tag = item.select_one(".agenda-date-texte")
+        if not date_tag:
+            continue
+        date = parse_date_fr(date_tag.get_text(strip=True))
+        if not date:
+            continue
+        time = parse_time_fr(item.get_text(" ", strip=True))
+
+        category_tag = item.select_one(".label-event")
+        category = category_tag.get_text(strip=True) if category_tag else ""
+
+        # Titre : d'abord agenda-groupe, sinon le slug du lien
+        title = ""
+        groupe_tag = item.select_one(".agenda-groupe")
+        if groupe_tag:
+            title = groupe_tag.get_text(strip=True)
+        if not title:
+            link = item.select_one("a[href]")
+            if link:
+                title = _title_from_slug(link["href"])
+        if not title:
+            title = category or "Événement"
+
+        events.append(
+            Event(
+                date=date,
+                time=time,
+                title=title,
+                type="concert",
+                venue="Les Cuizines",
+                city="Chelles",
+                source_url=URL,
+            )
+        )
+    return events
 
 
-def parse_time_fr(text: str):
-    m = TIME_RE.search(text)
-    if not m:
-        return ""
-    h, mn = m.groups()
-    return f"{int(h)}h{mn or '00'}"
-
-
-def fetch(url: str, timeout=15) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=timeout)
-    r.raise_for_status()
-    r.encoding = r.apparent_encoding
-    return r.text
-
-
-def write_events(events, out_path: str):
-    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump([asdict(e) for e in events], f, ensure_ascii=False, indent=2)
-    print(f"-> {len(events)} événements écrits dans {out_path}")
+if __name__ == "__main__":
+    write_events(scrape(), "output/lescuizines.json")

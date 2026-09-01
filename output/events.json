@@ -141,6 +141,16 @@
   },
   {
     "date": "2026-10-09",
+    "time": "",
+    "title": "Spectacle – Héros Balavoine",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-heros-balavoine/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2026-10-09",
     "time": "20h00",
     "title": "Soirées Fan Club : TEDAAK+Jasmine not Jafar",
     "type": "concert",
@@ -158,6 +168,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/bukowski-odc/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/05/SITE-250x250.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "",
+    "title": "Spectacle – Baptiste Trotignon Trio",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-baptiste-trotignon-trio/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
   },
   {
     "date": "2026-10-10",
@@ -238,6 +258,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/joe-bel-elias-dris/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/V1-OK-Sarah-Balladere-scaled-e1780415657205-250x250.jpg"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "",
+    "title": "Spectacle – Pablo Mira",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-pablo-mira-2/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
   },
   {
     "date": "2026-11-13",
@@ -360,6 +390,16 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/TIC_PRESS_2_PHOTO_cCyrilleVidal-250x250.jpg"
   },
   {
+    "date": "2026-12-16",
+    "time": "",
+    "title": "Spectacle – Le Trésor des Jouets",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-le-tresor-des-jouets/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
     "date": "2026-12-19",
     "time": "",
     "title": "Lutherie niv. 2",
@@ -372,12 +412,32 @@
   {
     "date": "2027-01-15",
     "time": "",
+    "title": "Spectacle – Le Manuel de la jeune mariée 1957",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-le-manuel-de-la-jeune-mariee-1957/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2027-01-15",
+    "time": "",
     "title": "Yael Naim",
     "type": "concert",
     "venue": "Les Cuizines",
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/yael-naim/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/yael-naim-c-dr-scaled-2048x2048-1-250x250.jpg"
+  },
+  {
+    "date": "2027-01-30",
+    "time": "",
+    "title": "Concert – AJC Urban Vibes",
+    "type": "concert",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/concert-ajc-urban-vibes/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
   },
   {
     "date": "2027-02-05",
@@ -402,6 +462,16 @@
   {
     "date": "2027-03-05",
     "time": "",
+    "title": "Théâtre – L’Invitation",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/theatre-linvitation/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2027-03-05",
+    "time": "",
     "title": "Elephanz",
     "type": "concert",
     "venue": "Les Cuizines",
@@ -418,5 +488,65 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/06-03-2027-20h00-zelie.html",
     "image_url": "https://www.file7.com/wmedias/original/zzz_-_ZELIE-440x340.png"
+  },
+  {
+    "date": "2027-03-20",
+    "time": "",
+    "title": "Concert – Kitty Rock Show",
+    "type": "concert",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/concert-kitty-rock-show/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2027-04-25",
+    "time": "",
+    "title": "Magie, mentalisme – Mathieu Stepson",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/magie-mentalisme-mathieu-stepson/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2027-05-28",
+    "time": "",
+    "title": "Spectacle – Blandine Lehout",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-blandine-lehout/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2027-06-19",
+    "time": "",
+    "title": "Fête de la musique",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/fete-de-la-musique/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2027-06-26",
+    "time": "",
+    "title": "Théâtre – Chérie, j’ai pris le pain !",
+    "type": "spectacle",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/theatre-cherie-jai-pris-le-pain/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2098-86-51",
+    "time": "",
+    "title": "Ateliers d’Éveil musical 0-3 ans",
+    "type": "atelier",
+    "venue": "Centre Culturel",
+    "city": "Saint-Thibault-des-Vignes",
+    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/ateliers-deveil-musical-0-3-ans/",
+    "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20704'%2F%3E"
   }
 ]

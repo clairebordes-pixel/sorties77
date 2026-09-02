@@ -61,6 +61,16 @@
   },
   {
     "date": "2026-09-27",
+    "time": "15h00",
+    "title": "Reserver Sherlock Holmes Et Le Signe Des Quatre",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
+    "date": "2026-09-27",
     "time": "",
     "title": "Alf & Orel",
     "type": "concert",
@@ -200,6 +210,16 @@
     "image_url": "https://www.file7.com/wmedias/original/CAMILLE_YEMBE_-_JNLAJDAP_-_PHOTO1_-_cAlexis_Vassiviere-440x340.jpg"
   },
   {
+    "date": "2026-10-14",
+    "time": "14h30",
+    "title": "Reserver La Ferme Des Animaux",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
     "date": "2026-10-16",
     "time": "",
     "title": "FEEL + Ruthee",
@@ -300,6 +320,26 @@
     "image_url": "https://www.file7.com/wmedias/original/pexels-lstan-2147029-440x340.jpg"
   },
   {
+    "date": "2026-11-14",
+    "time": "20h30",
+    "title": "Reserver Le Cirque Des Mirages",
+    "type": "cirque",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-18",
+    "time": "14h30",
+    "title": "Reserver Le Garçon De Toutes Les Couleurs",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
     "date": "2026-11-19",
     "time": "14h30",
     "title": "Super Week-end Kidz : Orel, Octave & Mélodie - séance scolaire",
@@ -360,6 +400,16 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/staff-ElisaCiavaldini1-250x250.jpg"
   },
   {
+    "date": "2026-12-02",
+    "time": "18h00",
+    "title": "Reserver Atelier Frères",
+    "type": "atelier",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
     "date": "2026-12-04",
     "time": "20h00",
     "title": "2L+Juste Shani",
@@ -368,6 +418,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/04-12-2026-20h00-2l-juste-shani.html",
     "image_url": "https://www.file7.com/wmedias/original/zz_-_2L_JUSTE_SHANI-440x340.png"
+  },
+  {
+    "date": "2026-12-04",
+    "time": "20h30",
+    "title": "Reserver Frères",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
   },
   {
     "date": "2026-12-05",
@@ -430,6 +490,26 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/yael-naim-c-dr-scaled-2048x2048-1-250x250.jpg"
   },
   {
+    "date": "2027-01-17",
+    "time": "15h00",
+    "title": "Reserver Carmen",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-29",
+    "time": "20h30",
+    "title": "Reserver Les Habitant-Es",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
     "date": "2027-01-30",
     "time": "",
     "title": "Concert – AJC Urban Vibes",
@@ -438,6 +518,26 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/concert-ajc-urban-vibes/",
     "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2027-02-03",
+    "time": "14h30",
+    "title": "Reserver Moustache Academy",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-04",
+    "time": "18h30",
+    "title": "Reserver Atelier Quel Que Soit Le Nom Des Absent-E-S",
+    "type": "atelier",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
   },
   {
     "date": "2027-02-05",
@@ -450,6 +550,16 @@
     "image_url": "https://www.file7.com/wmedias/original/zz_-_QUADAL_TEJAZ_-_MDNS_-_SITE-440x340.png"
   },
   {
+    "date": "2027-02-05",
+    "time": "",
+    "title": "Bilal Hassani",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/bilal-hassani/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/09/cTheo-Paul-Dufour-BD-e1788257028750-250x250.jpg"
+  },
+  {
     "date": "2027-02-06",
     "time": "20h00",
     "title": "Pony Pony Run Run",
@@ -458,6 +568,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/06-02-2027-20h00-pony-pony-run-run.html",
     "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ8-440x340.png"
+  },
+  {
+    "date": "2027-02-27",
+    "time": "20h30",
+    "title": "Reserver Quel Que Soit Le Nom Des Absent-E-S",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
   },
   {
     "date": "2027-03-05",
@@ -490,6 +610,26 @@
     "image_url": "https://www.file7.com/wmedias/original/zzz_-_ZELIE-440x340.png"
   },
   {
+    "date": "2027-03-13",
+    "time": "20h30",
+    "title": "Reserver L'Effet Papillon",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-19",
+    "time": "20h30",
+    "title": "Reserver Le Petit Prince",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
     "date": "2027-03-20",
     "time": "",
     "title": "Concert – Kitty Rock Show",
@@ -498,6 +638,46 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/concert-kitty-rock-show/",
     "image_url": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20470%20705'%2F%3E"
+  },
+  {
+    "date": "2027-03-24",
+    "time": "18h30",
+    "title": "Reserver Atelier Heppines Is Cheap",
+    "type": "atelier",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-26",
+    "time": "20h30",
+    "title": "Reserver Heppines Is Cheap",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-04",
+    "time": "14h30",
+    "title": "Reserver Into The Woods",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-24",
+    "time": "20h30",
+    "title": "Reserver Fils De Bâtard",
+    "type": "spectacle",
+    "venue": "La Ferme Corsange",
+    "city": "Bailly-Romainvilliers",
+    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
+    "image_url": ""
   },
   {
     "date": "2027-04-25",

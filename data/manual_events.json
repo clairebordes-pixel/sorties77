@@ -468,5 +468,85 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "20h30",
+    "title": "Tristan Pierre - Mélanjolie",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/tristan-pierre-melanjolie.jpg"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "",
+    "title": "Le Train de Noël (Dodo et Rémi)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/le-train-de-noel.jpg"
+  },
+  {
+    "date": "2027-01-16",
+    "time": "20h30",
+    "title": "Et si c'était elle (Franck Buirod)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/et-si-cetait-elle.jpg"
+  },
+  {
+    "date": "2027-02-06",
+    "time": "20h30",
+    "title": "Comedy Club (Louise Duck, Morgan Poitrat, Najim Ziani, Veuria)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/comedy-club-fevrier.jpg"
+  },
+  {
+    "date": "2027-03-06",
+    "time": "20h30",
+    "title": "Enzo Ricci - Quetzal",
+    "type": "concert",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/enzo-ricci-quetzal.jpg"
+  },
+  {
+    "date": "2027-03-20",
+    "time": "20h30",
+    "title": "Guillaume Guisset en spectacle",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/guillaume-guisset.jpg"
+  },
+  {
+    "date": "2027-04-24",
+    "time": "20h30",
+    "title": "Comedy Club (Robin Gomez, Super Baston, Méchante Coline, Axel Ramponi)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/comedy-club-avril.jpg"
+  },
+  {
+    "date": "2027-05-29",
+    "time": "20h30",
+    "title": "Lancelot",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/lancelot.jpg"
   }
 ]

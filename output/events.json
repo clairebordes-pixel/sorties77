@@ -1,16 +1,6 @@
 [
   {
     "date": "2026-09-11",
-    "time": "",
-    "title": "Bakana (jusqu'au 27/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/bakana",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNORGswIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--c193ddde06c0b4f842a6d4fa923f1c66b84b77f49187f1e8f9ab1533ee212266/4ee77634c5b1/fete-du-cirque-25-bakana-a-nicolas-bram-18-web.jpg"
-  },
-  {
-    "date": "2026-09-11",
     "time": "21h00",
     "title": "Leffet Papillon Taha Mansour Mentaliste",
     "type": "spectacle",
@@ -101,6 +91,16 @@
   },
   {
     "date": "2026-09-20",
+    "time": "17h00",
+    "title": "Gueules Noires",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-09-20",
     "time": "14h00",
     "title": "Dans les Backstages",
     "type": "concert",
@@ -152,16 +152,6 @@
   {
     "date": "2026-09-25",
     "time": "",
-    "title": "En attendant le grand soir (jusqu'au 26/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/en-attendant-le-grand-soir",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFF3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--29446e5576b4af005660d178cb70360124b45c7012417f3b1e85d3aa162812fe/f0d01d841a97/029_marc-ras_7822.jpg"
-  },
-  {
-    "date": "2026-09-25",
-    "time": "",
     "title": "Alex Montembault",
     "type": "concert",
     "venue": "Les Cuizines",
@@ -178,6 +168,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/comment-draguer-apres-50-ans/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/affiche-.png"
+  },
+  {
+    "date": "2026-09-26",
+    "time": "20h30",
+    "title": "Trash!",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-09-26",
@@ -281,16 +281,6 @@
   },
   {
     "date": "2026-10-02",
-    "time": "19h00",
-    "title": "Atelier Chant",
-    "type": "atelier",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/atelier-chant",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFl5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--fbcf67b8514dd0c5b3da8600844de9ad2df31f4bce3ca3e5a9bb5f566536e89a/2f79e20c631e/capture-d-ecran-2025-02-10-a-17-15-15.jpg"
-  },
-  {
-    "date": "2026-10-02",
     "time": "20h00",
     "title": "Jam Session",
     "type": "concert",
@@ -318,16 +308,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/delivrez-nous-du-male/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Affiche_ok_HQ-1.jpg"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "20h30",
-    "title": "La Beauté intérieure",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/la-beaute-interieur",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFU0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--e7e08bf2fcf6e172ad3ab58ec6ab9d4cd76d09f93d780067aea6c7afa85f36b2/5ee245e5cf01/_dsc2356.jpg"
   },
   {
     "date": "2026-10-03",
@@ -381,6 +361,16 @@
   },
   {
     "date": "2026-10-04",
+    "time": "15h00",
+    "title": "Mulan",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-04",
     "time": "10h30",
     "title": "Les Comptines De Capucine",
     "type": "spectacle",
@@ -398,6 +388,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/ateliers-djing-avec-arguel/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2024/07/djing-niveau-debutant-250x250.jpg"
+  },
+  {
+    "date": "2026-10-08",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-10-09",
@@ -451,43 +451,23 @@
   },
   {
     "date": "2026-10-10",
-    "time": "",
-    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Brandon Gercara (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "18h00",
-    "title": "Rêve parade",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
-  },
-  {
-    "date": "2026-10-10",
     "time": "20h30",
-    "title": "Khalil Epi",
-    "type": "concert",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
+    "title": "Le Procès d'une vie",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-10-10",
@@ -528,6 +508,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune-2/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
+  },
+  {
+    "date": "2026-10-14",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-10-14",
@@ -572,12 +562,12 @@
   {
     "date": "2026-10-16",
     "time": "20h30",
-    "title": "Prélude",
+    "title": "Arnaud Tsamère, Tous contraints",
     "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/prelude",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b9c63bda76359ccf5823df3818d558304bf1e0f9bb0852b6b5065dacbcf9c4a1/aaaa39298d78/carlos_fernandes1-copie.png"
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-10-16",
@@ -638,6 +628,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/bienvenue-a-trouillarde/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Capture-decran-2026-05-27-a-21.12.21.png"
+  },
+  {
+    "date": "2026-10-22",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-10-22",
@@ -741,6 +741,16 @@
   },
   {
     "date": "2026-11-05",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-05",
     "time": "21h00",
     "title": "Tony Saint Laurent Dans Efficace",
     "type": "spectacle",
@@ -771,6 +781,26 @@
   },
   {
     "date": "2026-11-07",
+    "time": "20h30",
+    "title": "Les Coquettes",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
     "time": "21h00",
     "title": "Paris Comedy Club",
     "type": "spectacle",
@@ -778,6 +808,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/paris-comedy-club-12/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2025/09/Capture-decran-2024-04-18-a-20.10.59-min.jpeg"
+  },
+  {
+    "date": "2026-11-12",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-11-12",
@@ -842,12 +882,32 @@
   {
     "date": "2026-11-15",
     "time": "17h00",
+    "title": "Une heure à t'attendre",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-15",
+    "time": "17h00",
     "title": "Ils Se Sont Aimes",
     "type": "spectacle",
     "venue": "We Welcome",
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/ils-se-sont-aimes/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/Affiche-Ils-se-sont-aimes-1-HD-2-scaled.jpg"
+  },
+  {
+    "date": "2026-11-18",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-11-18",
@@ -931,6 +991,16 @@
   },
   {
     "date": "2026-11-27",
+    "time": "20h30",
+    "title": "Le Chant des lions",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-27",
     "time": "20h00",
     "title": "Soirées Fan Club : ​Erotic Secrets of Pompeii+Lila Ehjä",
     "type": "concert",
@@ -990,6 +1060,16 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/site-ouai-stephane-elisa-do-brasil-250x250.png"
   },
   {
+    "date": "2026-12-10",
+    "time": "20h30",
+    "title": "L'Expérience théâtrale",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
     "date": "2026-12-11",
     "time": "",
     "title": "The Inspector Cluzo",
@@ -998,6 +1078,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/the-inspector-cluzo-2026/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/TIC_PRESS_2_PHOTO_cCyrilleVidal-250x250.jpg"
+  },
+  {
+    "date": "2026-12-13",
+    "time": "15h00",
+    "title": "Destination Noël",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2026-12-16",
@@ -1020,6 +1110,16 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/finalllllllllll-250x250.jpg"
   },
   {
+    "date": "2027-01-14",
+    "time": "20h30",
+    "title": "Tristan Lopin, Partez sans moi je vous rejoins",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
     "date": "2027-01-15",
     "time": "",
     "title": "Spectacle – Le Manuel de la jeune mariée 1957",
@@ -1040,6 +1140,16 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/yael-naim-c-dr-scaled-2048x2048-1-250x250.jpg"
   },
   {
+    "date": "2027-01-16",
+    "time": "19h30",
+    "title": "Back to Basics - Vol 4 (battle de danse)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
     "date": "2027-01-17",
     "time": "15h00",
     "title": "Carmen",
@@ -1048,6 +1158,16 @@
     "city": "Bailly-Romainvilliers",
     "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32812/images/20260608162515957.webp"
+  },
+  {
+    "date": "2027-01-21",
+    "time": "20h30",
+    "title": "Le Plateau de l'humour",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2027-01-29",
@@ -1081,6 +1201,16 @@
   },
   {
     "date": "2027-02-04",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-04",
     "time": "18h30",
     "title": "Atelier Quel Que Soit Le Nom Des Absent-E-S",
     "type": "atelier",
@@ -1088,6 +1218,16 @@
     "city": "Bailly-Romainvilliers",
     "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32823/images/20260608171330168.webp"
+  },
+  {
+    "date": "2027-02-05",
+    "time": "20h30",
+    "title": "Le Repas des fauves",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2027-02-05",
@@ -1120,6 +1260,56 @@
     "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ8-440x340.png"
   },
   {
+    "date": "2027-02-11",
+    "time": "20h30",
+    "title": "Giselle (Grand Ballet de Kiev)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-18",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-24",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-26",
+    "time": "20h30",
+    "title": "Le Dernier cèdre du Liban",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-27",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
     "date": "2027-02-27",
     "time": "20h30",
     "title": "Quel Que Soit Le Nom Des Absent-E-S",
@@ -1130,6 +1320,26 @@
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32818/images/20260610171235223.webp"
   },
   {
+    "date": "2027-02-28",
+    "time": "15h00",
+    "title": "Deux rien",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-04",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
     "date": "2027-03-05",
     "time": "",
     "title": "Théâtre – L’Invitation",
@@ -1138,6 +1348,16 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/theatre-linvitation/",
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270305-linvitation-spectacle26-27_Affiche-scaled-470x705.png"
+  },
+  {
+    "date": "2027-03-05",
+    "time": "20h30",
+    "title": "The Loop",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2027-03-05",
@@ -1160,6 +1380,16 @@
     "image_url": "https://www.file7.com/wmedias/original/zzz_-_ZELIE-440x340.png"
   },
   {
+    "date": "2027-03-12",
+    "time": "20h30",
+    "title": "Le Destin se moque des choix",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
     "date": "2027-03-13",
     "time": "20h30",
     "title": "L'Effet Papillon",
@@ -1168,6 +1398,16 @@
     "city": "Bailly-Romainvilliers",
     "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32819/images/20260608162652107.webp"
+  },
+  {
+    "date": "2027-03-18",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2027-03-19",
@@ -1191,6 +1431,16 @@
   },
   {
     "date": "2027-03-24",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-24",
     "time": "18h30",
     "title": "Atelier Heppines Is Cheap",
     "type": "atelier",
@@ -1198,6 +1448,16 @@
     "city": "Bailly-Romainvilliers",
     "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32822/images/20260610171926961.webp"
+  },
+  {
+    "date": "2027-03-26",
+    "time": "20h30",
+    "title": "Héritières",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2027-03-26",
@@ -1210,6 +1470,46 @@
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32821/images/20260608162608352.webp"
   },
   {
+    "date": "2027-03-27",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-28",
+    "time": "17h00",
+    "title": "Ciné-concert (Charlie Chaplin)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-01",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-02",
+    "time": "20h30",
+    "title": "Gérémy Crédeville, Enchanteur",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
     "date": "2027-04-04",
     "time": "14h30",
     "title": "Into The Woods",
@@ -1218,6 +1518,26 @@
     "city": "Bailly-Romainvilliers",
     "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32824/images/20260616160001627.webp"
+  },
+  {
+    "date": "2027-04-15",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-22",
+    "time": "20h30",
+    "title": "Juste Irena",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2027-04-24",
@@ -1238,6 +1558,66 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/magie-mentalisme-mathieu-stepson/",
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270425-MathieuStepson-spectacle26-27_Affiche-scaled-470x705.png"
+  },
+  {
+    "date": "2027-04-30",
+    "time": "20h30",
+    "title": "Marius",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-11",
+    "time": "20h30",
+    "title": "Yann Guillarme",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-12",
+    "time": "20h30",
+    "title": "Nordine Ganso",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-13",
+    "time": "20h30",
+    "title": "Ilyes Djadel",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-14",
+    "time": "20h30",
+    "title": "Paul de Saint-Sernin",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-15",
+    "time": "20h30",
+    "title": "Mahé",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
   },
   {
     "date": "2027-05-28",

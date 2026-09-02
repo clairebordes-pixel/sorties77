@@ -2,23 +2,30 @@
 Scraper pour We Welcome — Lagny-sur-Marne.
 Page cible : https://we-welcome.fr/programmation/
 
-Structure réelle observée : la page est organisée par mois, chaque mois
-étant un titre <h2> ("Septembre", "Octobre", ...), suivi d'une série de
-liens <a> dont le TEXTE encode la date complète, ex :
+Structure réelle observée (inspectée le 31/08/2026) :
 
+  <div class="month-title"><h2>Septembre</h2></div>
+  <div class="wewelcome-event-item default">
     <a href="https://we-welcome.fr/reservation/leffet-papillon-taha-mansour-mentaliste/">
-        11vendrediseptembre21:00
+      <div class="item-thumbnail" style="background-image: url(https://we-welcome.fr/wp-content/uploads/.../affiche.png);"></div>
+      <div class="item-content">
+        <div class="item-day">11</div>
+        <div class="item-day-month">
+          <div class="day">vendredi</div>
+          <div class="month">septembre</div>
+        </div>
+        <div class="item-hours"><span>21:00</span></div>
+      </div>
     </a>
+  </div>
 
-soit : jour (11) + jour de semaine (vendredi) + mois (septembre) + heure (21:00).
-Certains jours ont deux horaires collés (ex "10:3014:30") -> on crée un
-événement par horaire. Le titre du spectacle est reconstruit à partir du
-slug de l'URL (l'API HTML ne donne pas de titre affiché séparément à cet
-endroit).
+Il n'y a pas de titre affiché dans la carte elle-même : on le reconstruit
+à partir du slug de l'URL de réservation. Certains jours ont deux horaires
+(deux <span> dans .item-hours) -> un événement par horaire.
 
-L'année n'apparaît jamais dans le texte : on part de l'année en cours à la
-date d'exécution du script, et on l'incrémente si un mois "recule"
-(ex: Décembre -> Janvier) d'un titre de section au suivant.
+L'année n'est jamais indiquée : on part de l'année en cours à la date
+d'exécution du script, et on l'incrémente si un mois "recule" d'une
+section à la suivante (ex: Décembre -> Janvier).
 """
 import re
 import sys
@@ -31,19 +38,12 @@ from common import Event, fetch, write_events
 URL = "https://we-welcome.fr/programmation/"
 
 MOIS = {
-    "janvier": 1, "fevrier": 2, "février": 2, "mars": 3, "avril": 4,
-    "mai": 5, "juin": 6, "juillet": 7, "aout": 8, "août": 8,
-    "septembre": 9, "octobre": 10, "novembre": 11, "decembre": 12, "décembre": 12,
+    "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4,
+    "mai": 5, "juin": 6, "juillet": 7, "août": 8, "aout": 8,
+    "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12, "decembre": 12,
 }
-MOIS_NAMES = set(MOIS.keys())
 
-# ex: "11vendrediseptembre21:00" ou "21mercredioctobre10:3014:30"
-LINK_RE = re.compile(
-    r"^(\d{1,2})\s*(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\s*"
-    r"(janvier|f[ée]vrier|mars|avril|mai|juin|juillet|ao[uû]t|septembre|octobre|novembre|d[ée]cembre)"
-    r"((?:\d{1,2}:\d{2})+)$",
-    re.IGNORECASE,
-)
+BG_IMAGE_RE = re.compile(r"url\((.*?)\)")
 
 ATELIER_HINTS = ("atelier", "stage", "cours")
 CONCERT_HINTS = ("concert",)
@@ -51,7 +51,7 @@ CONCERT_HINTS = ("concert",)
 
 def _title_from_slug(href: str) -> str:
     slug = href.rstrip("/").split("/")[-1]
-    slug = re.sub(r"-\d+$", "", slug)  # enlève un suffixe numérique (doublon WP: "-2", "-4"...)
+    slug = re.sub(r"-\d+$", "", slug)  # enlève un suffixe numérique de doublon WP
     slug = re.sub(r"[-_]+", " ", slug).strip()
     return slug.title() if slug else "Événement"
 
@@ -69,45 +69,63 @@ def scrape():
     from bs4 import BeautifulSoup
 
     html = fetch(URL)
-    soup = BeautifulSoup(html, "html.parser")
     print(f"[diagnostic] taille de la page reçue : {len(html)} caractères")
+    soup = BeautifulSoup(html, "html.parser")
 
     events = []
     current_year = date.today().year
     prev_month_num = None
 
-    for tag in soup.find_all(["h2", "a"]):
-        text = tag.get_text(strip=True)
-
-        if tag.name == "h2" and text.lower() in MOIS_NAMES:
-            month_num = MOIS[text.lower()]
+    for node in soup.select(".month-title, .wewelcome-event-item"):
+        if "month-title" in node.get("class", []):
+            h2 = node.find("h2")
+            if not h2:
+                continue
+            month_name = h2.get_text(strip=True).lower()
+            month_num = MOIS.get(month_name)
+            if not month_num:
+                continue
             if prev_month_num is not None and month_num < prev_month_num:
                 current_year += 1
             prev_month_num = month_num
             continue
 
-        if tag.name != "a":
-            continue
-        m = LINK_RE.match(text)
-        if not m or prev_month_num is None:
-            continue
+        if prev_month_num is None:
+            continue  # pas encore de mois connu, on ignore par sécurité
 
-        day, _dow, month_name, times_blob = m.groups()
-        month_num = MOIS[month_name.lower()]
-        href = tag.get("href", URL)
+        link = node.find("a")
+        if not link:
+            continue
+        href = link.get("href", URL)
         title = _title_from_slug(href)
 
-        for time_str in re.findall(r"\d{1,2}:\d{2}", times_blob):
-            hh, mm = time_str.split(":")
+        day_tag = node.select_one(".item-day")
+        if not day_tag:
+            continue
+        day = day_tag.get_text(strip=True)
+
+        thumb = node.select_one(".item-thumbnail")
+        image_url = ""
+        if thumb and thumb.get("style"):
+            m = BG_IMAGE_RE.search(thumb["style"])
+            if m:
+                image_url = m.group(1).strip("'\"")
+
+        hour_spans = node.select(".item-hours span")
+        times = [s.get_text(strip=True) for s in hour_spans] or [""]
+
+        for time_str in times:
+            time = time_str.replace(":", "h") if time_str else ""
             events.append(
                 Event(
-                    date=f"{current_year:04d}-{month_num:02d}-{int(day):02d}",
-                    time=f"{int(hh)}h{mm}",
+                    date=f"{current_year:04d}-{prev_month_num:02d}-{int(day):02d}",
+                    time=time,
                     title=title,
                     type=_guess_type(title),
                     venue="We Welcome",
                     city="Lagny-sur-Marne",
                     source_url=href,
+                    image_url=image_url,
                 )
             )
 

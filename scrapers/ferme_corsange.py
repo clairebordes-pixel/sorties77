@@ -1,19 +1,28 @@
 """
 Scraper pour La Ferme Corsange — Bailly-Romainvilliers.
 
-La page officielle (lafermecorsange.fr/agenda/) charge son programme en
-JavaScript après coup (widget JetEngine + appel AJAX), ce qui la rend très
-difficile à scraper avec une simple requête HTTP.
-
-On passe donc par leur billetterie externe VosTickets, qui liste tout le
-programme en texte brut, jusqu'à plusieurs mois à l'avance :
+Le site officiel (lafermecorsange.fr/agenda/) charge son programme en
+JavaScript (widget JetEngine + appel AJAX) — trop complexe à scraper
+simplement. On passe donc par leur billetterie externe VosTickets :
     https://www.vostickets.net/billet?id=LA_FERME_CORSANGE
 
-Format observé dans le texte de la page (une fois aplati) :
-    "SHERLOCK HOLMES ET LE SIGNE DES QUATRELe DIMANCHE 27 SEPTEMBRE 2026 à 15H00 ..."
-c'est-à-dire : TITRE (en majuscules) + "Le" + JOUR + DATE + MOIS + ANNÉE + "à" + HEUREHMINUTE.
-Le tout premier titre ("CARTE ABONNE") correspond à une carte d'abonnement,
-pas à un vrai spectacle, et est donc ignoré.
+Structure réelle observée (inspectée le 31/08/2026) — chaque spectacle
+est une carte de ce type :
+
+  <div class="... ticket-mur-vignette-entiere"
+       data-spectacle="32806"
+       data-datePrem="20260927"   <- AAAAMMJJ, vide pour les non-spectacles
+       data-dateDern="20260927"
+       data-libStructure="LA FERME CORSANGE" ...>
+    <img alt="affiche" src="https://vosbillets-images.s3.../....webp">
+    <div name="titre">SHERLOCK HOLMES<br />ET LE SIGNE DES QUATRE</div>
+    <div name="date">Le
+        DIMANCHE 27 SEPTEMBRE 2026 à 15H00</div>
+  </div>
+
+Les "abonnements/duos" (cartes sans date, ex. "Duo INDIVIDUEL BAILLY")
+ont un data-datePrem vide -> on les ignore : seules les cartes avec une
+date exploitable sont de vrais spectacles programmés.
 """
 import re
 import sys
@@ -24,19 +33,8 @@ from common import Event, fetch, write_events
 
 URL = "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE"
 
-MOIS = {
-    "JANVIER": "01", "FEVRIER": "02", "FÉVRIER": "02", "MARS": "03",
-    "AVRIL": "04", "MAI": "05", "JUIN": "06", "JUILLET": "07",
-    "AOUT": "08", "AOÛT": "08", "SEPTEMBRE": "09", "OCTOBRE": "10",
-    "NOVEMBRE": "11", "DECEMBRE": "12", "DÉCEMBRE": "12",
-}
+TIME_RE = re.compile(r"à\s*(\d{1,2})H(\d{2})", re.IGNORECASE)
 
-ENTRY_RE = re.compile(
-    r"([A-ZÀ-Ÿ0-9][A-ZÀ-Ÿ0-9\s'\-]{1,60}?)Le\s*[A-ZÀ-Ÿ]+\s+(\d{1,2})\s+([A-ZÀ-Ÿ]+)\s+(\d{4})\s+à\s+(\d{1,2})H(\d{2})",
-    re.IGNORECASE,
-)
-
-SKIP_HINTS = ("abonne", "carte")
 ATELIER_HINTS = ("atelier",)
 CIRQUE_HINTS = ("cirque",)
 
@@ -54,22 +52,32 @@ def scrape():
     from bs4 import BeautifulSoup
 
     html = fetch(URL)
+    print(f"[diagnostic] taille de la page reçue : {len(html)} caractères")
     soup = BeautifulSoup(html, "html.parser")
-    text = soup.get_text(" ", strip=True)
-    text = re.sub(r"\s+", " ", text)
-    print(f"[diagnostic] taille du texte extrait : {len(text)} caractères")
+    cards = soup.select("div.ticket-mur-vignette-entiere")
+    print(f"[diagnostic] nombre de cartes trouvées : {len(cards)}")
 
     events = []
-    for m in ENTRY_RE.finditer(text):
-        title_raw, day, month, year, hh, mm = m.groups()
-        title = re.sub(r"\s+", " ", title_raw).strip().title()
-        if any(h in title.lower() for h in SKIP_HINTS):
-            continue
-        month_code = MOIS.get(month.upper())
-        if not month_code:
-            continue
-        date = f"{year}-{month_code}-{int(day):02d}"
-        time = f"{int(hh)}h{mm}"
+    for card in cards:
+        date_prem = card.get("data-dateprem", "").strip()
+        if not date_prem or len(date_prem) != 8:
+            continue  # pas de date = abonnement/duo, pas un spectacle daté
+
+        date = f"{date_prem[0:4]}-{date_prem[4:6]}-{date_prem[6:8]}"
+
+        title_tag = card.select_one("div[name='titre']")
+        title = title_tag.get_text(" ", strip=True) if title_tag else "Spectacle"
+        title = title.title() if title.isupper() else title
+
+        date_tag = card.select_one("div[name='date']")
+        time = ""
+        if date_tag:
+            m = TIME_RE.search(date_tag.get_text(" ", strip=True))
+            if m:
+                time = f"{int(m.group(1))}h{m.group(2)}"
+
+        img_tag = card.select_one(".ticket-murImage img")
+        image_url = img_tag.get("src", "") if img_tag else ""
 
         events.append(
             Event(
@@ -80,9 +88,9 @@ def scrape():
                 venue="La Ferme Corsange",
                 city="Bailly-Romainvilliers",
                 source_url=URL,
+                image_url=image_url,
             )
         )
-    print(f"[diagnostic] nombre d'événements trouvés : {len(events)}")
     return events
 
 

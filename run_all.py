@@ -10,6 +10,7 @@ import traceback
 from dataclasses import asdict
 from pathlib import Path
 
+from common import Event
 from scrapers import millesime, lescuizines, file7, ferme_du_buisson, apidae_fiche, st_thibault, ferme_corsange, we_welcome
 
 SCRAPERS = [
@@ -24,6 +25,23 @@ SCRAPERS = [
 ]
 
 
+def load_manual_events():
+    """
+    Charge les événements saisis à la main (data/manual_events.json).
+    Utile pour les salles dont le site n'est pas automatisable
+    (ex : Charles Vanel à Lagny, dont la billetterie est une appli
+    JavaScript sans données exploitables côté serveur).
+    Ce fichier n'est jamais généré par les scrapers -> à mettre à jour
+    manuellement quand une salle publie une nouvelle plaquette.
+    """
+    path = Path("data/manual_events.json")
+    if not path.exists():
+        return []
+    with open(path, encoding="utf-8") as f:
+        raw = json.load(f)
+    return [Event(**item) for item in raw]
+
+
 def main():
     all_events = []
     for label, module in SCRAPERS:
@@ -35,6 +53,11 @@ def main():
         except Exception:
             print(f"    [!] échec du scraper : voir la trace ci-dessous")
             traceback.print_exc()
+
+    print("--- Événements manuels (data/manual_events.json) ---")
+    manual = load_manual_events()
+    print(f"    {len(manual)} événement(s) chargé(s)")
+    all_events.extend(manual)
 
     # dédoublonne sur (date, titre, lieu)
     seen = set()

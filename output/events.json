@@ -891,6 +891,16 @@
   },
   {
     "date": "2026-11-07",
+    "time": "20h30",
+    "title": "Tristan Pierre - Mélanjolie",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/tristan-pierre-melanjolie.jpg"
+  },
+  {
+    "date": "2026-11-07",
     "time": "21h00",
     "title": "Paris Comedy Club",
     "type": "spectacle",
@@ -1142,6 +1152,16 @@
   {
     "date": "2026-12-05",
     "time": "",
+    "title": "Le Train de Noël (Dodo et Rémi)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/le-train-de-noel.jpg"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "",
     "title": "Ouai Stéphane + Elisa Do Brasil",
     "type": "concert",
     "venue": "Les Cuizines",
@@ -1238,6 +1258,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/back-to-basics-vol-4.png"
+  },
+  {
+    "date": "2027-01-16",
+    "time": "20h30",
+    "title": "Et si c'était elle (Franck Buirod)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/et-si-cetait-elle.jpg"
   },
   {
     "date": "2027-01-17",
@@ -1348,6 +1378,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/06-02-2027-20h00-pony-pony-run-run.html",
     "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ8-440x340.png"
+  },
+  {
+    "date": "2027-02-06",
+    "time": "20h30",
+    "title": "Comedy Club (Louise Duck, Morgan Poitrat, Najim Ziani, Veuria)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/comedy-club-fevrier.jpg"
   },
   {
     "date": "2027-02-11",
@@ -1470,6 +1510,16 @@
     "image_url": "https://www.file7.com/wmedias/original/zzz_-_ZELIE-440x340.png"
   },
   {
+    "date": "2027-03-06",
+    "time": "20h30",
+    "title": "Enzo Ricci - Quetzal",
+    "type": "concert",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/enzo-ricci-quetzal.jpg"
+  },
+  {
     "date": "2027-03-12",
     "time": "20h30",
     "title": "Le Destin se moque des choix",
@@ -1518,6 +1568,16 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/concert-kitty-rock-show/",
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270320-KittyRockShow-spectacle26-27_Affiche-1-scaled-470x705.png"
+  },
+  {
+    "date": "2027-03-20",
+    "time": "20h30",
+    "title": "Guillaume Guisset en spectacle",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/guillaume-guisset.jpg"
   },
   {
     "date": "2027-03-24",
@@ -1632,6 +1692,16 @@
   {
     "date": "2027-04-24",
     "time": "20h30",
+    "title": "Comedy Club (Robin Gomez, Super Baston, Méchante Coline, Axel Ramponi)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/comedy-club-avril.jpg"
+  },
+  {
+    "date": "2027-04-24",
+    "time": "20h30",
     "title": "Fils De Bâtard",
     "type": "spectacle",
     "venue": "La Ferme Corsange",
@@ -1718,6 +1788,16 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-blandine-lehout/",
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270528-BlandineLehout-spectacle26-27_Affiche-scaled-470x705.png"
+  },
+  {
+    "date": "2027-05-29",
+    "time": "20h30",
+    "title": "Lancelot",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/lancelot.jpg"
   },
   {
     "date": "2027-06-19",

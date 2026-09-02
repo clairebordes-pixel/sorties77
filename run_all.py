@@ -10,7 +10,7 @@ import traceback
 from dataclasses import asdict
 from pathlib import Path
 
-from scrapers import millesime, lescuizines, file7, ferme_du_buisson, apidae_fiche, st_thibault, ferme_corsange
+from scrapers import millesime, lescuizines, file7, ferme_du_buisson, apidae_fiche, st_thibault, ferme_corsange, we_welcome
 
 SCRAPERS = [
     ("Le Millésime", millesime),
@@ -20,6 +20,7 @@ SCRAPERS = [
     ("Fiches Apidae (Jean-Cocteau, Marc Brinon)", apidae_fiche),
     ("Saint-Thibault-des-Vignes", st_thibault),
     ("La Ferme Corsange (via VosTickets)", ferme_corsange),
+    ("We Welcome", we_welcome),
 ]
 
 

@@ -80,7 +80,15 @@ def scrape():
         yy, mm, dd = m.groups()
         date = f"20{yy}-{mm}-{dd}"
 
-        image_url = img.get("src", "") if img else ""
+        image_url = ""
+        if img:
+            for attr in ("data-src", "data-lazy-src", "data-srcset", "srcset", "src"):
+                val = img.get(attr, "")
+                if val and not val.startswith("data:"):
+                    # srcset peut contenir plusieurs URLs séparées par des virgules :
+                    # on prend la première
+                    image_url = val.split(",")[0].strip().split(" ")[0]
+                    break
 
         events.append(
             Event(

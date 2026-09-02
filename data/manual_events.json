@@ -1,0 +1,472 @@
+[
+  {
+    "date": "2026-09-20",
+    "time": "17h00",
+    "title": "Gueules Noires",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-09-26",
+    "time": "20h30",
+    "title": "Trash!",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-04",
+    "time": "15h00",
+    "title": "Mulan",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "20h30",
+    "title": "Le Procès d'une vie",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-16",
+    "time": "20h30",
+    "title": "Arnaud Tsamère, Tous contraints",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "20h30",
+    "title": "Les Coquettes",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-15",
+    "time": "17h00",
+    "title": "Une heure à t'attendre",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-27",
+    "time": "20h30",
+    "title": "Le Chant des lions",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-12-10",
+    "time": "20h30",
+    "title": "L'Expérience théâtrale",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-12-13",
+    "time": "15h00",
+    "title": "Destination Noël",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-14",
+    "time": "20h30",
+    "title": "Tristan Lopin, Partez sans moi je vous rejoins",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-16",
+    "time": "19h30",
+    "title": "Back to Basics - Vol 4 (battle de danse)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-21",
+    "time": "20h30",
+    "title": "Le Plateau de l'humour",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-05",
+    "time": "20h30",
+    "title": "Le Repas des fauves",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-11",
+    "time": "20h30",
+    "title": "Giselle (Grand Ballet de Kiev)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-26",
+    "time": "20h30",
+    "title": "Le Dernier cèdre du Liban",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-28",
+    "time": "15h00",
+    "title": "Deux rien",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-05",
+    "time": "20h30",
+    "title": "The Loop",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-12",
+    "time": "20h30",
+    "title": "Le Destin se moque des choix",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-26",
+    "time": "20h30",
+    "title": "Héritières",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-28",
+    "time": "17h00",
+    "title": "Ciné-concert (Charlie Chaplin)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-02",
+    "time": "20h30",
+    "title": "Gérémy Crédeville, Enchanteur",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-22",
+    "time": "20h30",
+    "title": "Juste Irena",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-30",
+    "time": "20h30",
+    "title": "Marius",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-11",
+    "time": "20h30",
+    "title": "Yann Guillarme",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-12",
+    "time": "20h30",
+    "title": "Nordine Ganso",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-13",
+    "time": "20h30",
+    "title": "Ilyes Djadel",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-14",
+    "time": "20h30",
+    "title": "Paul de Saint-Sernin",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-15",
+    "time": "20h30",
+    "title": "Mahé",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-08",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-05",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-04",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-04",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-01",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-22",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-12",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-18",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-18",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-15",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-27",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-27",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-14",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-18",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-24",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-24",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  }
+]

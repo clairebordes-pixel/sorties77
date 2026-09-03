@@ -11,10 +11,12 @@ from dataclasses import asdict
 from pathlib import Path
 
 from common import Event
-from scrapers import millesime, lescuizines, file7, ferme_du_buisson, apidae_fiche, st_thibault, ferme_corsange, we_welcome
+from scrapers import lescuizines, file7, ferme_du_buisson, apidae_fiche, st_thibault, ferme_corsange, we_welcome, noisiel_billetterie
+# Le Millésime n'est plus scrapé automatiquement : le site bloque
+# systématiquement les requêtes venant des serveurs GitHub (erreur 418).
+# Son programme est maintenu à la main dans data/manual_events.json.
 
 SCRAPERS = [
-    ("Le Millésime", millesime),
     ("Les Cuizines", lescuizines),
     ("File7", file7),
     ("Ferme du Buisson", ferme_du_buisson),
@@ -22,6 +24,7 @@ SCRAPERS = [
     ("Saint-Thibault-des-Vignes", st_thibault),
     ("La Ferme Corsange (via VosTickets)", ferme_corsange),
     ("We Welcome", we_welcome),
+    ("Noisiel — billetterie Pôle culturel", noisiel_billetterie),
 ]
 
 

@@ -17,7 +17,7 @@ from scrapers import (
     noisiel_fermeDuBuisson,
     noisiel_auditoriumJeanCocteau,
     stThibaultDesVignes_centreCulturelMarcBrinon,
-    coupvray_fermeCorsange,
+    baillyRomainvilliers_fermeCorsange,
     lagnySurMarne_weWelcome,
     noisiel_poleCulturelMichelLegrand,
 )
@@ -32,7 +32,7 @@ SCRAPERS = [
     ("Noisiel — Ferme du Buisson", noisiel_fermeDuBuisson),
     ("Noisiel — Auditorium Jean-Cocteau", noisiel_auditoriumJeanCocteau),
     ("Saint-Thibault-des-Vignes — Centre culturel / Marc Brinon", stThibaultDesVignes_centreCulturelMarcBrinon),
-    ("Coupvray — La Ferme Corsange (via VosTickets)", coupvray_fermeCorsange),
+    ("Bailly Romainvilliers — La Ferme Corsange (via VosTickets)", baillyRomainvilliers_fermeCorsange),
     ("Lagny-sur-Marne — We Welcome", lagnySurMarne_weWelcome),
     ("Noisiel — Pôle culturel Michel-Legrand (billetterie)", noisiel_poleCulturelMichelLegrand),
 ]

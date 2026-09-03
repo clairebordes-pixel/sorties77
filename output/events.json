@@ -1,6 +1,16 @@
 [
   {
     "date": "2026-09-11",
+    "time": "",
+    "title": "Bakana (jusqu'au 27/09)",
+    "type": "cirque",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/bakana",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNORGswIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--c193ddde06c0b4f842a6d4fa923f1c66b84b77f49187f1e8f9ab1533ee212266/4ee77634c5b1/fete-du-cirque-25-bakana-a-nicolas-bram-18-web.jpg"
+  },
+  {
+    "date": "2026-09-11",
     "time": "21h00",
     "title": "Leffet Papillon Taha Mansour Mentaliste",
     "type": "spectacle",
@@ -41,6 +51,16 @@
   },
   {
     "date": "2026-09-18",
+    "time": "20h30",
+    "title": "Smile",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-smile",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Smile.png"
+  },
+  {
+    "date": "2026-09-18",
     "time": "21h00",
     "title": "Crise En Quarantaine",
     "type": "spectacle",
@@ -48,6 +68,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/crise-en-quarantaine/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/crise.png"
+  },
+  {
+    "date": "2026-09-19",
+    "time": "",
+    "title": "Journées européennes du patrimoine (jusqu'au 20/09)",
+    "type": "spectacle",
+    "venue": "Cité Menier",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
   },
   {
     "date": "2026-09-19",
@@ -78,6 +108,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/jam-britpop/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/Jam-Michael-©-Les-Cuizines-3-250x250.jpg"
+  },
+  {
+    "date": "2026-09-19",
+    "time": "",
+    "title": "Regards sur Noisiel — Christine et Joseph Aligon (expo, jusqu'au 10/10)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
   },
   {
     "date": "2026-09-19",
@@ -141,6 +181,16 @@
   },
   {
     "date": "2026-09-23",
+    "time": "20h30",
+    "title": "Verino",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-verino",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Verino.png"
+  },
+  {
+    "date": "2026-09-23",
     "time": "21h00",
     "title": "Peps Comedy Club",
     "type": "spectacle",
@@ -158,6 +208,26 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/hinde-dans-fille-unique/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/02/Hinde-1.jpg"
+  },
+  {
+    "date": "2026-09-25",
+    "time": "",
+    "title": "En attendant le grand soir (jusqu'au 26/09)",
+    "type": "cirque",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/en-attendant-le-grand-soir",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFF3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--29446e5576b4af005660d178cb70360124b45c7012417f3b1e85d3aa162812fe/f0d01d841a97/029_marc-ras_7822.jpg"
+  },
+  {
+    "date": "2026-09-25",
+    "time": "20h30",
+    "title": "Sortez-moi de là !",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/sortez-moi-de-la-30/150496",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Sortez-moi-de-la.png"
   },
   {
     "date": "2026-09-25",
@@ -291,6 +361,16 @@
   },
   {
     "date": "2026-10-02",
+    "time": "19h00",
+    "title": "Atelier Chant",
+    "type": "atelier",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/atelier-chant",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFl5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--fbcf67b8514dd0c5b3da8600844de9ad2df31f4bce3ca3e5a9bb5f566536e89a/2f79e20c631e/capture-d-ecran-2025-02-10-a-17-15-15.jpg"
+  },
+  {
+    "date": "2026-10-02",
     "time": "20h00",
     "title": "Jam Session",
     "type": "concert",
@@ -318,6 +398,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/delivrez-nous-du-male/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Affiche_ok_HQ-1.jpg"
+  },
+  {
+    "date": "2026-10-03",
+    "time": "20h30",
+    "title": "La Beauté intérieure",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/la-beaute-interieur",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFU0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--e7e08bf2fcf6e172ad3ab58ec6ab9d4cd76d09f93d780067aea6c7afa85f36b2/5ee245e5cf01/_dsc2356.jpg"
   },
   {
     "date": "2026-10-03",
@@ -481,6 +571,46 @@
   },
   {
     "date": "2026-10-10",
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "",
+    "title": "Brandon Gercara (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "18h00",
+    "title": "Rêve parade",
+    "type": "cirque",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "20h30",
+    "title": "Khalil Epi",
+    "type": "concert",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
+  },
+  {
+    "date": "2026-10-10",
     "time": "14h00",
     "title": "Rencontre : Le Management 2.0",
     "type": "atelier",
@@ -501,6 +631,16 @@
   },
   {
     "date": "2026-10-10",
+    "time": "20h30",
+    "title": "José Cruz",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/jose-cruz-56/150494",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Jose-Cruz.png"
+  },
+  {
+    "date": "2026-10-10",
     "time": "14h30",
     "title": "Philibert Le Magicien",
     "type": "spectacle",
@@ -518,6 +658,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune-2/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "16h00",
+    "title": "Ma femme, la tienne, la nôtre",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/ma-femme-la-tienne-la-notre-19/150495",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Ma-femme-la-tienne-la-notre.png"
   },
   {
     "date": "2026-10-14",
@@ -581,6 +731,16 @@
   },
   {
     "date": "2026-10-16",
+    "time": "20h30",
+    "title": "Prélude",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/prelude",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b9c63bda76359ccf5823df3818d558304bf1e0f9bb0852b6b5065dacbcf9c4a1/aaaa39298d78/carlos_fernandes1-copie.png"
+  },
+  {
+    "date": "2026-10-16",
     "time": "",
     "title": "FEEL + Ruthee",
     "type": "concert",
@@ -608,6 +768,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/skarra-mucci-x-manudigital/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/0175-Skarra_Mucci-Manudigital-c-Stéphane-Buttigieg-BD-e1781773007628-250x250.jpg"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "",
+    "title": "Balade urbaine : Formes et couleurs de la ville",
+    "type": "atelier",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
   },
   {
     "date": "2026-10-17",
@@ -761,6 +931,16 @@
   },
   {
     "date": "2026-11-05",
+    "time": "20h30",
+    "title": "La Fontaine",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-lafontaine",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/La-Fontaine.png"
+  },
+  {
+    "date": "2026-11-05",
     "time": "21h00",
     "title": "Tony Saint Laurent Dans Efficace",
     "type": "spectacle",
@@ -768,6 +948,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/tony-saint-laurent-dans-efficace/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/affiche-efficace-1-scaled.jpg"
+  },
+  {
+    "date": "2026-11-06",
+    "time": "20h30",
+    "title": "Giorgio le mentaliste",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-giorgio-le-mentaliste",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Giorgio.png"
   },
   {
     "date": "2026-11-06",
@@ -900,6 +1090,26 @@
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32810/images/20260608162746028.webp"
   },
   {
+    "date": "2026-11-14",
+    "time": "20h30",
+    "title": "Linh",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-linh",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Linh.png"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "",
+    "title": "Balade insolite nocturne — À l'heure où les arbres murmurent (aussi le 21/11)",
+    "type": "atelier",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
     "date": "2026-11-15",
     "time": "17h00",
     "title": "Une heure à t'attendre",
@@ -971,6 +1181,16 @@
   },
   {
     "date": "2026-11-20",
+    "time": "20h30",
+    "title": "The Opera Locos",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-the-opera-locos",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Opera-Locos.png"
+  },
+  {
+    "date": "2026-11-20",
     "time": "",
     "title": "Lynn + Awa Ly",
     "type": "concert",
@@ -998,6 +1218,26 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/21-11-2026-10h30-super-week-end-kidz-into-the-woods.html",
     "image_url": "https://www.file7.com/wmedias/original/INTO_THE_WOOD-440x340.jpg"
+  },
+  {
+    "date": "2026-11-21",
+    "time": "",
+    "title": "Rencontres photographiques (expo, jusqu'au 12/12)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-22",
+    "time": "11h00",
+    "title": "Mon premier opéra",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-mon-premier-opera",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Mon-premier-opera.png"
   },
   {
     "date": "2026-11-25",
@@ -1030,6 +1270,16 @@
     "image_url": "https://www.file7.com/wmedias/original/zzz-ESOP_LILA_EHJA-440x340.png"
   },
   {
+    "date": "2026-11-27",
+    "time": "20h30",
+    "title": "Coup de bluff",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-coup-de-bluff",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Coup-de-bluff.png"
+  },
+  {
     "date": "2026-11-28",
     "time": "",
     "title": "Seule la musique peut me toucher #4",
@@ -1038,6 +1288,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/seule-la-musique-peut-me-toucher-4/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/staff-ElisaCiavaldini1-250x250.jpg"
+  },
+  {
+    "date": "2026-11-29",
+    "time": "16h00",
+    "title": "Les parents viennent de mars (chez maman)",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/les-parents-viennent-de-mars-chez-maman-30/154785",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Les-parents-viennent-de-mars.png"
   },
   {
     "date": "2026-12-02",
@@ -1131,6 +1391,16 @@
   },
   {
     "date": "2026-12-19",
+    "time": "20h30",
+    "title": "Gospel Fire",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-gospel-fire",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Gospel.png"
+  },
+  {
+    "date": "2026-12-19",
     "time": "",
     "title": "Lutherie niv. 2",
     "type": "concert",
@@ -1138,6 +1408,26 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/stage-lutherie-niveau-2/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/finalllllllllll-250x250.jpg"
+  },
+  {
+    "date": "2027-01-09",
+    "time": "18h00",
+    "title": "Plein Feu",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-09",
+    "time": "",
+    "title": "Cécile Pignon (expo, jusqu'au 30/01)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
   },
   {
     "date": "2027-01-14",
@@ -1210,6 +1500,26 @@
     "image_url": "images/lagnySurMarne_charlesVanel/le-plateau-de-lhumour.png"
   },
   {
+    "date": "2027-01-22",
+    "time": "20h30",
+    "title": "The French Twins",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-the-french-twins",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/French-twins.png"
+  },
+  {
+    "date": "2027-01-23",
+    "time": "20h30",
+    "title": "Elles pardonnent mais n'oublient jamais",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/elles-pardonnent-mais-noublient-jamais-38/159768",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Elles-pardonnent.png"
+  },
+  {
     "date": "2027-01-29",
     "time": "20h30",
     "title": "Les Habitant-Es",
@@ -1218,6 +1528,16 @@
     "city": "Bailly-Romainvilliers",
     "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32814/images/20260608162820965.webp"
+  },
+  {
+    "date": "2027-01-29",
+    "time": "20h30",
+    "title": "Appelez-moi Walt",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-appelez-moi-walt",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Walt.png"
   },
   {
     "date": "2027-01-30",
@@ -1350,6 +1670,16 @@
     "image_url": "images/lagnySurMarne_charlesVanel/le-dernier-cedre-du-liban.png"
   },
   {
+    "date": "2027-02-26",
+    "time": "20h30",
+    "title": "Mahé",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-mahe",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Mahe.png"
+  },
+  {
     "date": "2027-02-27",
     "time": "16h00",
     "title": "Contes en musique (4-6 ans)",
@@ -1368,6 +1698,16 @@
     "city": "Bailly-Romainvilliers",
     "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32818/images/20260610171235223.webp"
+  },
+  {
+    "date": "2027-02-27",
+    "time": "20h30",
+    "title": "Le Cid",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-le-cid",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Le-CID.png"
   },
   {
     "date": "2027-02-28",
@@ -1440,6 +1780,16 @@
     "image_url": "images/coupvray_lAtmosphere/enzo-ricci-quetzal.jpg"
   },
   {
+    "date": "2027-03-06",
+    "time": "",
+    "title": "Journée internationale des droits des femmes (jusqu'au 13/03)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
     "date": "2027-03-12",
     "time": "20h30",
     "title": "Le Destin se moque des choix",
@@ -1450,6 +1800,16 @@
     "image_url": "images/lagnySurMarne_charlesVanel/le-destin-se-moque-des-choix.png"
   },
   {
+    "date": "2027-03-12",
+    "time": "20h30",
+    "title": "L'art du couple",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/lart-du-couple-70/159769",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Lart-du-couple.png"
+  },
+  {
     "date": "2027-03-13",
     "time": "20h30",
     "title": "L'Effet Papillon",
@@ -1458,6 +1818,16 @@
     "city": "Bailly-Romainvilliers",
     "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32819/images/20260608162652107.webp"
+  },
+  {
+    "date": "2027-03-14",
+    "time": "11h00",
+    "title": "Rémi - ma guitare à tiroirs",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/remi-ma-guitare-a-tiroirs-montevrain",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Remi-Comptines.png"
   },
   {
     "date": "2027-03-18",
@@ -1480,6 +1850,16 @@
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32820/images/20260608162801873.webp"
   },
   {
+    "date": "2027-03-19",
+    "time": "20h30",
+    "title": "Balavoine, hommage",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-balavoine-hommage",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Balavoine.png"
+  },
+  {
     "date": "2027-03-20",
     "time": "",
     "title": "Concert – Kitty Rock Show",
@@ -1498,6 +1878,16 @@
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
     "image_url": "images/coupvray_lAtmosphere/guillaume-guisset.jpg"
+  },
+  {
+    "date": "2027-03-20",
+    "time": "",
+    "title": "Salon du Luz'Art (expo, jusqu'au 03/04)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
   },
   {
     "date": "2027-03-24",
@@ -1550,6 +1940,16 @@
     "image_url": ""
   },
   {
+    "date": "2027-03-27",
+    "time": "18h30",
+    "title": "Zélie la pirate",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-zelie-la-pirate",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Zelie-la-Pirate.png"
+  },
+  {
     "date": "2027-03-28",
     "time": "17h00",
     "title": "Ciné-concert (Charlie Chaplin)",
@@ -1580,6 +1980,16 @@
     "image_url": "images/lagnySurMarne_charlesVanel/geremy-credeville.png"
   },
   {
+    "date": "2027-04-02",
+    "time": "20h30",
+    "title": "John Sulo",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-john-sulo",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/John-Sulo.png"
+  },
+  {
     "date": "2027-04-04",
     "time": "14h30",
     "title": "Into The Woods",
@@ -1598,6 +2008,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
+  },
+  {
+    "date": "2027-04-16",
+    "time": "20h30",
+    "title": "Zack et Stan",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-zack-stan",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Zack-et-Stan.png"
   },
   {
     "date": "2027-04-22",
@@ -1630,6 +2050,16 @@
     "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32825/images/20260608163648396.webp"
   },
   {
+    "date": "2027-04-24",
+    "time": "20h30",
+    "title": "L'affaire est dans le sac",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/laffaire-est-dans-le-sac-9/159767",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Laffaire-est-dans-le-sac.png"
+  },
+  {
     "date": "2027-04-25",
     "time": "",
     "title": "Magie, mentalisme – Mathieu Stepson",
@@ -1648,6 +2078,26 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/marius.png"
+  },
+  {
+    "date": "2027-04-30",
+    "time": "20h30",
+    "title": "No One Is Innocent",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-no-one-is-innocent",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/No-one-is-innocent.png"
+  },
+  {
+    "date": "2027-05-05",
+    "time": "",
+    "title": "Martinefa (expo, jusqu'au 29/05)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
   },
   {
     "date": "2027-05-11",
@@ -1680,6 +2130,16 @@
     "image_url": ""
   },
   {
+    "date": "2027-05-13",
+    "time": "20h30",
+    "title": "Manu Lanvin",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-manu-lanvin",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Manu-Lanvin.png"
+  },
+  {
     "date": "2027-05-14",
     "time": "20h30",
     "title": "Paul de Saint-Sernin",
@@ -1697,6 +2157,36 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-21",
+    "time": "20h30",
+    "title": "Karine Dubernet",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-karine-dubernet",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Karine-Dubernet.png"
+  },
+  {
+    "date": "2027-05-22",
+    "time": "20h30",
+    "title": "En panne de toi",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/en-panne-de-toi-5/159766",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/En-panne-de-toi.png"
+  },
+  {
+    "date": "2027-05-22",
+    "time": "",
+    "title": "Nuit européenne des musées — Entre ombres et lumière",
+    "type": "atelier",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
     "image_url": ""
   },
   {

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-04",
+    "time": "17h30",
+    "title": "Festi'Rentrée",
+    "type": "spectacle",
+    "venue": "Promenade Sylvie Mérigard",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/culture-sports-et-loisirs/agenda-culture-sports-et-loisirs",
+    "image_url": ""
+  },
+  {
     "date": "2026-09-11",
     "time": "",
     "title": "Bakana (jusqu'au 27/09)",
@@ -848,6 +858,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/24-10-2026-15h00-cafe-concert-chloe-antoniotti.html",
     "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ3-440x340.png"
+  },
+  {
+    "date": "2026-10-26",
+    "time": "11h00",
+    "title": "Soupe et dessert à la citrouille",
+    "type": "spectacle",
+    "venue": "Fabrique citoyenne",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/culture-sports-et-loisirs/agenda-culture-sports-et-loisirs",
+    "image_url": ""
   },
   {
     "date": "2026-10-27",
@@ -1938,6 +1958,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
+  },
+  {
+    "date": "2027-03-27",
+    "time": "15h00",
+    "title": "Café Concert : Safia Nolin",
+    "type": "concert",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/27-03-2027-15h00-cafe-concert-safia-nolin.html",
+    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_Image_site_-_bon_format-440x340.png"
   },
   {
     "date": "2027-03-27",

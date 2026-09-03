@@ -88,11 +88,32 @@ def parse_time_fr(text: str):
     return f"{int(h)}h{mn or '00'}"
 
 
-def fetch(url: str, timeout=15) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=timeout)
-    r.raise_for_status()
-    r.encoding = r.apparent_encoding
-    return r.text
+def fetch(url: str, timeout=15, retries=3) -> str:
+    """
+    Récupère une page, avec quelques nouvelles tentatives en cas de souci
+    réseau transitoire (timeout, connexion refusée...) — fréquent sur les
+    serveurs GitHub Actions, qui n'ont pas toujours une IP stable.
+    Les erreurs HTTP "définitives" (404, 418 bloqué délibérément...) ne
+    sont PAS retentées, ça ne servirait à rien.
+    """
+    import time
+
+    last_error = None
+    for attempt in range(1, retries + 1):
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=timeout)
+            r.raise_for_status()
+            r.encoding = r.apparent_encoding
+            return r.text
+        except requests.exceptions.HTTPError as e:
+            raise  # erreur HTTP explicite (418, 404...) : pas la peine de retenter
+        except requests.exceptions.RequestException as e:
+            last_error = e
+            if attempt < retries:
+                wait = 5 * attempt
+                print(f"[retry] tentative {attempt}/{retries} échouée ({e}), nouvel essai dans {wait}s")
+                time.sleep(wait)
+    raise last_error
 
 
 def write_events(events, out_path: str):

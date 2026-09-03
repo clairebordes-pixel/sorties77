@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "time": "",
-    "title": "Bakana (jusqu'au 27/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/bakana",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNORGswIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--c193ddde06c0b4f842a6d4fa923f1c66b84b77f49187f1e8f9ab1533ee212266/4ee77634c5b1/fete-du-cirque-25-bakana-a-nicolas-bram-18-web.jpg"
-  },
-  {
-    "date": "2026-09-11",
-    "time": "21h00",
-    "title": "Leffet Papillon Taha Mansour Mentaliste",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/leffet-papillon-taha-mansour-mentaliste/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/12/Capture-decran-2025-12-12-174750.png"
-  },
-  {
-    "date": "2026-09-16",
-    "time": "21h00",
-    "title": "Pv Dans Presque Vrai",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/pv-dans-presque-vrai/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/Digital-40x60cm-PV.jpg"
-  },
-  {
-    "date": "2026-09-17",
-    "time": "21h00",
-    "title": "Wog Les Soirees Welcome Only Girls",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/wog-les-soirees-welcome-only-girls-4/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/12/affiche-datee.png"
-  },
-  {
-    "date": "2026-09-18",
-    "time": "21h00",
-    "title": "Crise En Quarantaine",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/crise-en-quarantaine/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/crise.png"
-  },
-  {
-    "date": "2026-09-19",
-    "time": "9h00",
-    "title": "Écoute De Prog’ Au Marché !",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/19-09-2026-09h00-ecoute-de-prog-au-marche.html",
-    "image_url": "https://www.file7.com/wmedias/original/9098395-440x340.jpg"
-  },
-  {
-    "date": "2026-09-19",
-    "time": "11h00",
-    "title": "Atelier MAO : du draft au banger",
-    "type": "atelier",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/19-09-2026-11h00-atelier-mao-du-draft-au-banger.html",
-    "image_url": "https://www.file7.com/wmedias/original/mao-draft-tilt-site.jpg"
-  },
-  {
-    "date": "2026-09-19",
-    "time": "",
-    "title": "Jam Session",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/jam-britpop/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/Jam-Michael-©-Les-Cuizines-3-250x250.jpg"
-  },
-  {
-    "date": "2026-09-19",
-    "time": "10h00",
-    "title": "Stand Vide Dressing Dautomne",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/stand-vide-dressing-dautomne/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/9-1.png"
-  },
-  {
-    "date": "2026-09-19",
-    "time": "21h00",
-    "title": "Paris Comedy Club",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/paris-comedy-club-10/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/09/Capture-decran-2024-04-18-a-20.10.59-min.jpeg"
-  },
-  {
     "date": "2026-09-20",
     "time": "17h00",
     "title": "Gueules Noires",
@@ -108,86 +8,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/gueules-noires.png"
-  },
-  {
-    "date": "2026-09-20",
-    "time": "14h00",
-    "title": "Dans les Backstages",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/20-09-2026-14h00-dans-les-backstages.html",
-    "image_url": "https://file7.com/wmedias/original/Dans_Les_Backstages_2-440x340.png"
-  },
-  {
-    "date": "2026-09-20",
-    "time": "10h30",
-    "title": "Les Vacances De Capucine",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/les-vacances-de-capucine-2/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/vacances.jpeg"
-  },
-  {
-    "date": "2026-09-22",
-    "time": "20h00",
-    "title": "Concert De Guitare",
-    "type": "concert",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/concert-de-guitare/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/Capture-decran-2026-06-10-163443.png"
-  },
-  {
-    "date": "2026-09-23",
-    "time": "21h00",
-    "title": "Peps Comedy Club",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/peps-comedy-club-4/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/11/1-peps-comedy-club-27.09.25_visuel.jpg"
-  },
-  {
-    "date": "2026-09-24",
-    "time": "21h00",
-    "title": "Hinde Dans Fille Unique",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/hinde-dans-fille-unique/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/02/Hinde-1.jpg"
-  },
-  {
-    "date": "2026-09-25",
-    "time": "",
-    "title": "En attendant le grand soir (jusqu'au 26/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/en-attendant-le-grand-soir",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFF3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--29446e5576b4af005660d178cb70360124b45c7012417f3b1e85d3aa162812fe/f0d01d841a97/029_marc-ras_7822.jpg"
-  },
-  {
-    "date": "2026-09-25",
-    "time": "",
-    "title": "Alex Montembault",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/cafe-concert-alex-montembault-amoue/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/press2-250x250.jpg"
-  },
-  {
-    "date": "2026-09-25",
-    "time": "21h00",
-    "title": "Comment Draguer Apres 50 Ans",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/comment-draguer-apres-50-ans/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/affiche-.png"
   },
   {
     "date": "2026-09-26",
@@ -200,206 +20,6 @@
     "image_url": "images/charles-vanel/trash.png"
   },
   {
-    "date": "2026-09-26",
-    "time": "20h00",
-    "title": "Ebony+Tessa Galli",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/26-09-2026-20h00-ebony-tessa-galli.html",
-    "image_url": "https://www.file7.com/wmedias/original/EBONY_SITE-440x340.png"
-  },
-  {
-    "date": "2026-09-26",
-    "time": "10h00",
-    "title": "Carte Abonne",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/33076/images/20260615145942133.webp"
-  },
-  {
-    "date": "2026-09-27",
-    "time": "15h00",
-    "title": "Sherlock Holmes Et Le Signe Des Quatre",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32806/images/20260608162922437.webp"
-  },
-  {
-    "date": "2026-09-27",
-    "time": "",
-    "title": "Alf & Orel",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/alf-orel-au-salon-de-la-bd/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/affiche-Alf-Orel-scaled-e1783331989461-250x250.jpg"
-  },
-  {
-    "date": "2026-09-27",
-    "time": "10h30",
-    "title": "Lanniversaire De Capucine",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/lanniversaire-de-capucine/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/anniv.jpeg"
-  },
-  {
-    "date": "2026-09-27",
-    "time": "17h00",
-    "title": "Ils Saiment",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/ils-saiment/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/image-1.png"
-  },
-  {
-    "date": "2026-09-29",
-    "time": "20h00",
-    "title": "Welcomedy Club",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/welcomedy-club-4/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/AFFICHE_WELCOMEDY_CLUB-1-scaled.png"
-  },
-  {
-    "date": "2026-09-30",
-    "time": "",
-    "title": "Guitare",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/masterclass-guitare-gabriel-gosse/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/gabriel-gosse-disillusion-days-fred-margueron-arty-magazine-250x250.jpg"
-  },
-  {
-    "date": "2026-09-30",
-    "time": "21h00",
-    "title": "Yazid Assoumani",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/yazid-assoumani/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Yazid_Assoumani-1.png"
-  },
-  {
-    "date": "2026-10-01",
-    "time": "21h00",
-    "title": "Gaetan Husson Dans Charbon",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/gaetan-husson-dans-charbon/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/02/Gae_tan-Husson-charbon-Affiche-def-1-scaled.jpg"
-  },
-  {
-    "date": "2026-10-02",
-    "time": "19h00",
-    "title": "Atelier Chant",
-    "type": "atelier",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/atelier-chant",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFl5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--fbcf67b8514dd0c5b3da8600844de9ad2df31f4bce3ca3e5a9bb5f566536e89a/2f79e20c631e/capture-d-ecran-2025-02-10-a-17-15-15.jpg"
-  },
-  {
-    "date": "2026-10-02",
-    "time": "20h00",
-    "title": "Jam Session",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/02-10-2026-20h00-jam-session.html",
-    "image_url": "https://file7.com/wmedias/original/jam-session-site.jpg"
-  },
-  {
-    "date": "2026-10-02",
-    "time": "",
-    "title": "David Walters",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/david-walters-gabriel-gosse/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/David-Walters-2-Hugues-CMJN-250x250.png"
-  },
-  {
-    "date": "2026-10-02",
-    "time": "21h00",
-    "title": "Delivrez Nous Du Male",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/delivrez-nous-du-male/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Affiche_ok_HQ-1.jpg"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "20h30",
-    "title": "La Beauté intérieure",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/la-beaute-interieur",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFU0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--e7e08bf2fcf6e172ad3ab58ec6ab9d4cd76d09f93d780067aea6c7afa85f36b2/5ee245e5cf01/_dsc2356.jpg"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "18h00",
-    "title": "Dans Ton Casque Avec Les Fatals Picards",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/03-10-2026-18h00-dans-ton-casque-avec-les-fatals-picards.html",
-    "image_url": "https://file7.com/wmedias/original/Image_site_-_bon_format_-_NEW2-440x340.png"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "20h00",
-    "title": "LES FATALS PICARDS+La bise",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/03-10-2026-20h00-les-fatals-picards-la-bise.html",
-    "image_url": "https://www.file7.com/wmedias/original/Image_site_-_bon_format_-_NEW2-440x340.png"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "",
-    "title": "Neuvième Planète",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/neuvieme-planete-jeune-public/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/CH-Thierry-Concert9Planete-12-250x250.png"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "10h00",
-    "title": "Stand Vide Dressing Special Kids",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/stand-vide-dressing-special-kids/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/10-1.png"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "21h00",
-    "title": "Best Of Alexandra Duvivier",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/best-of-alexandra-duvivier/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-03-27-163654.png"
-  },
-  {
     "date": "2026-10-04",
     "time": "15h00",
     "title": "Mulan",
@@ -408,86 +28,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/mulan.png"
-  },
-  {
-    "date": "2026-10-04",
-    "time": "10h30",
-    "title": "Les Comptines De Capucine",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/les-comptines-de-capucine/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/capu.jpg"
-  },
-  {
-    "date": "2026-10-06",
-    "time": "",
-    "title": "Ateliers DJing",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/ateliers-djing-avec-arguel/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2024/07/djing-niveau-debutant-250x250.jpg"
-  },
-  {
-    "date": "2026-10-08",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-10-09",
-    "time": "",
-    "title": "Spectacle – Héros Balavoine",
-    "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-heros-balavoine/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/261009-TributeBalavoine-spectacle26-27_Affiche-470x705.png"
-  },
-  {
-    "date": "2026-10-09",
-    "time": "20h00",
-    "title": "Soirées Fan Club : TEDAAK+Jasmine not Jafar",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/09-10-2026-20h00-soirees-fan-club-tedaak-jasmine-not-jafar.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_JNJ_-_TEDAAK-440x340.png"
-  },
-  {
-    "date": "2026-10-09",
-    "time": "",
-    "title": "Bukowski + ODC",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/bukowski-odc/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/05/SITE-250x250.jpg"
-  },
-  {
-    "date": "2026-10-09",
-    "time": "21h00",
-    "title": "La Revanche Dune Brune",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Spectacle – Baptiste Trotignon Trio",
-    "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-baptiste-trotignon-trio/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/261010-BaptisteTrotignon-spectacle26-27_Affiche-470x705.png"
   },
   {
     "date": "2026-10-10",
@@ -500,146 +40,6 @@
     "image_url": "images/charles-vanel/le-proces-dune-vie.png"
   },
   {
-    "date": "2026-10-10",
-    "time": "16h00",
-    "title": "Contes en musique (4-6 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Brandon Gercara (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "18h00",
-    "title": "Rêve parade",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "20h30",
-    "title": "Khalil Epi",
-    "type": "concert",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "14h00",
-    "title": "Rencontre : Le Management 2.0",
-    "type": "atelier",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/10-10-2026-14h00-rencontre-le-management-2-0.html",
-    "image_url": "https://www.file7.com/wmedias/original/management-tilt-site.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "20h00",
-    "title": "CAMILLE YEMBE+Morgan",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/10-10-2026-20h00-camille-yembe-morgan.html",
-    "image_url": "https://www.file7.com/wmedias/original/CAMILLE_YEMBE_-_JNLAJDAP_-_PHOTO1_-_cAlexis_Vassiviere-440x340.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "14h30",
-    "title": "Philibert Le Magicien",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/philibert-le-magicien-2/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/12/philibert-1.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "21h00",
-    "title": "La Revanche Dune Brune",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune-2/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
-  },
-  {
-    "date": "2026-10-14",
-    "time": "11h00",
-    "title": "Comptines (1-3 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-10-14",
-    "time": "14h30",
-    "title": "La Ferme Des Animaux",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32809/images/20260608162718892.webp"
-  },
-  {
-    "date": "2026-10-14",
-    "time": "10h30",
-    "title": "Pop Circus",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/pop-circus-2/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/popcircus-scaled.jpg"
-  },
-  {
-    "date": "2026-10-14",
-    "time": "14h30",
-    "title": "Droles De Cubes",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/droles-de-cubes/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/Drole_de_cubes-1.jpeg"
-  },
-  {
-    "date": "2026-10-15",
-    "time": "21h00",
-    "title": "Daron Noir",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/daron-noir/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/Affiche-neutre_DaronNoir_2026-2.jpg"
-  },
-  {
     "date": "2026-10-16",
     "time": "20h30",
     "title": "Arnaud Tsamère, Tous contraints",
@@ -648,226 +48,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/arnaud-tsamere.png"
-  },
-  {
-    "date": "2026-10-16",
-    "time": "20h30",
-    "title": "Prélude",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/prelude",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b9c63bda76359ccf5823df3818d558304bf1e0f9bb0852b6b5065dacbcf9c4a1/aaaa39298d78/carlos_fernandes1-copie.png"
-  },
-  {
-    "date": "2026-10-16",
-    "time": "",
-    "title": "FEEL + Ruthee",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/feel-ruthee/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/SITE-250x250.jpg"
-  },
-  {
-    "date": "2026-10-16",
-    "time": "21h00",
-    "title": "Le Pire Noel Nexiste Pas",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/le-pire-noel-nexiste-pas/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/leperenoelexistepas.jpg"
-  },
-  {
-    "date": "2026-10-17",
-    "time": "",
-    "title": "Skarra Mucci x Manudigital",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/skarra-mucci-x-manudigital/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/0175-Skarra_Mucci-Manudigital-c-Stéphane-Buttigieg-BD-e1781773007628-250x250.jpg"
-  },
-  {
-    "date": "2026-10-17",
-    "time": "21h00",
-    "title": "Paris Comedy Club",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/paris-comedy-club-11/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/09/Capture-decran-2024-04-18-a-20.10.59-min.jpeg"
-  },
-  {
-    "date": "2026-10-19",
-    "time": "10h30",
-    "title": "Falabulle Et Cocobulle Une Histoire De Soeurs",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/falabulle-et-cocobulle-une-histoire-de-soeurs/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/falacoco-scaled.jpg"
-  },
-  {
-    "date": "2026-10-21",
-    "time": "10h30",
-    "title": "Bienvenue A Trouillarde",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/bienvenue-a-trouillarde/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Capture-decran-2026-05-27-a-21.12.21.png"
-  },
-  {
-    "date": "2026-10-22",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-10-22",
-    "time": "10h30",
-    "title": "Bienvenue A Trouillarde",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/bienvenue-a-trouillarde-4/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Capture-decran-2026-05-27-a-21.12.21.png"
-  },
-  {
-    "date": "2026-10-23",
-    "time": "21h00",
-    "title": "On Ne Couche Pas Aux Enterrements",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/on-ne-couche-pas-aux-enterrements/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/Capture-decran-2026-01-27-a-18.24.44.png"
-  },
-  {
-    "date": "2026-10-24",
-    "time": "15h00",
-    "title": "Café-Concert : Chloé Antoniotti",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/24-10-2026-15h00-cafe-concert-chloe-antoniotti.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ3-440x340.png"
-  },
-  {
-    "date": "2026-10-27",
-    "time": "10h30",
-    "title": "Chocottes Et Chamallows",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/chocottes-et-chamallows-9/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/06/affiche-chocottes_clean_2@4x-fotor-2025041962112-scaled-1.png"
-  },
-  {
-    "date": "2026-10-28",
-    "time": "",
-    "title": "Guitare : la pentatonique",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/atelier-guitare-la-pentatonique-autrement/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/koneski-guitare-250x250.jpg"
-  },
-  {
-    "date": "2026-10-28",
-    "time": "10h30",
-    "title": "Sorciere Pirate Et Crocodile",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/SPC_CYRANOS-1.jpg"
-  },
-  {
-    "date": "2026-10-29",
-    "time": "10h30",
-    "title": "Sorciere Pirate Et Crocodile",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile-4/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/SPC_CYRANOS-1.jpg"
-  },
-  {
-    "date": "2026-10-30",
-    "time": "20h00",
-    "title": "Just Dance",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/30-10-2026-20h00-just-dance.html",
-    "image_url": "https://file7.com/wmedias/original/just_dance_2024-440x340.png"
-  },
-  {
-    "date": "2026-10-31",
-    "time": "10h30",
-    "title": "Chocottes Et Chamallows",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/chocottes-et-chamallows-11/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/06/affiche-chocottes_clean_2@4x-fotor-2025041962112-scaled-1.png"
-  },
-  {
-    "date": "2026-11-01",
-    "time": "10h30",
-    "title": "Sorciere Pirate Et Crocodile",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile-5/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/SPC_CYRANOS-1.jpg"
-  },
-  {
-    "date": "2026-11-05",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-11-05",
-    "time": "21h00",
-    "title": "Tony Saint Laurent Dans Efficace",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/tony-saint-laurent-dans-efficace/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/affiche-efficace-1-scaled.jpg"
-  },
-  {
-    "date": "2026-11-06",
-    "time": "",
-    "title": "Joe Bel",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/joe-bel-elias-dris/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/V1-OK-Sarah-Balladere-scaled-e1780415657205-250x250.jpg"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "",
-    "title": "Spectacle – Pablo Mira",
-    "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-pablo-mira-2/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/261107-PabloMira-Affiche-spectacle26-27-scaled-470x705.png"
   },
   {
     "date": "2026-11-07",
@@ -880,106 +60,6 @@
     "image_url": "images/charles-vanel/les-coquettes.png"
   },
   {
-    "date": "2026-11-07",
-    "time": "16h00",
-    "title": "Contes en musique (4-6 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-11-07",
-    "time": "20h30",
-    "title": "Tristan Pierre - Mélanjolie",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/tristan-pierre-melanjolie.jpg"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "21h00",
-    "title": "Paris Comedy Club",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/paris-comedy-club-12/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/09/Capture-decran-2024-04-18-a-20.10.59-min.jpeg"
-  },
-  {
-    "date": "2026-11-12",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-11-12",
-    "time": "21h00",
-    "title": "Genant Avec Patrick Priard",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/genant-avec-patrick-priard/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/genant-scaled.jpg"
-  },
-  {
-    "date": "2026-11-13",
-    "time": "20h00",
-    "title": "REVNOIR+Solitaris+TRVMA",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/13-11-2026-20h00-revnoir-solitaris-trvma.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ4-440x340.png"
-  },
-  {
-    "date": "2026-11-13",
-    "time": "",
-    "title": "Leys + Tracy De Sá",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/tracy-de-sa-leys/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/SITE-1-250x250.jpg"
-  },
-  {
-    "date": "2026-11-13",
-    "time": "21h00",
-    "title": "Leurs Desirs Font Desordres",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/leurs-desirs-font-desordres/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/06/Capture_dE28099C3A9cran_2025-04-03_C3A0_17.07.22.png"
-  },
-  {
-    "date": "2026-11-14",
-    "time": "20h00",
-    "title": "Scène Ouverte",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/14-11-2026-20h00-scene-ouverte.html",
-    "image_url": "https://www.file7.com/wmedias/original/pexels-lstan-2147029-440x340.jpg"
-  },
-  {
-    "date": "2026-11-14",
-    "time": "20h30",
-    "title": "Le Cirque Des Mirages",
-    "type": "cirque",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32810/images/20260608162746028.webp"
-  },
-  {
     "date": "2026-11-15",
     "time": "17h00",
     "title": "Une heure à t'attendre",
@@ -988,106 +68,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/une-heure-a-tattendre.png"
-  },
-  {
-    "date": "2026-11-15",
-    "time": "17h00",
-    "title": "Ils Se Sont Aimes",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/ils-se-sont-aimes/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/Affiche-Ils-se-sont-aimes-1-HD-2-scaled.jpg"
-  },
-  {
-    "date": "2026-11-18",
-    "time": "11h00",
-    "title": "Comptines (1-3 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-11-18",
-    "time": "14h30",
-    "title": "Le Garçon De Toutes Les Couleurs",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32811/images/20260610170437404.webp"
-  },
-  {
-    "date": "2026-11-19",
-    "time": "14h30",
-    "title": "Super Week-end Kidz : Orel, Octave & Mélodie - séance scolaire",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/19-11-2026-14h30-super-week-end-kidz-orel-octave-melodie-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/OREL_OCTAVE_ET_MELODY-440x340.jpg"
-  },
-  {
-    "date": "2026-11-19",
-    "time": "21h00",
-    "title": "Kino Dans Panick Attack",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/kino-dans-panick-attack/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/kino-affiche.png"
-  },
-  {
-    "date": "2026-11-20",
-    "time": "14h30",
-    "title": "Super Week-end Kidz : INTO THE WOODS - Séance scolaire",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/20-11-2026-14h30-super-week-end-kidz-into-the-woods-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/INTO_THE_WOOD-440x340.jpg"
-  },
-  {
-    "date": "2026-11-20",
-    "time": "",
-    "title": "Lynn + Awa Ly",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/lynn-awa-ly/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/pf_1780328991-e1780571484802-250x250.png"
-  },
-  {
-    "date": "2026-11-20",
-    "time": "21h00",
-    "title": "Le Chalet De La Tentation",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/le-chalet-de-la-tentation/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/chalet.jpeg"
-  },
-  {
-    "date": "2026-11-21",
-    "time": "10h30",
-    "title": "Super Week-end Kidz : INTO THE WOODS",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/21-11-2026-10h30-super-week-end-kidz-into-the-woods.html",
-    "image_url": "https://www.file7.com/wmedias/original/INTO_THE_WOOD-440x340.jpg"
-  },
-  {
-    "date": "2026-11-25",
-    "time": "21h00",
-    "title": "Guillaume Fosko Dans Darons Fragiles",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/guillaume-fosko-dans-darons-fragiles/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/Darons-fragiles-affiche.png"
   },
   {
     "date": "2026-11-27",
@@ -1100,76 +80,6 @@
     "image_url": "images/charles-vanel/le-chant-des-lions.png"
   },
   {
-    "date": "2026-11-27",
-    "time": "20h00",
-    "title": "Soirées Fan Club : ​Erotic Secrets of Pompeii+Lila Ehjä",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/27-11-2026-20h00-soirees-fan-club-erotic-secrets-of-pompeii-lila-ehja.html",
-    "image_url": "https://www.file7.com/wmedias/original/zzz-ESOP_LILA_EHJA-440x340.png"
-  },
-  {
-    "date": "2026-11-28",
-    "time": "",
-    "title": "Seule la musique peut me toucher #4",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/seule-la-musique-peut-me-toucher-4/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/staff-ElisaCiavaldini1-250x250.jpg"
-  },
-  {
-    "date": "2026-12-02",
-    "time": "18h00",
-    "title": "Atelier Frères",
-    "type": "atelier",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32832/images/20260608171602292.webp"
-  },
-  {
-    "date": "2026-12-04",
-    "time": "20h00",
-    "title": "2L+Juste Shani",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/04-12-2026-20h00-2l-juste-shani.html",
-    "image_url": "https://www.file7.com/wmedias/original/zz_-_2L_JUSTE_SHANI-440x340.png"
-  },
-  {
-    "date": "2026-12-04",
-    "time": "20h30",
-    "title": "Frères",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32831/images/20260610170606814.webp"
-  },
-  {
-    "date": "2026-12-05",
-    "time": "",
-    "title": "Le Train de Noël (Dodo et Rémi)",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/le-train-de-noel.jpg"
-  },
-  {
-    "date": "2026-12-05",
-    "time": "",
-    "title": "Ouai Stéphane + Elisa Do Brasil",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/odyssee-ouaistephane-elisa-do-brasil/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/site-ouai-stephane-elisa-do-brasil-250x250.png"
-  },
-  {
     "date": "2026-12-10",
     "time": "20h30",
     "title": "L'Expérience théâtrale",
@@ -1178,16 +88,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/lexperience-theatrale.png"
-  },
-  {
-    "date": "2026-12-11",
-    "time": "",
-    "title": "The Inspector Cluzo",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/the-inspector-cluzo-2026/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/TIC_PRESS_2_PHOTO_cCyrilleVidal-250x250.jpg"
   },
   {
     "date": "2026-12-13",
@@ -1200,26 +100,6 @@
     "image_url": "images/charles-vanel/destination-noel.png"
   },
   {
-    "date": "2026-12-16",
-    "time": "",
-    "title": "Spectacle – Le Trésor des Jouets",
-    "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-le-tresor-des-jouets/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/261216-NoelEnfants-spectacle26-27-Affiche-scaled-470x705.png"
-  },
-  {
-    "date": "2026-12-19",
-    "time": "",
-    "title": "Lutherie niv. 2",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/stage-lutherie-niveau-2/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/finalllllllllll-250x250.jpg"
-  },
-  {
     "date": "2027-01-14",
     "time": "20h30",
     "title": "Tristan Lopin, Partez sans moi je vous rejoins",
@@ -1228,26 +108,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/tristan-lopin.png"
-  },
-  {
-    "date": "2027-01-15",
-    "time": "",
-    "title": "Spectacle – Le Manuel de la jeune mariée 1957",
-    "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-le-manuel-de-la-jeune-mariee-1957/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270115-ManuelJeuneMariee-spectacle26-27_Affiche-470x705.png"
-  },
-  {
-    "date": "2027-01-15",
-    "time": "",
-    "title": "Yael Naim",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/yael-naim/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/yael-naim-c-dr-scaled-2048x2048-1-250x250.jpg"
   },
   {
     "date": "2027-01-16",
@@ -1260,26 +120,6 @@
     "image_url": "images/charles-vanel/back-to-basics-vol-4.png"
   },
   {
-    "date": "2027-01-16",
-    "time": "20h30",
-    "title": "Et si c'était elle (Franck Buirod)",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/et-si-cetait-elle.jpg"
-  },
-  {
-    "date": "2027-01-17",
-    "time": "15h00",
-    "title": "Carmen",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32812/images/20260608162515957.webp"
-  },
-  {
     "date": "2027-01-21",
     "time": "20h30",
     "title": "Le Plateau de l'humour",
@@ -1288,56 +128,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/le-plateau-de-lhumour.png"
-  },
-  {
-    "date": "2027-01-29",
-    "time": "20h30",
-    "title": "Les Habitant-Es",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32814/images/20260608162820965.webp"
-  },
-  {
-    "date": "2027-01-30",
-    "time": "",
-    "title": "Concert – AJC Urban Vibes",
-    "type": "concert",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/concert-ajc-urban-vibes/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270130-AJC-spectacle26-27_Affiche-470x705.png"
-  },
-  {
-    "date": "2027-02-03",
-    "time": "14h30",
-    "title": "Moustache Academy",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32815/images/20260608162840143.webp"
-  },
-  {
-    "date": "2027-02-04",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2027-02-04",
-    "time": "18h30",
-    "title": "Atelier Quel Que Soit Le Nom Des Absent-E-S",
-    "type": "atelier",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32823/images/20260608171330168.webp"
   },
   {
     "date": "2027-02-05",
@@ -1350,46 +140,6 @@
     "image_url": "images/charles-vanel/le-repas-des-fauves.png"
   },
   {
-    "date": "2027-02-05",
-    "time": "20h00",
-    "title": "Soirées Fan Club : Guadal Tejaz+MDNS",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/05-02-2027-20h00-soirees-fan-club-guadal-tejaz-mdns.html",
-    "image_url": "https://www.file7.com/wmedias/original/zz_-_QUADAL_TEJAZ_-_MDNS_-_SITE-440x340.png"
-  },
-  {
-    "date": "2027-02-05",
-    "time": "",
-    "title": "Bilal Hassani",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/bilal-hassani/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/09/cTheo-Paul-Dufour-BD-e1788257028750-250x250.jpg"
-  },
-  {
-    "date": "2027-02-06",
-    "time": "20h00",
-    "title": "Pony Pony Run Run",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/06-02-2027-20h00-pony-pony-run-run.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ8-440x340.png"
-  },
-  {
-    "date": "2027-02-06",
-    "time": "20h30",
-    "title": "Comedy Club (Louise Duck, Morgan Poitrat, Najim Ziani, Veuria)",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/comedy-club-fevrier.jpg"
-  },
-  {
     "date": "2027-02-11",
     "time": "20h30",
     "title": "Giselle (Grand Ballet de Kiev)",
@@ -1398,26 +148,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/giselle.png"
-  },
-  {
-    "date": "2027-02-18",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2027-02-24",
-    "time": "11h00",
-    "title": "Comptines (1-3 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
   },
   {
     "date": "2027-02-26",
@@ -1430,26 +160,6 @@
     "image_url": "images/charles-vanel/le-dernier-cedre-du-liban.png"
   },
   {
-    "date": "2027-02-27",
-    "time": "16h00",
-    "title": "Contes en musique (4-6 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2027-02-27",
-    "time": "20h30",
-    "title": "Quel Que Soit Le Nom Des Absent-E-S",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32818/images/20260610171235223.webp"
-  },
-  {
     "date": "2027-02-28",
     "time": "15h00",
     "title": "Deux rien",
@@ -1458,26 +168,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/deux-rien.png"
-  },
-  {
-    "date": "2027-03-04",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2027-03-05",
-    "time": "",
-    "title": "Théâtre – L’Invitation",
-    "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/theatre-linvitation/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270305-linvitation-spectacle26-27_Affiche-scaled-470x705.png"
   },
   {
     "date": "2027-03-05",
@@ -1490,36 +180,6 @@
     "image_url": "images/charles-vanel/the-loop.png"
   },
   {
-    "date": "2027-03-05",
-    "time": "",
-    "title": "Elephanz",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/elephanz/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/250929-Elephanz-935-c-Guillaume-Blot-BD-250x250.jpg"
-  },
-  {
-    "date": "2027-03-06",
-    "time": "20h00",
-    "title": "Zélie",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/06-03-2027-20h00-zelie.html",
-    "image_url": "https://www.file7.com/wmedias/original/zzz_-_ZELIE-440x340.png"
-  },
-  {
-    "date": "2027-03-06",
-    "time": "20h30",
-    "title": "Enzo Ricci - Quetzal",
-    "type": "concert",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/enzo-ricci-quetzal.jpg"
-  },
-  {
     "date": "2027-03-12",
     "time": "20h30",
     "title": "Le Destin se moque des choix",
@@ -1528,76 +188,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/le-destin-se-moque-des-choix.png"
-  },
-  {
-    "date": "2027-03-13",
-    "time": "20h30",
-    "title": "L'Effet Papillon",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32819/images/20260608162652107.webp"
-  },
-  {
-    "date": "2027-03-18",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2027-03-19",
-    "time": "20h30",
-    "title": "Le Petit Prince",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32820/images/20260608162801873.webp"
-  },
-  {
-    "date": "2027-03-20",
-    "time": "",
-    "title": "Concert – Kitty Rock Show",
-    "type": "concert",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/concert-kitty-rock-show/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270320-KittyRockShow-spectacle26-27_Affiche-1-scaled-470x705.png"
-  },
-  {
-    "date": "2027-03-20",
-    "time": "20h30",
-    "title": "Guillaume Guisset en spectacle",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/guillaume-guisset.jpg"
-  },
-  {
-    "date": "2027-03-24",
-    "time": "11h00",
-    "title": "Comptines (1-3 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2027-03-24",
-    "time": "18h30",
-    "title": "Atelier Heppines Is Cheap",
-    "type": "atelier",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32822/images/20260610171926961.webp"
   },
   {
     "date": "2027-03-26",
@@ -1610,26 +200,6 @@
     "image_url": "images/charles-vanel/heritieres.png"
   },
   {
-    "date": "2027-03-26",
-    "time": "20h30",
-    "title": "Heppines Is Cheap",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32821/images/20260608162608352.webp"
-  },
-  {
-    "date": "2027-03-27",
-    "time": "16h00",
-    "title": "Contes en musique (4-6 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
     "date": "2027-03-28",
     "time": "17h00",
     "title": "Ciné-concert (Charlie Chaplin)",
@@ -1638,16 +208,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/cine-concert.png"
-  },
-  {
-    "date": "2027-04-01",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
   },
   {
     "date": "2027-04-02",
@@ -1660,26 +220,6 @@
     "image_url": "images/charles-vanel/geremy-credeville.png"
   },
   {
-    "date": "2027-04-04",
-    "time": "14h30",
-    "title": "Into The Woods",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32824/images/20260616160001627.webp"
-  },
-  {
-    "date": "2027-04-15",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
     "date": "2027-04-22",
     "time": "20h30",
     "title": "Juste Irena",
@@ -1688,36 +228,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/charles-vanel/juste-irena.png"
-  },
-  {
-    "date": "2027-04-24",
-    "time": "20h30",
-    "title": "Comedy Club (Robin Gomez, Super Baston, Méchante Coline, Axel Ramponi)",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/comedy-club-avril.jpg"
-  },
-  {
-    "date": "2027-04-24",
-    "time": "20h30",
-    "title": "Fils De Bâtard",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32825/images/20260608163648396.webp"
-  },
-  {
-    "date": "2027-04-25",
-    "time": "",
-    "title": "Magie, mentalisme – Mathieu Stepson",
-    "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/magie-mentalisme-mathieu-stepson/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270425-MathieuStepson-spectacle26-27_Affiche-scaled-470x705.png"
   },
   {
     "date": "2027-04-30",
@@ -1780,14 +290,254 @@
     "image_url": ""
   },
   {
-    "date": "2027-05-28",
-    "time": "",
-    "title": "Spectacle – Blandine Lehout",
+    "date": "2026-10-08",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
     "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/spectacle-blandine-lehout/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270528-BlandineLehout-spectacle26-27_Affiche-scaled-470x705.png"
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-05",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-04",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-04",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-01",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-22",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-12",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-18",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-18",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-15",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-27",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-27",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-14",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-18",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-24",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-24",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "20h30",
+    "title": "Tristan Pierre - Mélanjolie",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/tristan-pierre-melanjolie.jpg"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "",
+    "title": "Le Train de Noël (Dodo et Rémi)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/le-train-de-noel.jpg"
+  },
+  {
+    "date": "2027-01-16",
+    "time": "20h30",
+    "title": "Et si c'était elle (Franck Buirod)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/et-si-cetait-elle.jpg"
+  },
+  {
+    "date": "2027-02-06",
+    "time": "20h30",
+    "title": "Comedy Club (Louise Duck, Morgan Poitrat, Najim Ziani, Veuria)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/comedy-club-fevrier.jpg"
+  },
+  {
+    "date": "2027-03-06",
+    "time": "20h30",
+    "title": "Enzo Ricci - Quetzal",
+    "type": "concert",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/enzo-ricci-quetzal.jpg"
+  },
+  {
+    "date": "2027-03-20",
+    "time": "20h30",
+    "title": "Guillaume Guisset en spectacle",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/guillaume-guisset.jpg"
+  },
+  {
+    "date": "2027-04-24",
+    "time": "20h30",
+    "title": "Comedy Club (Robin Gomez, Super Baston, Méchante Coline, Axel Ramponi)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray/comedy-club-avril.jpg"
   },
   {
     "date": "2027-05-29",
@@ -1800,33 +550,403 @@
     "image_url": "images/coupvray/lancelot.jpg"
   },
   {
-    "date": "2027-06-19",
-    "time": "",
-    "title": "Fête de la musique",
+    "date": "2026-09-18",
+    "time": "20h30",
+    "title": "Smile",
     "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/fete-de-la-musique/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270619-FeteMusique27_Affiche-scaled-470x705.png"
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-smile",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Smile.png"
   },
   {
-    "date": "2027-06-26",
-    "time": "",
-    "title": "Théâtre – Chérie, j’ai pris le pain !",
+    "date": "2026-09-23",
+    "time": "20h30",
+    "title": "Verino",
     "type": "spectacle",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/theatre-cherie-jai-pris-le-pain/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270626-CoteCourJardin-spectacle26-27_Affiche-scaled-470x705.png"
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-verino",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Verino.png"
   },
   {
-    "date": "2098-86-51",
+    "date": "2026-09-25",
+    "time": "20h30",
+    "title": "Sortez-moi de là !",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/sortez-moi-de-la-30/150496",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Sortez-moi-de-la.png"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "20h30",
+    "title": "José Cruz",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/jose-cruz-56/150494",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Jose-Cruz.png"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "16h00",
+    "title": "Ma femme, la tienne, la nôtre",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/ma-femme-la-tienne-la-notre-19/150495",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Ma-femme-la-tienne-la-notre.png"
+  },
+  {
+    "date": "2026-11-05",
+    "time": "20h30",
+    "title": "La Fontaine",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-lafontaine",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/La-Fontaine.png"
+  },
+  {
+    "date": "2026-11-06",
+    "time": "20h30",
+    "title": "Giorgio le mentaliste",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-giorgio-le-mentaliste",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Giorgio.png"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "20h30",
+    "title": "Linh",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-linh",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Linh.png"
+  },
+  {
+    "date": "2026-11-20",
+    "time": "20h30",
+    "title": "The Opera Locos",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-the-opera-locos",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Opera-Locos.png"
+  },
+  {
+    "date": "2026-11-22",
+    "time": "11h00",
+    "title": "Mon premier opéra",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-mon-premier-opera",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Mon-premier-opera.png"
+  },
+  {
+    "date": "2026-11-27",
+    "time": "20h30",
+    "title": "Coup de bluff",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-coup-de-bluff",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Coup-de-bluff.png"
+  },
+  {
+    "date": "2026-11-29",
+    "time": "16h00",
+    "title": "Les parents viennent de mars (chez maman)",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/les-parents-viennent-de-mars-chez-maman-30/154785",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Les-parents-viennent-de-mars.png"
+  },
+  {
+    "date": "2026-12-19",
+    "time": "20h30",
+    "title": "Gospel Fire",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-gospel-fire",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Gospel.png"
+  },
+  {
+    "date": "2027-01-22",
+    "time": "20h30",
+    "title": "The French Twins",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-the-french-twins",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/French-twins.png"
+  },
+  {
+    "date": "2027-01-23",
+    "time": "20h30",
+    "title": "Elles pardonnent mais n'oublient jamais",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/elles-pardonnent-mais-noublient-jamais-38/159768",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Elles-pardonnent.png"
+  },
+  {
+    "date": "2027-01-29",
+    "time": "20h30",
+    "title": "Appelez-moi Walt",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-appelez-moi-walt",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Walt.png"
+  },
+  {
+    "date": "2027-02-26",
+    "time": "20h30",
+    "title": "Mahé",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-mahe",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Mahe.png"
+  },
+  {
+    "date": "2027-02-27",
+    "time": "20h30",
+    "title": "Le Cid",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-le-cid",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Le-CID.png"
+  },
+  {
+    "date": "2027-03-12",
+    "time": "20h30",
+    "title": "L'art du couple",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/lart-du-couple-70/159769",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Lart-du-couple.png"
+  },
+  {
+    "date": "2027-03-14",
+    "time": "11h00",
+    "title": "Rémi - ma guitare à tiroirs",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/remi-ma-guitare-a-tiroirs-montevrain",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Remi-Comptines.png"
+  },
+  {
+    "date": "2027-03-19",
+    "time": "20h30",
+    "title": "Balavoine, hommage",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-balavoine-hommage",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Balavoine.png"
+  },
+  {
+    "date": "2027-03-27",
+    "time": "18h30",
+    "title": "Zélie la pirate",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-zelie-la-pirate",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Zelie-la-Pirate.png"
+  },
+  {
+    "date": "2027-04-02",
+    "time": "20h30",
+    "title": "John Sulo",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-john-sulo",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/John-Sulo.png"
+  },
+  {
+    "date": "2027-04-16",
+    "time": "20h30",
+    "title": "Zack et Stan",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-zack-stan",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Zack-et-Stan.png"
+  },
+  {
+    "date": "2027-04-24",
+    "time": "20h30",
+    "title": "L'affaire est dans le sac",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/laffaire-est-dans-le-sac-9/159767",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Laffaire-est-dans-le-sac.png"
+  },
+  {
+    "date": "2027-04-30",
+    "time": "20h30",
+    "title": "No One Is Innocent",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-no-one-is-innocent",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/No-one-is-innocent.png"
+  },
+  {
+    "date": "2027-05-13",
+    "time": "20h30",
+    "title": "Manu Lanvin",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-manu-lanvin",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Manu-Lanvin.png"
+  },
+  {
+    "date": "2027-05-21",
+    "time": "20h30",
+    "title": "Karine Dubernet",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-karine-dubernet",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Karine-Dubernet.png"
+  },
+  {
+    "date": "2027-05-22",
+    "time": "20h30",
+    "title": "En panne de toi",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/en-panne-de-toi-5/159766",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/En-panne-de-toi.png"
+  },
+  {
+    "date": "2026-09-19",
     "time": "",
-    "title": "Ateliers d’Éveil musical 0-3 ans",
+    "title": "Journées européennes du patrimoine (jusqu'au 20/09)",
+    "type": "spectacle",
+    "venue": "Cité Menier",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-09-19",
+    "time": "",
+    "title": "Regards sur Noisiel — Christine et Joseph Aligon (expo, jusqu'au 10/10)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-17",
+    "time": "",
+    "title": "Balade urbaine : Formes et couleurs de la ville",
     "type": "atelier",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/ateliers-deveil-musical-0-3-ans/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/05/705988651_1281959090816992_3070565411438688717_n-470x704.jpg"
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-14",
+    "time": "",
+    "title": "Balade insolite nocturne — À l'heure où les arbres murmurent (aussi le 21/11)",
+    "type": "atelier",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-21",
+    "time": "",
+    "title": "Rencontres photographiques (expo, jusqu'au 12/12)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-09",
+    "time": "18h00",
+    "title": "Plein Feu",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-09",
+    "time": "",
+    "title": "Cécile Pignon (expo, jusqu'au 30/01)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-06",
+    "time": "",
+    "title": "Journée internationale des droits des femmes (jusqu'au 13/03)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-20",
+    "time": "",
+    "title": "Salon du Luz'Art (expo, jusqu'au 03/04)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-05",
+    "time": "",
+    "title": "Martinefa (expo, jusqu'au 29/05)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-22",
+    "time": "",
+    "title": "Nuit européenne des musées — Entre ombres et lumière",
+    "type": "atelier",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
   }
 ]

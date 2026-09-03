@@ -1,16 +1,6 @@
 [
   {
     "date": "2026-09-11",
-    "time": "",
-    "title": "Bakana (jusqu'au 27/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/bakana",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNORGswIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--c193ddde06c0b4f842a6d4fa923f1c66b84b77f49187f1e8f9ab1533ee212266/4ee77634c5b1/fete-du-cirque-25-bakana-a-nicolas-bram-18-web.jpg"
-  },
-  {
-    "date": "2026-09-11",
     "time": "21h00",
     "title": "Leffet Papillon Taha Mansour Mentaliste",
     "type": "spectacle",
@@ -117,7 +107,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/gueules-noires.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/gueules-noires.png"
   },
   {
     "date": "2026-09-20",
@@ -172,16 +162,6 @@
   {
     "date": "2026-09-25",
     "time": "",
-    "title": "En attendant le grand soir (jusqu'au 26/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/en-attendant-le-grand-soir",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFF3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--29446e5576b4af005660d178cb70360124b45c7012417f3b1e85d3aa162812fe/f0d01d841a97/029_marc-ras_7822.jpg"
-  },
-  {
-    "date": "2026-09-25",
-    "time": "",
     "title": "Alex Montembault",
     "type": "concert",
     "venue": "Les Cuizines",
@@ -207,7 +187,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/trash.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/trash.png"
   },
   {
     "date": "2026-09-26",
@@ -311,16 +291,6 @@
   },
   {
     "date": "2026-10-02",
-    "time": "19h00",
-    "title": "Atelier Chant",
-    "type": "atelier",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/atelier-chant",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFl5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--fbcf67b8514dd0c5b3da8600844de9ad2df31f4bce3ca3e5a9bb5f566536e89a/2f79e20c631e/capture-d-ecran-2025-02-10-a-17-15-15.jpg"
-  },
-  {
-    "date": "2026-10-02",
     "time": "20h00",
     "title": "Jam Session",
     "type": "concert",
@@ -348,16 +318,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/delivrez-nous-du-male/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Affiche_ok_HQ-1.jpg"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "20h30",
-    "title": "La Beauté intérieure",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/la-beaute-interieur",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFU0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--e7e08bf2fcf6e172ad3ab58ec6ab9d4cd76d09f93d780067aea6c7afa85f36b2/5ee245e5cf01/_dsc2356.jpg"
   },
   {
     "date": "2026-10-03",
@@ -417,7 +377,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/mulan.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/mulan.png"
   },
   {
     "date": "2026-10-04",
@@ -507,7 +467,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/le-proces-dune-vie.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/le-proces-dune-vie.png"
   },
   {
     "date": "2026-10-10",
@@ -518,46 +478,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Brandon Gercara (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "18h00",
-    "title": "Rêve parade",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "20h30",
-    "title": "Khalil Epi",
-    "type": "concert",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
   },
   {
     "date": "2026-10-10",
@@ -657,17 +577,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/arnaud-tsamere.png"
-  },
-  {
-    "date": "2026-10-16",
-    "time": "20h30",
-    "title": "Prélude",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/prelude",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b9c63bda76359ccf5823df3818d558304bf1e0f9bb0852b6b5065dacbcf9c4a1/aaaa39298d78/carlos_fernandes1-copie.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/arnaud-tsamere.png"
   },
   {
     "date": "2026-10-16",
@@ -887,7 +797,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/les-coquettes.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/les-coquettes.png"
   },
   {
     "date": "2026-11-07",
@@ -907,7 +817,7 @@
     "venue": "L'Atmosphère",
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/tristan-pierre-melanjolie.jpg"
+    "image_url": "images/coupvray_lAtmosphere/tristan-pierre-melanjolie.jpg"
   },
   {
     "date": "2026-11-07",
@@ -997,7 +907,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/une-heure-a-tattendre.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/une-heure-a-tattendre.png"
   },
   {
     "date": "2026-11-15",
@@ -1107,7 +1017,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/le-chant-des-lions.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/le-chant-des-lions.png"
   },
   {
     "date": "2026-11-27",
@@ -1167,7 +1077,7 @@
     "venue": "L'Atmosphère",
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/le-train-de-noel.jpg"
+    "image_url": "images/coupvray_lAtmosphere/le-train-de-noel.jpg"
   },
   {
     "date": "2026-12-05",
@@ -1187,7 +1097,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/lexperience-theatrale.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/lexperience-theatrale.png"
   },
   {
     "date": "2026-12-11",
@@ -1207,7 +1117,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/destination-noel.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/destination-noel.png"
   },
   {
     "date": "2026-12-16",
@@ -1237,7 +1147,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/tristan-lopin.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/tristan-lopin.png"
   },
   {
     "date": "2027-01-15",
@@ -1267,7 +1177,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/back-to-basics-vol-4.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/back-to-basics-vol-4.png"
   },
   {
     "date": "2027-01-16",
@@ -1277,7 +1187,7 @@
     "venue": "L'Atmosphère",
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/et-si-cetait-elle.jpg"
+    "image_url": "images/coupvray_lAtmosphere/et-si-cetait-elle.jpg"
   },
   {
     "date": "2027-01-17",
@@ -1297,7 +1207,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/le-plateau-de-lhumour.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/le-plateau-de-lhumour.png"
   },
   {
     "date": "2027-01-29",
@@ -1357,7 +1267,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/le-repas-des-fauves.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/le-repas-des-fauves.png"
   },
   {
     "date": "2027-02-05",
@@ -1397,7 +1307,7 @@
     "venue": "L'Atmosphère",
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/comedy-club-fevrier.jpg"
+    "image_url": "images/coupvray_lAtmosphere/comedy-club-fevrier.jpg"
   },
   {
     "date": "2027-02-11",
@@ -1407,7 +1317,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/giselle.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/giselle.png"
   },
   {
     "date": "2027-02-18",
@@ -1437,7 +1347,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/le-dernier-cedre-du-liban.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/le-dernier-cedre-du-liban.png"
   },
   {
     "date": "2027-02-27",
@@ -1467,7 +1377,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/deux-rien.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/deux-rien.png"
   },
   {
     "date": "2027-03-04",
@@ -1497,7 +1407,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/the-loop.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/the-loop.png"
   },
   {
     "date": "2027-03-05",
@@ -1527,7 +1437,7 @@
     "venue": "L'Atmosphère",
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/enzo-ricci-quetzal.jpg"
+    "image_url": "images/coupvray_lAtmosphere/enzo-ricci-quetzal.jpg"
   },
   {
     "date": "2027-03-12",
@@ -1537,7 +1447,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/le-destin-se-moque-des-choix.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/le-destin-se-moque-des-choix.png"
   },
   {
     "date": "2027-03-13",
@@ -1587,7 +1497,7 @@
     "venue": "L'Atmosphère",
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/guillaume-guisset.jpg"
+    "image_url": "images/coupvray_lAtmosphere/guillaume-guisset.jpg"
   },
   {
     "date": "2027-03-24",
@@ -1617,7 +1527,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/heritieres.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/heritieres.png"
   },
   {
     "date": "2027-03-26",
@@ -1647,7 +1557,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/cine-concert.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/cine-concert.png"
   },
   {
     "date": "2027-04-01",
@@ -1667,7 +1577,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/geremy-credeville.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/geremy-credeville.png"
   },
   {
     "date": "2027-04-04",
@@ -1697,7 +1607,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/juste-irena.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/juste-irena.png"
   },
   {
     "date": "2027-04-24",
@@ -1707,7 +1617,7 @@
     "venue": "L'Atmosphère",
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/comedy-club-avril.jpg"
+    "image_url": "images/coupvray_lAtmosphere/comedy-club-avril.jpg"
   },
   {
     "date": "2027-04-24",
@@ -1737,7 +1647,7 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/charles-vanel/marius.png"
+    "image_url": "images/lagnySurMarne_charlesVanel/marius.png"
   },
   {
     "date": "2027-05-11",
@@ -1807,7 +1717,7 @@
     "venue": "L'Atmosphère",
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray/lancelot.jpg"
+    "image_url": "images/coupvray_lAtmosphere/lancelot.jpg"
   },
   {
     "date": "2027-06-19",

@@ -11,20 +11,30 @@ from dataclasses import asdict
 from pathlib import Path
 
 from common import Event
-from scrapers import lescuizines, file7, ferme_du_buisson, apidae_fiche, st_thibault, ferme_corsange, we_welcome, noisiel_billetterie
-# Le Millésime n'est plus scrapé automatiquement : le site bloque
-# systématiquement les requêtes venant des serveurs GitHub (erreur 418).
-# Son programme est maintenu à la main dans data/manual_events.json.
+from scrapers import (
+    chelles_lesCuizines,
+    magnyLeHongre_file7,
+    noisiel_fermeDuBuisson,
+    noisiel_auditoriumJeanCocteau,
+    stThibaultDesVignes_centreCulturelMarcBrinon,
+    coupvray_fermeCorsange,
+    lagnySurMarne_weWelcome,
+    noisiel_poleCulturelMichelLegrand,
+)
+# montevrain_leMillesime n'est plus scrapé automatiquement : le site
+# bloque systématiquement les requêtes venant des serveurs GitHub
+# (erreur 418). Son programme est maintenu à la main dans
+# data/manual_events.json.
 
 SCRAPERS = [
-    ("Les Cuizines", lescuizines),
-    ("File7", file7),
-    ("Ferme du Buisson", ferme_du_buisson),
-    ("Fiches Apidae (Jean-Cocteau, Marc Brinon)", apidae_fiche),
-    ("Saint-Thibault-des-Vignes", st_thibault),
-    ("La Ferme Corsange (via VosTickets)", ferme_corsange),
-    ("We Welcome", we_welcome),
-    ("Noisiel — billetterie Pôle culturel", noisiel_billetterie),
+    ("Chelles — Les Cuizines", chelles_lesCuizines),
+    ("Magny-le-Hongre — File7", magnyLeHongre_file7),
+    ("Noisiel — Ferme du Buisson", noisiel_fermeDuBuisson),
+    ("Noisiel — Auditorium Jean-Cocteau", noisiel_auditoriumJeanCocteau),
+    ("Saint-Thibault-des-Vignes — Centre culturel / Marc Brinon", stThibaultDesVignes_centreCulturelMarcBrinon),
+    ("Coupvray — La Ferme Corsange (via VosTickets)", coupvray_fermeCorsange),
+    ("Lagny-sur-Marne — We Welcome", lagnySurMarne_weWelcome),
+    ("Noisiel — Pôle culturel Michel-Legrand (billetterie)", noisiel_poleCulturelMichelLegrand),
 ]
 
 

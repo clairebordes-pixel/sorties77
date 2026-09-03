@@ -116,6 +116,47 @@ def fetch(url: str, timeout=15, retries=3) -> str:
     raise last_error
 
 
+def scrape_apidae_fiche(url: str, venue: str, city: str):
+    """
+    Logique partagée pour scraper UNE fiche "événement" Apidae Tourisme
+    (tourisme-pvm.fr, marneetgondoire-tourisme.fr, etc.). Chaque salle
+    utilisant Apidae appelle cette fonction avec sa propre URL/venue/city
+    depuis son propre fichier scrapers/<ville>_<salle>.py — pas besoin de
+    toucher à un fichier partagé pour ajouter une nouvelle salle.
+
+    Ces fiches ne listent en général qu'UNE seule date (ou une série de
+    dates répétées) par page, contrairement à d'autres sites qui listent
+    toute une saison.
+    """
+    from bs4 import BeautifulSoup
+
+    events = []
+    html = fetch(url)
+    soup = BeautifulSoup(html, "html.parser")
+    text = soup.get_text("\n", strip=True)
+
+    title_tag = soup.find(["h1", "h2"])
+    title = title_tag.get_text(strip=True) if title_tag else venue
+
+    for line in text.split("\n"):
+        date = parse_date_fr(line)
+        if not date:
+            continue
+        time = parse_time_fr(line)
+        events.append(
+            Event(
+                date=date,
+                time=time,
+                title=title,
+                type="saison",
+                venue=venue,
+                city=city,
+                source_url=url,
+            )
+        )
+    return events
+
+
 def write_events(events, out_path: str):
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:

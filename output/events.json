@@ -1,16 +1,6 @@
 [
   {
     "date": "2026-09-11",
-    "time": "",
-    "title": "Bakana (jusqu'au 27/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/bakana",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNORGswIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--c193ddde06c0b4f842a6d4fa923f1c66b84b77f49187f1e8f9ab1533ee212266/4ee77634c5b1/fete-du-cirque-25-bakana-a-nicolas-bram-18-web.jpg"
-  },
-  {
-    "date": "2026-09-11",
     "time": "21h00",
     "title": "Leffet Papillon Taha Mansour Mentaliste",
     "type": "spectacle",
@@ -38,16 +28,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/wog-les-soirees-welcome-only-girls-4/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2025/12/affiche-datee.png"
-  },
-  {
-    "date": "2026-09-18",
-    "time": "20h00",
-    "title": "Concert Jungeli",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/34138/images/20260901110106068.webp"
   },
   {
     "date": "2026-09-18",
@@ -211,16 +191,6 @@
   },
   {
     "date": "2026-09-25",
-    "time": "",
-    "title": "En attendant le grand soir (jusqu'au 26/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/en-attendant-le-grand-soir",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFF3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--29446e5576b4af005660d178cb70360124b45c7012417f3b1e85d3aa162812fe/f0d01d841a97/029_marc-ras_7822.jpg"
-  },
-  {
-    "date": "2026-09-25",
     "time": "20h30",
     "title": "Sortez-moi de là !",
     "type": "spectacle",
@@ -268,26 +238,6 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/26-09-2026-20h00-ebony-tessa-galli.html",
     "image_url": "https://www.file7.com/wmedias/original/EBONY_SITE-440x340.png"
-  },
-  {
-    "date": "2026-09-26",
-    "time": "10h00",
-    "title": "Carte Abonne",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/33076/images/20260615145942133.webp"
-  },
-  {
-    "date": "2026-09-27",
-    "time": "15h00",
-    "title": "Sherlock Holmes Et Le Signe Des Quatre",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32806/images/20260608162922437.webp"
   },
   {
     "date": "2026-09-27",
@@ -361,16 +311,6 @@
   },
   {
     "date": "2026-10-02",
-    "time": "19h00",
-    "title": "Atelier Chant",
-    "type": "atelier",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/atelier-chant",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFl5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--fbcf67b8514dd0c5b3da8600844de9ad2df31f4bce3ca3e5a9bb5f566536e89a/2f79e20c631e/capture-d-ecran-2025-02-10-a-17-15-15.jpg"
-  },
-  {
-    "date": "2026-10-02",
     "time": "20h00",
     "title": "Jam Session",
     "type": "concert",
@@ -398,16 +338,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/delivrez-nous-du-male/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Affiche_ok_HQ-1.jpg"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "20h30",
-    "title": "La Beauté intérieure",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/la-beaute-interieur",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFU0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--e7e08bf2fcf6e172ad3ab58ec6ab9d4cd76d09f93d780067aea6c7afa85f36b2/5ee245e5cf01/_dsc2356.jpg"
   },
   {
     "date": "2026-10-03",
@@ -571,46 +501,6 @@
   },
   {
     "date": "2026-10-10",
-    "time": "",
-    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Brandon Gercara (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "18h00",
-    "title": "Rêve parade",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "20h30",
-    "title": "Khalil Epi",
-    "type": "concert",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
-  },
-  {
-    "date": "2026-10-10",
     "time": "14h00",
     "title": "Rencontre : Le Management 2.0",
     "type": "atelier",
@@ -681,16 +571,6 @@
   },
   {
     "date": "2026-10-14",
-    "time": "14h30",
-    "title": "La Ferme Des Animaux",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32809/images/20260608162718892.webp"
-  },
-  {
-    "date": "2026-10-14",
     "time": "10h30",
     "title": "Pop Circus",
     "type": "spectacle",
@@ -728,16 +608,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/arnaud-tsamere.png"
-  },
-  {
-    "date": "2026-10-16",
-    "time": "20h30",
-    "title": "Prélude",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/prelude",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--b9c63bda76359ccf5823df3818d558304bf1e0f9bb0852b6b5065dacbcf9c4a1/aaaa39298d78/carlos_fernandes1-copie.png"
   },
   {
     "date": "2026-10-16",
@@ -1092,16 +962,6 @@
   {
     "date": "2026-11-14",
     "time": "20h30",
-    "title": "Le Cirque Des Mirages",
-    "type": "cirque",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32810/images/20260608162746028.webp"
-  },
-  {
-    "date": "2026-11-14",
-    "time": "20h30",
     "title": "Linh",
     "type": "spectacle",
     "venue": "Le Millésime",
@@ -1148,16 +1008,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
-  },
-  {
-    "date": "2026-11-18",
-    "time": "14h30",
-    "title": "Le Garçon De Toutes Les Couleurs",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32811/images/20260610170437404.webp"
   },
   {
     "date": "2026-11-19",
@@ -1310,16 +1160,6 @@
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Les-parents-viennent-de-mars.png"
   },
   {
-    "date": "2026-12-02",
-    "time": "18h00",
-    "title": "Atelier Frères",
-    "type": "atelier",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32832/images/20260608171602292.webp"
-  },
-  {
     "date": "2026-12-04",
     "time": "20h00",
     "title": "2L+Juste Shani",
@@ -1328,16 +1168,6 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/04-12-2026-20h00-2l-juste-shani.html",
     "image_url": "https://www.file7.com/wmedias/original/zz_-_2L_JUSTE_SHANI-440x340.png"
-  },
-  {
-    "date": "2026-12-04",
-    "time": "20h30",
-    "title": "Frères",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32831/images/20260610170606814.webp"
   },
   {
     "date": "2026-12-05",
@@ -1490,16 +1320,6 @@
     "image_url": "images/coupvray_lAtmosphere/et-si-cetait-elle.jpg"
   },
   {
-    "date": "2027-01-17",
-    "time": "15h00",
-    "title": "Carmen",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32812/images/20260608162515957.webp"
-  },
-  {
     "date": "2027-01-21",
     "time": "20h30",
     "title": "Le Plateau de l'humour",
@@ -1532,16 +1352,6 @@
   {
     "date": "2027-01-29",
     "time": "20h30",
-    "title": "Les Habitant-Es",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32814/images/20260608162820965.webp"
-  },
-  {
-    "date": "2027-01-29",
-    "time": "20h30",
     "title": "Appelez-moi Walt",
     "type": "spectacle",
     "venue": "Le Millésime",
@@ -1560,16 +1370,6 @@
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270130-AJC-spectacle26-27_Affiche-470x705.png"
   },
   {
-    "date": "2027-02-03",
-    "time": "14h30",
-    "title": "Moustache Academy",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32815/images/20260608162840143.webp"
-  },
-  {
     "date": "2027-02-04",
     "time": "19h30",
     "title": "Soirée stand-up (au bar)",
@@ -1578,16 +1378,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
-  },
-  {
-    "date": "2027-02-04",
-    "time": "18h30",
-    "title": "Atelier Quel Que Soit Le Nom Des Absent-E-S",
-    "type": "atelier",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32823/images/20260608171330168.webp"
   },
   {
     "date": "2027-02-05",
@@ -1702,16 +1492,6 @@
   {
     "date": "2027-02-27",
     "time": "20h30",
-    "title": "Quel Que Soit Le Nom Des Absent-E-S",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32818/images/20260610171235223.webp"
-  },
-  {
-    "date": "2027-02-27",
-    "time": "20h30",
     "title": "Le Cid",
     "type": "spectacle",
     "venue": "Le Millésime",
@@ -1820,16 +1600,6 @@
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Lart-du-couple.png"
   },
   {
-    "date": "2027-03-13",
-    "time": "20h30",
-    "title": "L'Effet Papillon",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32819/images/20260608162652107.webp"
-  },
-  {
     "date": "2027-03-14",
     "time": "11h00",
     "title": "Rémi - ma guitare à tiroirs",
@@ -1848,16 +1618,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
-  },
-  {
-    "date": "2027-03-19",
-    "time": "20h30",
-    "title": "Le Petit Prince",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32820/images/20260608162801873.webp"
   },
   {
     "date": "2027-03-19",
@@ -1910,16 +1670,6 @@
     "image_url": ""
   },
   {
-    "date": "2027-03-24",
-    "time": "18h30",
-    "title": "Atelier Heppines Is Cheap",
-    "type": "atelier",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32822/images/20260610171926961.webp"
-  },
-  {
     "date": "2027-03-26",
     "time": "20h30",
     "title": "Héritières",
@@ -1928,16 +1678,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/heritieres.png"
-  },
-  {
-    "date": "2027-03-26",
-    "time": "20h30",
-    "title": "Heppines Is Cheap",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32821/images/20260608162608352.webp"
   },
   {
     "date": "2027-03-27",
@@ -2010,16 +1750,6 @@
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/John-Sulo.png"
   },
   {
-    "date": "2027-04-04",
-    "time": "14h30",
-    "title": "Into The Woods",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32824/images/20260616160001627.webp"
-  },
-  {
     "date": "2027-04-15",
     "time": "19h30",
     "title": "Soirée concert (au bar)",
@@ -2058,16 +1788,6 @@
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
     "image_url": "images/coupvray_lAtmosphere/comedy-club-avril.jpg"
-  },
-  {
-    "date": "2027-04-24",
-    "time": "20h30",
-    "title": "Fils De Bâtard",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32825/images/20260608163648396.webp"
   },
   {
     "date": "2027-04-24",

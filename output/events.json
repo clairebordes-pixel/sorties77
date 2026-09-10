@@ -150,16 +150,6 @@
     "image_url": ""
   },
   {
-    "date": "2026-09-10",
-    "time": "14h00",
-    "title": "Atelier taïso et nutrition",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/8653c21d-947b-40f6-8de3-e05c5e243d91/atelier-taiso-et-nutrition",
-    "image_url": "https://collegien.fr/s/agenda/4b29fa4efe4fb7bc667c7b301b74d52d/gettyimages-1396052053-1788342608-resize.jpg"
-  },
-  {
     "date": "2026-09-11",
     "time": "",
     "title": "Bakana (jusqu'au 27/09)",
@@ -1141,6 +1131,16 @@
   },
   {
     "date": "2026-10-11",
+    "time": "14h00",
+    "title": "Le Club ZAP",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/le-club-zap-8",
+    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBNamc1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--50e942d21d6db6ae42f95766b6a0006cdf1ce84c009e09658445868b7c9f0876/c609fd81ff71/club-zap-c-nina-de-castro-7-min.jpg"
+  },
+  {
+    "date": "2026-10-11",
     "time": "16h00",
     "title": "Ma femme, la tienne, la nôtre",
     "type": "spectacle",
@@ -1358,16 +1358,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/80b41db7-5a6c-426f-9986-26a9892d0ab4/cafe-numerique-mieux-maitriser-son-smartphone",
     "image_url": "https://collegien.fr/s/agenda/12311d05c9aa67765703984239511212/gettyimages-1322157897-1788277220-resize.jpg"
-  },
-  {
-    "date": "2026-10-21",
-    "time": "",
-    "title": "Ateliers en famille (jusqu'au 09/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/ateliers-en-famille-brandon-maissane",
-    "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBOVGd4IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--5c24783f1e8ec93f232fc33c134271e589a4bb6aad9797190be6475f8a8a97ce/3a6125b65cd5/ateliers-c-nina-de-castro-1.jpg"
   },
   {
     "date": "2026-10-21",

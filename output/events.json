@@ -161,6 +161,16 @@
   },
   {
     "date": "2026-09-19",
+    "time": "21h00",
+    "title": "Marine Leonardi - Mauvaise graine",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/marine-leonardi-mauvaise-graine-3097.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-09-19",
     "time": "",
     "title": "Jam Session",
     "type": "concert",
@@ -621,6 +631,16 @@
   },
   {
     "date": "2026-10-03",
+    "time": "21h00",
+    "title": "Ma Famille en Or",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/ma-famille-en-or-3098.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-03",
     "time": "",
     "title": "Neuvième Planète",
     "type": "concert",
@@ -988,6 +1008,16 @@
     "city": "Noisiel",
     "source_url": "https://www.lafermedubuisson.com/fr/le-club-zap-8",
     "image_url": "https://www.lafermedubuisson.com/media/cache/fdb_list/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBNamc1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ%3D%3D--50e942d21d6db6ae42f95766b6a0006cdf1ce84c009e09658445868b7c9f0876/c609fd81ff71/club-zap-c-nina-de-castro-7-min.jpg"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "16h00",
+    "title": "Tous à l'opéra",
+    "type": "concert",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/tous-a-l-opera-3099.html",
+    "image_url": ""
   },
   {
     "date": "2026-10-11",
@@ -1592,6 +1622,16 @@
   {
     "date": "2026-11-07",
     "time": "21h00",
+    "title": "Michaël Hirsch - Y'a de la joie !",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/michael-hirsch-y-a-de-la-joie-3100.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "21h00",
     "title": "Paris Comedy Club",
     "type": "spectacle",
     "venue": "We Welcome",
@@ -1881,6 +1921,16 @@
   },
   {
     "date": "2026-11-21",
+    "time": "21h00",
+    "title": "Le malade imaginaire",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/le-malade-imaginaire-3101.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-21",
     "time": "",
     "title": "Rencontres photographiques (expo, jusqu'au 12/12)",
     "type": "spectacle",
@@ -2111,6 +2161,16 @@
   },
   {
     "date": "2026-12-05",
+    "time": "21h00",
+    "title": "Mathieu Stepson",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/mathieu-stepson-3102.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-12-05",
     "time": "",
     "title": "Ouai Stéphane + Elisa Do Brasil",
     "type": "concert",
@@ -2260,6 +2320,26 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/finalllllllllll-250x250.jpg"
   },
   {
+    "date": "2026-12-20",
+    "time": "15h00",
+    "title": "Choubidouwa",
+    "type": "concert",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/choubidouwa-3104.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-09",
+    "time": "21h00",
+    "title": "L'invitation",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/l-invitation-3105.html",
+    "image_url": ""
+  },
+  {
     "date": "2027-01-09",
     "time": "18h00",
     "title": "Plein Feu",
@@ -2338,6 +2418,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/le-plateau-de-lhumour.png"
+  },
+  {
+    "date": "2027-01-22",
+    "time": "21h00",
+    "title": "Nicolas Canteloup - Nouveau spectacle",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/nicolas-canteloup-nouveau-spectacle-3106.html",
+    "image_url": ""
   },
   {
     "date": "2027-01-22",
@@ -2501,6 +2591,16 @@
   },
   {
     "date": "2027-02-27",
+    "time": "21h00",
+    "title": "Jessé - Message personnel",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/jesse-message-personnel-3107.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-27",
     "time": "20h30",
     "title": "Le Cid",
     "type": "spectacle",
@@ -2581,6 +2681,16 @@
   },
   {
     "date": "2027-03-06",
+    "time": "21h00",
+    "title": "Léopold Lemarchand - Premier spectacle",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/leopold-lemarchand-premier-spectacle-3108.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-06",
     "time": "",
     "title": "Journée internationale des droits des femmes (jusqu'au 13/03)",
     "type": "spectacle",
@@ -2658,6 +2768,16 @@
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
     "image_url": "images/coupvray_lAtmosphere/guillaume-guisset.jpg"
+  },
+  {
+    "date": "2027-03-20",
+    "time": "21h00",
+    "title": "Du charbon dans les veines",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/du-charbon-dans-les-veines-3109.html",
+    "image_url": ""
   },
   {
     "date": "2027-03-20",
@@ -2801,6 +2921,16 @@
   },
   {
     "date": "2027-04-24",
+    "time": "21h00",
+    "title": "Le journal d'Édouard Baer à Serris",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/le-journal-d-edouard-baer-a-serris-3110.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-24",
     "time": "20h30",
     "title": "L'affaire est dans le sac",
     "type": "spectacle",
@@ -2900,6 +3030,16 @@
     "image_url": ""
   },
   {
+    "date": "2027-05-14",
+    "time": "21h00",
+    "title": "Arnaud Tsamère - Tous contraints (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/arnaud-tsamere-tous-contraints-3111.html",
+    "image_url": ""
+  },
+  {
     "date": "2027-05-15",
     "time": "20h30",
     "title": "Mahé",
@@ -2907,6 +3047,46 @@
     "venue": "Espace Charles Vanel",
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-15",
+    "time": "17h00",
+    "title": "Adel Fugazi - Le temps d'une pause (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/adel-fugazi-le-temps-d-une-pause-3112.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-15",
+    "time": "21h00",
+    "title": "Thomas Angelvy - Être ici (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/thomas-angelvy-etre-ici-3113.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-16",
+    "time": "17h00",
+    "title": "Sofia Belabbes - Ketchup Mayo, nouvelle version (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/sofia-belabbes-ketchup-mayo-nouvelle-version-3114.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-16",
+    "time": "21h00",
+    "title": "Blandine Lehout - La vie de ta mère (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/blandine-lehout-la-vie-de-ta-mere-3115.html",
     "image_url": ""
   },
   {

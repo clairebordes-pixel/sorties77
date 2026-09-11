@@ -6,6 +6,7 @@ Usage :
     python run_all.py
 """
 import json
+import sys
 import traceback
 from dataclasses import asdict
 from pathlib import Path
@@ -67,9 +68,11 @@ def main():
             events = module.scrape()
             print(f"    {len(events)} événement(s) trouvé(s)")
             all_events.extend(events)
-        except Exception:
-            print(f"    [!] échec du scraper : voir la trace ci-dessous")
+        except Exception as e:
+            print(f"    [!] échec du scraper : {type(e).__name__}: {e}")
             traceback.print_exc()
+            sys.stdout.flush()
+            sys.stderr.flush()
 
     print("--- Événements manuels (data/manual_events.json) ---")
     manual = load_manual_events()

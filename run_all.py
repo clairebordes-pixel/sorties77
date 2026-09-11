@@ -22,8 +22,11 @@ from scrapers import (
     lagnySurMarne_weWelcome,
     noisiel_poleCulturelMichelLegrand,
     collegien_agenda,
-    serris_fermeDesCommunes,
 )
+# serris_fermeDesCommunes n'est plus scrapé automatiquement : le site
+# bloque systématiquement les requêtes venant des serveurs GitHub
+# (erreur 418), comme Le Millésime. Son programme est maintenu à la
+# main dans data/manual_events.json.
 # montevrain_leMillesime n'est plus scrapé automatiquement : le site
 # bloque systématiquement les requêtes venant des serveurs GitHub
 # (erreur 418). Son programme est maintenu à la main dans
@@ -39,7 +42,6 @@ SCRAPERS = [
     ("Lagny-sur-Marne — We Welcome", lagnySurMarne_weWelcome),
     ("Noisiel — Pôle culturel Michel-Legrand (billetterie)", noisiel_poleCulturelMichelLegrand),
     ("Collégien — Agenda municipal", collegien_agenda),
-    ("Serris — La Ferme des Communes", serris_fermeDesCommunes),
 ]
 
 

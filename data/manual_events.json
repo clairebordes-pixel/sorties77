@@ -948,5 +948,185 @@
     "city": "Noisiel",
     "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
     "image_url": ""
+  },
+  {
+    "date": "2026-09-19",
+    "time": "21h00",
+    "title": "Marine Leonardi - Mauvaise graine",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/marine-leonardi-mauvaise-graine-3097.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-03",
+    "time": "21h00",
+    "title": "Ma Famille en Or",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/ma-famille-en-or-3098.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-11",
+    "time": "16h00",
+    "title": "Tous à l'opéra",
+    "type": "concert",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/tous-a-l-opera-3099.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "21h00",
+    "title": "Michaël Hirsch - Y'a de la joie !",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/michael-hirsch-y-a-de-la-joie-3100.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-21",
+    "time": "21h00",
+    "title": "Le malade imaginaire",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/le-malade-imaginaire-3101.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-12-05",
+    "time": "21h00",
+    "title": "Mathieu Stepson",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/mathieu-stepson-3102.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-12-20",
+    "time": "15h00",
+    "title": "Choubidouwa",
+    "type": "concert",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/choubidouwa-3104.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-09",
+    "time": "21h00",
+    "title": "L'invitation",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/l-invitation-3105.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-22",
+    "time": "21h00",
+    "title": "Nicolas Canteloup - Nouveau spectacle",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/nicolas-canteloup-nouveau-spectacle-3106.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-02-27",
+    "time": "21h00",
+    "title": "Jessé - Message personnel",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/jesse-message-personnel-3107.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-06",
+    "time": "21h00",
+    "title": "Léopold Lemarchand - Premier spectacle",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/leopold-lemarchand-premier-spectacle-3108.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-20",
+    "time": "21h00",
+    "title": "Du charbon dans les veines",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/du-charbon-dans-les-veines-3109.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-04-24",
+    "time": "21h00",
+    "title": "Le journal d'Édouard Baer à Serris",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/le-journal-d-edouard-baer-a-serris-3110.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-14",
+    "time": "21h00",
+    "title": "Arnaud Tsamère - Tous contraints (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/arnaud-tsamere-tous-contraints-3111.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-15",
+    "time": "17h00",
+    "title": "Adel Fugazi - Le temps d'une pause (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/adel-fugazi-le-temps-d-une-pause-3112.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-15",
+    "time": "21h00",
+    "title": "Thomas Angelvy - Être ici (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/thomas-angelvy-etre-ici-3113.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-16",
+    "time": "17h00",
+    "title": "Sofia Belabbes - Ketchup Mayo, nouvelle version (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/sofia-belabbes-ketchup-mayo-nouvelle-version-3114.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-16",
+    "time": "21h00",
+    "title": "Blandine Lehout - La vie de ta mère (Festival Val de Rire)",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/blandine-lehout-la-vie-de-ta-mere-3115.html",
+    "image_url": ""
   }
 ]

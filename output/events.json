@@ -60,16 +60,6 @@
     "image_url": "images/lagnySurMarne_charlesVanel/gueules-noires.png"
   },
   {
-    "date": "2026-09-21",
-    "time": "13h30",
-    "title": "Atelier taïso et nutrition",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/dc41c433-f0db-4dbe-aa20-802d37b719be/atelier-taiso-et-nutrition",
-    "image_url": "https://collegien.fr/s/agenda/6f1d0705c91c2145201df18a1a0c7345/gettyimages-1396052053-1788342514-resize.jpg"
-  },
-  {
     "date": "2026-09-22",
     "time": "20h00",
     "title": "Concert De Guitare",
@@ -1860,6 +1850,16 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/staff-ElisaCiavaldini1-250x250.jpg"
   },
   {
+    "date": "2026-11-28",
+    "time": "20h30",
+    "title": "Concert Katja Chevallier",
+    "type": "concert",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/concert-katja-chevallier/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/IMG_9506.jpeg"
+  },
+  {
     "date": "2026-11-29",
     "time": "16h00",
     "title": "Les parents viennent de mars (chez maman)",
@@ -2262,11 +2262,11 @@
   {
     "date": "2027-01-29",
     "time": "14h30",
-    "title": "Super Week-end Kidz : Nuage - Séance scolaire",
+    "title": "Super Week-end Kidz : Nuages - Séance scolaire",
     "type": "spectacle",
     "venue": "File7",
     "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/29-01-2027-14h30-super-week-end-kidz-nuage-seance-scolaire.html",
+    "source_url": "https://www.file7.com/fr/programme/programme/29-01-2027-14h30-super-week-end-kidz-nuages-seance-scolaire.html",
     "image_url": "https://www.file7.com/wmedias/original/NUAGE-440x340.png"
   },
   {
@@ -2302,11 +2302,11 @@
   {
     "date": "2027-01-30",
     "time": "10h30",
-    "title": "Super Week-end Kidz : Nuage",
+    "title": "Super Week-end Kidz : Nuages",
     "type": "spectacle",
     "venue": "File7",
     "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/30-01-2027-10h30-super-week-end-kidz-nuage.html",
+    "source_url": "https://www.file7.com/fr/programme/programme/30-01-2027-10h30-super-week-end-kidz-nuages.html",
     "image_url": "https://www.file7.com/wmedias/original/NUAGE-440x340.png"
   },
   {

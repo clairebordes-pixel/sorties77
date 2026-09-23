@@ -60,16 +60,6 @@
     "image_url": "images/lagnySurMarne_charlesVanel/gueules-noires.png"
   },
   {
-    "date": "2026-09-22",
-    "time": "20h00",
-    "title": "Concert De Guitare",
-    "type": "concert",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/concert-de-guitare/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/Capture-decran-2026-06-10-163443.png"
-  },
-  {
     "date": "2026-09-23",
     "time": "15h00",
     "title": "Les ateliers familles",
@@ -90,6 +80,26 @@
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Verino.png"
   },
   {
+    "date": "2026-09-23",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-09-23",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
+  },
+  {
     "date": "2026-09-24",
     "time": "14h00",
     "title": "Atelier taïso et nutrition",
@@ -108,16 +118,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/7b4aeea9-f992-40ce-ad8d-972f8151f9ed/les-soirees-jeux-de-societe",
     "image_url": "https://collegien.fr/s/agenda/56cb94cb34617aeadff1e79b53f38354/gettyimages-2220548328-1788275243-resize.jpg"
-  },
-  {
-    "date": "2026-09-24",
-    "time": "21h00",
-    "title": "Hinde Dans Fille Unique",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/hinde-dans-fille-unique/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/02/Hinde-1.jpg"
   },
   {
     "date": "2026-09-25",
@@ -208,6 +208,26 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/faeb839e-8ec2-48fc-a88e-d512ed588540/anniversaire-de-la-couree-30-ans-ca-se-fete",
     "image_url": "https://collegien.fr/s/agenda/f75526659f31040afeb61cb7133e4e6d/coeur-site-bandeau-1787669715-resize.jpg"
+  },
+  {
+    "date": "2026-09-26",
+    "time": "10h15",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-3/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-09-26",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-3/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2026-09-27",
@@ -558,6 +578,26 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/06f43f4d-4e86-4a5b-8322-651339af1619/visite-du-musee-louis-braille",
     "image_url": "https://collegien.fr/s/agenda/15cf76466b97264765356fcc56d801d1/gettyimages-1249855378-1788358076-resize.jpg"
+  },
+  {
+    "date": "2026-10-07",
+    "time": "10h15",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-10-07",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2026-10-08",
@@ -2398,6 +2438,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/concert-bar.png"
+  },
+  {
+    "date": "2027-02-23",
+    "time": "",
+    "title": "Madison McFerrin",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/madison-mcferrin/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/09/IDontv.2.24.00_02_25_18.Still018-250x250.jpg"
   },
   {
     "date": "2027-02-24",

@@ -61,16 +61,6 @@
   },
   {
     "date": "2026-09-23",
-    "time": "15h00",
-    "title": "Les ateliers familles",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/d07c96a6-c8b1-4ba0-9fbe-7910732abca3/les-ateliers-familles",
-    "image_url": "https://collegien.fr/s/agenda/d0bb8259d8fe3c7df4554dab9d7da3c9/photo-atelier-famille-1788341743-resize.jpg"
-  },
-  {
-    "date": "2026-09-23",
     "time": "20h30",
     "title": "Verino",
     "type": "spectacle",
@@ -78,26 +68,6 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-verino",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Verino.png"
-  },
-  {
-    "date": "2026-09-23",
-    "time": "10h00",
-    "title": "Eveil Musical De 0 A 36 Mois",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
-  },
-  {
-    "date": "2026-09-23",
-    "time": "11h45",
-    "title": "Eveil Musical 3 5 Ans",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2026-09-24",
@@ -290,16 +260,6 @@
     "image_url": "https://collegien.fr/s/agenda/bf2fb7d1825a1df3ca308ad0bf48591e/gettyimages-1396052053-1788342482-resize.jpg"
   },
   {
-    "date": "2026-09-29",
-    "time": "20h00",
-    "title": "Welcomedy Club",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/welcomedy-club-4/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/AFFICHE_WELCOMEDY_CLUB-1-scaled.png"
-  },
-  {
     "date": "2026-09-30",
     "time": "15h00",
     "title": "Les ateliers familles",
@@ -317,7 +277,7 @@
     "venue": "Les Cuizines",
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/masterclass-guitare-gabriel-gosse/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/gabriel-gosse-disillusion-days-fred-margueron-arty-magazine-250x250.jpg"
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/gabriel_gosse_1920x1080_vlneiv-250x250.avif"
   },
   {
     "date": "2026-09-30",
@@ -611,6 +571,16 @@
   },
   {
     "date": "2026-10-08",
+    "time": "17h30",
+    "title": "Notre Salut",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/notre-salut-sme",
+    "image_url": "https://medias.artishoc.coop/fdb/Zhvrqc8NDGGzavo5f7h5VsCV1KFjGffaFuYUC6pm3MA/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTJPRE14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d28b9fcc3e1730f7628b5f8675a4294676fb376ed31861ed460a8a763b91616e/4963675823d4/notre-salut-1.jpg"
+  },
+  {
+    "date": "2026-10-08",
     "time": "10h00",
     "title": "Randonnée 6 km",
     "type": "atelier",
@@ -848,16 +818,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune-2/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
-  },
-  {
-    "date": "2026-10-11",
-    "time": "14h00",
-    "title": "Le Club ZAP",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/le-club-zap-8",
-    "image_url": "https://medias.artishoc.coop/fdb/-7RQGDm5A_hlGUDX11mpJHBRlrn2tEvZO7jrAWFBm7k/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBNamc1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--50e942d21d6db6ae42f95766b6a0006cdf1ce84c009e09658445868b7c9f0876/c609fd81ff71/club-zap-c-nina-de-castro-7-min.jpg"
   },
   {
     "date": "2026-10-11",
@@ -1260,6 +1220,16 @@
     "image_url": "https://file7.com/wmedias/original/just_dance_2024-440x340.png"
   },
   {
+    "date": "2026-10-30",
+    "time": "21h00",
+    "title": "Voyage Voyage",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/voyage-voyage/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Capture-decran-2026-03-23-a-10.28.36.png"
+  },
+  {
     "date": "2026-10-31",
     "time": "14h00",
     "title": "Le smartphone et ses applications du quotidien",
@@ -1398,6 +1368,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/joe-bel-elias-dris/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/V1-OK-Sarah-Balladere-scaled-e1780415657205-250x250.jpg"
+  },
+  {
+    "date": "2026-11-06",
+    "time": "21h00",
+    "title": "On Est Fait Pour Sentendre",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/on-est-fait-pour-sentendre/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/07/AFFICHE-WEB-On-est-fait-pour-sentendre-RVB-72dpi-1.jpg"
   },
   {
     "date": "2026-11-07",

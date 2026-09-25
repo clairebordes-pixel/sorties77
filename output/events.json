@@ -70,26 +70,6 @@
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Verino.png"
   },
   {
-    "date": "2026-09-24",
-    "time": "14h00",
-    "title": "Atelier taïso et nutrition",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/32442c58-ebe6-436c-8459-2e004665b66a/atelier-taiso-et-nutrition",
-    "image_url": "https://collegien.fr/s/agenda/fdf1bc5669e8ff5ba45d02fded729feb/gettyimages-1396052053-1788342795-resize.jpg"
-  },
-  {
-    "date": "2026-09-24",
-    "time": "19h00",
-    "title": "LES SOIRÉES JEUX DE SOCIÉTÉ",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/7b4aeea9-f992-40ce-ad8d-972f8151f9ed/les-soirees-jeux-de-societe",
-    "image_url": "https://collegien.fr/s/agenda/56cb94cb34617aeadff1e79b53f38354/gettyimages-2220548328-1788275243-resize.jpg"
-  },
-  {
     "date": "2026-09-25",
     "time": "18h00",
     "title": "SPÉCIAL TRANSFERT DU COMPOST ET APÉRO DINATOIRE AU JARDIN",
@@ -426,7 +406,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/ma-famille-en-or-3098.html",
+    "source_url": "https://billetterie.seetickets.fr/ma-famille-en-or-ferme-des-communes-serris-03-octobre-2026-css5-velvilledeserris-pg101-ri11776181.html",
     "image_url": ""
   },
   {
@@ -826,7 +806,7 @@
     "type": "concert",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/tous-a-l-opera-3099.html",
+    "source_url": "https://billetterie.seetickets.fr/tous-a-l-opera-ensemble-contraste-ferme-des-communes-serris-11-octobre-2026-css5-velvilledeserris-pg101-ri11789151.html",
     "image_url": ""
   },
   {
@@ -1446,7 +1426,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/michael-hirsch-y-a-de-la-joie-3100.html",
+    "source_url": "https://billetterie.seetickets.fr/michael-hirsch-y-a-de-la-joie-ferme-des-communes-serris-07-novembre-2026-css5-velvilledeserris-pg101-ri11776195.html",
     "image_url": ""
   },
   {
@@ -1736,7 +1716,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/le-malade-imaginaire-3101.html",
+    "source_url": "https://billetterie.seetickets.fr/le-malade-imaginaire-ferme-des-communes-serris-21-novembre-2026-css5-velvilledeserris-pg101-ri11776211.html",
     "image_url": ""
   },
   {
@@ -1986,7 +1966,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/mathieu-stepson-3102.html",
+    "source_url": "https://billetterie.seetickets.fr/mathieu-stepson-ferme-des-communes-serris-05-decembre-2026-css5-velvilledeserris-pg101-ri11776215.html",
     "image_url": ""
   },
   {
@@ -2146,7 +2126,7 @@
     "type": "concert",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/choubidouwa-3104.html",
+    "source_url": "https://billetterie.seetickets.fr/choubidouwa-ferme-des-communes-serris-20-decembre-2026-css5-velvilledeserris-pg101-ri11786967.html",
     "image_url": ""
   },
   {
@@ -2156,7 +2136,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/l-invitation-3105.html",
+    "source_url": "https://billetterie.seetickets.fr/l-invitation-ferme-des-communes-serris-09-janvier-2027-css5-velvilledeserris-pg101-ri11776225.html",
     "image_url": ""
   },
   {
@@ -2246,7 +2226,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/nicolas-canteloup-nouveau-spectacle-3106.html",
+    "source_url": "https://billetterie.seetickets.fr/nicolas-canteloup-nouveau-spectacle-ferme-des-communes-serris-22-janvier-2027-css5-velvilledeserris-pg101-ri11786973.html",
     "image_url": ""
   },
   {
@@ -2476,7 +2456,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/jesse-message-personnel-3107.html",
+    "source_url": "https://billetterie.seetickets.fr/jesse-message-personnel-ferme-des-communes-serris-27-fevrier-2027-css5-velvilledeserris-pg101-ri11776231.html",
     "image_url": ""
   },
   {
@@ -2558,16 +2538,6 @@
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
     "image_url": "images/coupvray_lAtmosphere/enzo-ricci-quetzal.jpg"
-  },
-  {
-    "date": "2027-03-06",
-    "time": "21h00",
-    "title": "Léopold Lemarchand - Premier spectacle",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/leopold-lemarchand-premier-spectacle-3108.html",
-    "image_url": ""
   },
   {
     "date": "2027-03-06",
@@ -2656,7 +2626,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/du-charbon-dans-les-veines-3109.html",
+    "source_url": "https://billetterie.seetickets.fr/du-charbon-dans-les-veines-ferme-des-communes-serris-20-mars-2027-css5-velvilledeserris-pg101-ri11776247.html",
     "image_url": ""
   },
   {
@@ -2826,7 +2796,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/le-journal-d-edouard-baer-a-serris-3110.html",
+    "source_url": "https://billetterie.seetickets.fr/le-journal-d-edouard-baer-a-serris-ferme-des-communes-24-avril-2027-css5-velvilledeserris-pg101-ri11787009.html",
     "image_url": ""
   },
   {
@@ -2936,7 +2906,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/arnaud-tsamere-tous-contraints-3111.html",
+    "source_url": "https://billetterie.seetickets.fr/arnaud-tsamere-tous-contraints-ferme-des-communes-serris-14-mai-2027-css5-velvilledeserris-pg101-ri11777415.html",
     "image_url": ""
   },
   {
@@ -2956,7 +2926,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/adel-fugazi-le-temps-d-une-pause-3112.html",
+    "source_url": "https://billetterie.seetickets.fr/adel-fugazi-le-temps-d-une-pause-ferme-des-communes-serris-15-mai-2027-css5-velvilledeserris-pg101-ri11777437.html",
     "image_url": ""
   },
   {
@@ -2966,7 +2936,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/thomas-angelvy-etre-ici-3113.html",
+    "source_url": "https://billetterie.seetickets.fr/thomas-angelvy-etre-ici-ferme-des-communes-serris-15-mai-2027-css5-velvilledeserris-pg101-ri11777451.html",
     "image_url": ""
   },
   {
@@ -2976,7 +2946,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/sofia-belabbes-ketchup-mayo-nouvelle-version-3114.html",
+    "source_url": "https://billetterie.seetickets.fr/sofia-belabbes-ketchup-mayo-nouvelle-version-ferme-des-communes-serris-16-mai-2027-css5-velvilledeserris-pg101-ri11777439.html",
     "image_url": ""
   },
   {
@@ -2986,7 +2956,7 @@
     "type": "spectacle",
     "venue": "La Ferme des Communes",
     "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/blandine-lehout-la-vie-de-ta-mere-3115.html",
+    "source_url": "https://billetterie.seetickets.fr/blandine-lehout-la-vie-de-ta-mere-ferme-des-communes-serris-16-mai-2027-css5-velvilledeserris-pg101-ri11777421.html",
     "image_url": ""
   },
   {

@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "time": "",
-    "title": "Bakana (jusqu'au 27/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/bakana",
-    "image_url": "https://medias.artishoc.coop/fdb/fcJ88fG4qM0TnyQ7UWth4lnc3gw2TTxofdvmJvnfAps/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNORGswIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--c193ddde06c0b4f842a6d4fa923f1c66b84b77f49187f1e8f9ab1533ee212266/4ee77634c5b1/fete-du-cirque-25-bakana-a-nicolas-bram-18-web.jpg"
-  },
-  {
     "date": "2026-09-18",
     "time": "20h30",
     "title": "Smile",
@@ -68,16 +58,6 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-verino",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Verino.png"
-  },
-  {
-    "date": "2026-09-25",
-    "time": "",
-    "title": "En attendant le grand soir (jusqu'au 26/09)",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/en-attendant-le-grand-soir",
-    "image_url": "https://medias.artishoc.coop/fdb/q8cEnoxk7OlJ_tc8dpqPPTrXucRGW4uX75JvkVVZC-Q/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFF3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--29446e5576b4af005660d178cb70360124b45c7012417f3b1e85d3aa162812fe/f0d01d841a97/029_marc-ras_7822.jpg"
   },
   {
     "date": "2026-09-25",
@@ -171,16 +151,6 @@
   },
   {
     "date": "2026-10-02",
-    "time": "19h00",
-    "title": "Atelier Chant",
-    "type": "atelier",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/atelier-chant",
-    "image_url": "https://medias.artishoc.coop/fdb/96sP25Hb-AKtorequCPyL0MdbNByJdAGgYOJPLHUyxo/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFl5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--fbcf67b8514dd0c5b3da8600844de9ad2df31f4bce3ca3e5a9bb5f566536e89a/2f79e20c631e/capture-d-ecran-2025-02-10-a-17-15-15.jpg"
-  },
-  {
-    "date": "2026-10-02",
     "time": "20h00",
     "title": "Jam Session",
     "type": "concert",
@@ -231,16 +201,6 @@
   },
   {
     "date": "2026-10-03",
-    "time": "20h30",
-    "title": "La Beauté intérieure",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/la-beaute-interieur",
-    "image_url": "https://medias.artishoc.coop/fdb/L2FzmIhzRaRzHRhZeqXljvXmb_oQ_fiOwfMjmBa3fiY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFU0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--e7e08bf2fcf6e172ad3ab58ec6ab9d4cd76d09f93d780067aea6c7afa85f36b2/5ee245e5cf01/_dsc2356.jpg"
-  },
-  {
-    "date": "2026-10-03",
     "time": "18h00",
     "title": "Dans Ton Casque Avec Les Fatals Picards",
     "type": "concert",
@@ -261,6 +221,16 @@
   },
   {
     "date": "2026-10-03",
+    "time": "20h45",
+    "title": "PARLER POINTU",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/69a38ebc-71fe-4648-aa54-7f535c895d11/parler-pointu",
+    "image_url": "https://collegien.fr/s/agenda/340a39045c40d50dda207bcfdece883a/blokaus808-leroux-mathis-parlerpointuaffiche-1790688498-resize.jpg"
+  },
+  {
+    "date": "2026-10-03",
     "time": "21h00",
     "title": "Ma Famille en Or",
     "type": "spectacle",
@@ -278,16 +248,6 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/neuvieme-planete-jeune-public/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/CH-Thierry-Concert9Planete-12-250x250.png"
-  },
-  {
-    "date": "2026-10-03",
-    "time": "10h00",
-    "title": "Stand Vide Dressing Special Kids",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/stand-vide-dressing-special-kids/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/10-1.png"
   },
   {
     "date": "2026-10-03",
@@ -411,16 +371,6 @@
   },
   {
     "date": "2026-10-08",
-    "time": "17h30",
-    "title": "Notre Salut",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/notre-salut-sme",
-    "image_url": "https://medias.artishoc.coop/fdb/Zhvrqc8NDGGzavo5f7h5VsCV1KFjGffaFuYUC6pm3MA/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTJPRE14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d28b9fcc3e1730f7628b5f8675a4294676fb376ed31861ed460a8a763b91616e/4963675823d4/notre-salut-1.jpg"
-  },
-  {
-    "date": "2026-10-08",
     "time": "10h00",
     "title": "Randonnée 6 km",
     "type": "atelier",
@@ -488,6 +438,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/a77a8894-7ca6-4f99-a5ba-a78c65f993e7/olympiades-inter-villages",
     "image_url": "https://collegien.fr/s/agenda/c3008b2c6f5370b744850a98a95b73ad/gettyimages-1249855378-1788357631-resize.jpg"
+  },
+  {
+    "date": "2026-10-09",
+    "time": "10h00",
+    "title": "QUE DIS-TU ?",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/93211e69-8868-414e-82cf-7d1a470c3eec/que-dis-tu",
+    "image_url": "https://collegien.fr/s/agenda/ac34ae1fda29b8fe781ac8d6d32a6bc7/bandeau-site-dis-donc-sorin-dumitrascu-03-1790690943-resize.jpg"
   },
   {
     "date": "2026-10-09",
@@ -568,46 +528,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/2bce2b99-f6b6-42e2-95b3-211cfa264788/atelier-couture-coussin-coeur",
     "image_url": "https://collegien.fr/s/agenda/a7f592cef8b130a6967a90617db5681b/photo-couture-1788269653-resize.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
-    "image_url": "https://medias.artishoc.coop/fdb/pqOAv-9QiA_nvauNDbA9p18FObyNGYCnj4kqzq_Fg6w/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "",
-    "title": "Brandon Gercara (jusqu'au 24/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
-    "image_url": "https://medias.artishoc.coop/fdb/tS77yElTq_OVPNy2_HwHdsXasm_ffNdthUTamqqT8jE/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "18h00",
-    "title": "Rêve parade",
-    "type": "cirque",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
-    "image_url": "https://medias.artishoc.coop/fdb/8vcRAZrbdG5UNmAHURUYqjOXLT5BWExY9LXDD9uYn48/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "20h30",
-    "title": "Khalil Epi",
-    "type": "concert",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
-    "image_url": "https://medias.artishoc.coop/fdb/Ntg8tYfeYiDwJClLMLmFraithdC8OCixacBatFbnzxM/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
   },
   {
     "date": "2026-10-10",
@@ -748,6 +668,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/51bacd1c-fe55-4df9-9bbd-79fd9b6ea9db/atelier-patchwork",
     "image_url": "https://collegien.fr/s/agenda/a3788c8c64fd65c470e23e7534c3ebc8/photo-patchwork-1788269860-resize.jpg"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "10h00",
+    "title": "MONOGRAPHIE",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/6dd0de33-714f-4329-a41e-1a033a82ccc2/monographie",
+    "image_url": "https://collegien.fr/s/agenda/6624b6d8217cf71640993409df58204f/bandeau-monographie-morel-02-1790691749-resize.jpg"
   },
   {
     "date": "2026-10-15",
@@ -906,7 +836,7 @@
     "type": "spectacle",
     "venue": "We Welcome",
     "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-4/",
+    "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-5/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/SUR-LE-FIL.jpeg"
   },
   {
@@ -1291,6 +1221,16 @@
   },
   {
     "date": "2026-11-07",
+    "time": "20h45",
+    "title": "DICK ANNEGARN",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/ca2bbc13-a569-433d-a4b3-243f2ebaa1fa/dick-annegarn",
+    "image_url": "https://collegien.fr/s/agenda/465636eb4a7ff4b267f3b765d07a02da/dick1-credits-thierry-rajic-bandeau-site-1790689315-resize.jpg"
+  },
+  {
+    "date": "2026-11-07",
     "time": "21h00",
     "title": "Michaël Hirsch - Y'a de la joie !",
     "type": "spectacle",
@@ -1578,6 +1518,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/21-11-2026-10h30-super-week-end-kidz-into-the-woods.html",
     "image_url": "https://www.file7.com/wmedias/original/INTO_THE_WOOD-440x340.jpg"
+  },
+  {
+    "date": "2026-11-21",
+    "time": "20h45",
+    "title": "PASSEPORT",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/6c9605b6-842a-4b8b-9cb1-39d742de9e54/passeport",
+    "image_url": "https://collegien.fr/s/agenda/3953630da28e5181cffca1278517e3cf/bandeau-passeport-site-1790690140-resize.jpg"
   },
   {
     "date": "2026-11-21",
@@ -2601,6 +2551,26 @@
   },
   {
     "date": "2027-04-02",
+    "time": "14h30",
+    "title": "Super Week-end Kidz : DIKOTOM - Séance scolaire",
+    "type": "spectacle",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/02-04-2027-14h30-super-week-end-kidz-dikotom-seance-scolaire.html",
+    "image_url": "https://www.file7.com/wmedias/original/DIKOTOM-440x340.jpg"
+  },
+  {
+    "date": "2027-04-02",
+    "time": "18h30",
+    "title": "Super Week-end Kidz : DIKOTOM",
+    "type": "spectacle",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/02-04-2027-18h30-super-week-end-kidz-dikotom.html",
+    "image_url": "https://www.file7.com/wmedias/original/DIKOTOM-440x340.jpg"
+  },
+  {
+    "date": "2027-04-02",
     "time": "20h30",
     "title": "John Sulo",
     "type": "spectacle",
@@ -2608,6 +2578,16 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-john-sulo",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/John-Sulo.png"
+  },
+  {
+    "date": "2027-04-03",
+    "time": "14h00",
+    "title": "Atelier parent - enfant : Deviens meneur.se de bal",
+    "type": "atelier",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/03-04-2027-14h00-atelier-parent-enfant-deviens-meneur-se-de-bal.html",
+    "image_url": "https://file7.com/wmedias/original/OUAGA_2000-440x340.jpg"
   },
   {
     "date": "2027-04-03",

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-06-01",
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 18/10)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-residence",
+    "image_url": "https://medias.artishoc.coop/fdb/bmWBxrr7PBwXaKxMVWostqpwgTINKJo8KP-w8JVwivU/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTFNRFV6IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--ee4af768f911d8976272114934918e104bea0bf1463356d57c79922fb08a1042/f09188d8c391/maissane-alibrahimi-along-the-inner-wall-residence-de-creation-la-ferme-du-buisson-2026-courtesy-de-l-artiste-en-1.jpg"
+  },
+  {
     "date": "2026-09-18",
     "time": "20h30",
     "title": "Smile",
@@ -80,36 +90,6 @@
     "image_url": "images/lagnySurMarne_charlesVanel/trash.png"
   },
   {
-    "date": "2026-09-30",
-    "time": "15h00",
-    "title": "Les ateliers familles",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/1a859406-33c2-4ca2-b126-6bd221eae3d5/les-ateliers-familles",
-    "image_url": "https://collegien.fr/s/agenda/a78482ce76496fcf49085f2190e675b4/photo-atelier-famille-1788341857-resize.jpg"
-  },
-  {
-    "date": "2026-09-30",
-    "time": "",
-    "title": "Guitare",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/masterclass-guitare-gabriel-gosse/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/gabriel_gosse_1920x1080_vlneiv-250x250.avif"
-  },
-  {
-    "date": "2026-09-30",
-    "time": "21h00",
-    "title": "Yazid Assoumani",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/yazid-assoumani/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Yazid_Assoumani-1.png"
-  },
-  {
     "date": "2026-10-01",
     "time": "14h30",
     "title": "Atelier patchwork",
@@ -118,16 +98,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/73d69b28-901e-4ab7-aa1e-e4eca7d908c9/atelier-patchwork",
     "image_url": "https://collegien.fr/s/agenda/e465ae46b07058f4ab5e96b98f101756/photo-patchwork-1788269619-resize.jpg"
-  },
-  {
-    "date": "2026-10-01",
-    "time": "21h00",
-    "title": "Gaetan Husson Dans Charbon",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/gaetan-husson-dans-charbon/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/02/Gae_tan-Husson-charbon-Affiche-def-1-scaled.jpg"
   },
   {
     "date": "2026-10-02",
@@ -148,6 +118,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/8d40fc6d-22f8-49b4-8ade-5317646a3b95/decouverte-de-la-physiotherapie",
     "image_url": "https://collegien.fr/s/agenda/227f6afd3b7f89b96c4bb91f95d50f6d/gettyimages-1200966280-1788270816-resize.jpg"
+  },
+  {
+    "date": "2026-10-02",
+    "time": "19h00",
+    "title": "Atelier Chant",
+    "type": "atelier",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/atelier-chant",
+    "image_url": "https://medias.artishoc.coop/fdb/96sP25Hb-AKtorequCPyL0MdbNByJdAGgYOJPLHUyxo/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFl5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--fbcf67b8514dd0c5b3da8600844de9ad2df31f4bce3ca3e5a9bb5f566536e89a/2f79e20c631e/capture-d-ecran-2025-02-10-a-17-15-15.jpg"
   },
   {
     "date": "2026-10-02",
@@ -198,6 +178,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/efa9e11b-84f8-4790-a598-e1c00aacebf3/atelier-jardin-de-la-fabrique",
     "image_url": "https://collegien.fr/s/agenda/b4fd1d2cb085390fbbadae65e07876a7/photo-potager-1788270468-resize.jpg"
+  },
+  {
+    "date": "2026-10-03",
+    "time": "20h30",
+    "title": "La Beauté intérieure",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/la-beaute-interieur",
+    "image_url": "https://medias.artishoc.coop/fdb/L2FzmIhzRaRzHRhZeqXljvXmb_oQ_fiOwfMjmBa3fiY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFU0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--e7e08bf2fcf6e172ad3ab58ec6ab9d4cd76d09f93d780067aea6c7afa85f36b2/5ee245e5cf01/_dsc2356.jpg"
   },
   {
     "date": "2026-10-03",
@@ -371,6 +361,16 @@
   },
   {
     "date": "2026-10-08",
+    "time": "17h30",
+    "title": "Notre Salut",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/notre-salut-sme",
+    "image_url": "https://medias.artishoc.coop/fdb/Zhvrqc8NDGGzavo5f7h5VsCV1KFjGffaFuYUC6pm3MA/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTJPRE14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d28b9fcc3e1730f7628b5f8675a4294676fb376ed31861ed460a8a763b91616e/4963675823d4/notre-salut-1.jpg"
+  },
+  {
+    "date": "2026-10-08",
     "time": "10h00",
     "title": "Randonnée 6 km",
     "type": "atelier",
@@ -531,13 +531,43 @@
   },
   {
     "date": "2026-10-10",
-    "time": "14h00",
-    "title": "Rencontre : Le Management 2.0",
-    "type": "atelier",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/10-10-2026-14h00-rencontre-le-management-2-0.html",
-    "image_url": "https://www.file7.com/wmedias/original/management-tilt-site.jpg"
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
+    "image_url": "https://medias.artishoc.coop/fdb/pqOAv-9QiA_nvauNDbA9p18FObyNGYCnj4kqzq_Fg6w/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "",
+    "title": "Brandon Gercara (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
+    "image_url": "https://medias.artishoc.coop/fdb/tS77yElTq_OVPNy2_HwHdsXasm_ffNdthUTamqqT8jE/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "18h00",
+    "title": "Rêve parade",
+    "type": "cirque",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
+    "image_url": "https://medias.artishoc.coop/fdb/8vcRAZrbdG5UNmAHURUYqjOXLT5BWExY9LXDD9uYn48/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "20h30",
+    "title": "Khalil Epi",
+    "type": "concert",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
+    "image_url": "https://medias.artishoc.coop/fdb/Ntg8tYfeYiDwJClLMLmFraithdC8OCixacBatFbnzxM/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
   },
   {
     "date": "2026-10-10",
@@ -578,6 +608,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune-2/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "14h00",
+    "title": "Le Club ZAP",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/le-club-zap-8",
+    "image_url": "https://medias.artishoc.coop/fdb/-7RQGDm5A_hlGUDX11mpJHBRlrn2tEvZO7jrAWFBm7k/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBNamc1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--50e942d21d6db6ae42f95766b6a0006cdf1ce84c009e09658445868b7c9f0876/c609fd81ff71/club-zap-c-nina-de-castro-7-min.jpg"
   },
   {
     "date": "2026-10-11",
@@ -711,6 +751,16 @@
   },
   {
     "date": "2026-10-16",
+    "time": "20h30",
+    "title": "Prélude",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/prelude",
+    "image_url": "https://medias.artishoc.coop/fdb/Lu_Rmu0XuV9eOdZkMG4GR1GFVJP5oc_z_q49IDxXXLI/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--b9c63bda76359ccf5823df3818d558304bf1e0f9bb0852b6b5065dacbcf9c4a1/aaaa39298d78/carlos_fernandes1-copie.png"
+  },
+  {
+    "date": "2026-10-16",
     "time": "",
     "title": "FEEL + Ruthee",
     "type": "concert",
@@ -836,7 +886,7 @@
     "type": "spectacle",
     "venue": "We Welcome",
     "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-5/",
+    "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-4/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/SUR-LE-FIL.jpeg"
   },
   {
@@ -1550,6 +1600,16 @@
     "image_url": ""
   },
   {
+    "date": "2026-11-21",
+    "time": "21h00",
+    "title": "Charge Mentale Sauve Qui Peut",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/charge-mentale-sauve-qui-peut/",
+    "image_url": ""
+  },
+  {
     "date": "2026-11-22",
     "time": "11h00",
     "title": "Mon premier opéra",
@@ -1710,6 +1770,16 @@
     "image_url": "https://collegien.fr/s/agenda/e6af401c28c1790eaef7d55c92ab6ab6/photo-colis-seniors-1788355116-resize.jpg"
   },
   {
+    "date": "2026-12-03",
+    "time": "21h00",
+    "title": "David Sun Dans Titi",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/david-sun-dans-titi-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/10/Capture-decran-2025-10-29-165247-1.png"
+  },
+  {
     "date": "2026-12-04",
     "time": "19h00",
     "title": "Café des parents - Divergences parentales",
@@ -1748,6 +1818,16 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/04-12-2026-20h00-2l-juste-shani-chorale-sauvage.html",
     "image_url": "https://www.file7.com/wmedias/original/zz_-_2L_JUSTE_SHANI-440x340.png"
+  },
+  {
+    "date": "2026-12-04",
+    "time": "21h00",
+    "title": "Marie A Tout Prix",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/marie-a-tout-prix/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/matp-2.jpeg"
   },
   {
     "date": "2026-12-05",
@@ -1800,6 +1880,16 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/dhiwagaran-parthiban-pFuDLZsTQAQ-unsplash-scaled-e1788863529679-250x250.jpg"
   },
   {
+    "date": "2026-12-06",
+    "time": "10h30",
+    "title": "Le Noel De Falabulle",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/le-noel-de-falabulle-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/Le_Noel_de_Falabulle_affiche.002-Moyenne.jpeg"
+  },
+  {
     "date": "2026-12-07",
     "time": "13h30",
     "title": "Atelier taïso et nutrition",
@@ -1808,6 +1898,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/1bbab966-6bb1-4d26-84f7-f3094c233156/atelier-taiso-et-nutrition",
     "image_url": "https://collegien.fr/s/agenda/2217ad1dd50c1017d3df6b44b7c45508/gettyimages-1396052053-1788343586-resize.jpg"
+  },
+  {
+    "date": "2026-12-09",
+    "time": "10h30",
+    "title": "Le Pere Noel A Disparu",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/le-pere-noel-a-disparu/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/perenoeldisparu.png"
   },
   {
     "date": "2026-12-10",
@@ -1830,6 +1930,16 @@
     "image_url": "https://collegien.fr/s/agenda/2eb5657d37f474e4c4cf01e4882b8962/photo-patchwork-1788269968-resize.jpg"
   },
   {
+    "date": "2026-12-10",
+    "time": "21h00",
+    "title": "Elies Zoghlami Dans Altremie",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/elies-zoghlami-dans-altremie/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/VISUEL-ELIES-ALTREMIE-1-scaled.jpg"
+  },
+  {
     "date": "2026-12-11",
     "time": "9h15",
     "title": "ATELIERS CULINAIRES SÉNIORS - Repas festif de fin d’année",
@@ -1848,6 +1958,16 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/the-inspector-cluzo-2026/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/TIC_PRESS_2_PHOTO_cCyrilleVidal-250x250.jpg"
+  },
+  {
+    "date": "2026-12-11",
+    "time": "21h00",
+    "title": "Par Ici La Sortie",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/par-ici-la-sortie/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/AFFICHE-PAR-ICI-LA-SORTIE-WEB-copie.jpg"
   },
   {
     "date": "2026-12-12",
@@ -1880,6 +2000,26 @@
     "image_url": "https://file7.com/wmedias/original/77connexion-site.jpg"
   },
   {
+    "date": "2026-12-12",
+    "time": "20h45",
+    "title": "CARMEN",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/1cb24942-fc1b-47ab-a819-9791c53f99cd/carmen",
+    "image_url": "https://collegien.fr/s/agenda/892c3b1c6dccd52936e27cbd0ff683d6/bandeau-carmen-grand-bord-blanc-03-1790777661-resize.jpg"
+  },
+  {
+    "date": "2026-12-12",
+    "time": "18h30",
+    "title": "Arnaud Demanche Nouveau Spectacle",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/arnaud-demanche-nouveau-spectacle-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/01/Capture-decran-2026-06-25-141858.png"
+  },
+  {
     "date": "2026-12-13",
     "time": "15h00",
     "title": "Destination Noël",
@@ -1888,6 +2028,26 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/destination-noel.png"
+  },
+  {
+    "date": "2026-12-13",
+    "time": "16h00",
+    "title": "CARMEN",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/ce58fc91-a53c-481c-b39e-98964477aea0/carmen",
+    "image_url": "https://collegien.fr/s/agenda/c9efe5f26cd17ba6216bbe2a7d26d490/bandeau-carmen-grand-bord-blanc-03-1790778902-resize.jpg"
+  },
+  {
+    "date": "2026-12-13",
+    "time": "10h30",
+    "title": "Le Pere Noel A Disparu",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/le-pere-noel-a-disparu-3/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/perenoeldisparu.png"
   },
   {
     "date": "2026-12-16",
@@ -1910,6 +2070,16 @@
     "image_url": "https://collegien.fr/s/agenda/09b69adcd7cbae914c6204984097d2da/gettyimages-1276435469-1788277419-resize.jpg"
   },
   {
+    "date": "2026-12-16",
+    "time": "10h30",
+    "title": "Le Pere Noel Est Enrhume",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/le-pere-noel-est-enrhume-11/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/06/Copie-de-AFFICHES-3-1.png"
+  },
+  {
     "date": "2026-12-18",
     "time": "14h00",
     "title": "DÉCOUVERTE DE LA PHYSIOTHÉRAPIE",
@@ -1918,6 +2088,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/75b5f68b-1a6a-4908-86cf-92ad57f49804/decouverte-de-la-physiotherapie",
     "image_url": "https://collegien.fr/s/agenda/f3b7e5d3eb074cde5b76e26bc0fb5776/gettyimages-1200966280-1788270838-resize.jpg"
+  },
+  {
+    "date": "2026-12-18",
+    "time": "21h00",
+    "title": "Incident Voyageur",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/incident-voyageur/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/incidentvoy.png"
   },
   {
     "date": "2026-12-19",
@@ -1948,6 +2128,46 @@
     "city": "Serris",
     "source_url": "https://billetterie.seetickets.fr/choubidouwa-ferme-des-communes-serris-20-decembre-2026-css5-velvilledeserris-pg101-ri11786967.html",
     "image_url": ""
+  },
+  {
+    "date": "2026-12-20",
+    "time": "10h30",
+    "title": "Mouchette Sauve Noel",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/mouchette-sauve-noel-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/mouchette.jpeg"
+  },
+  {
+    "date": "2026-12-20",
+    "time": "17h00",
+    "title": "Ldanse Show De Fetes",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/ldanse-show-de-fetes/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/IMG_9486.jpeg"
+  },
+  {
+    "date": "2026-12-21",
+    "time": "10h30",
+    "title": "Mouchette Sauve Noel",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/mouchette-sauve-noel/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/mouchette.jpeg"
+  },
+  {
+    "date": "2026-12-23",
+    "time": "10h30",
+    "title": "Le Pere Noel Est Enrhume",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/le-pere-noel-est-enrhume-13/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/06/Copie-de-AFFICHES-3-1.png"
   },
   {
     "date": "2027-01-09",
@@ -2058,6 +2278,16 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-the-french-twins",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/French-twins.png"
+  },
+  {
+    "date": "2027-01-23",
+    "time": "20h45",
+    "title": "J'ÉTAIS PARTI·E, PARDON (DANS UN AUTRE UNIVERS)",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/bfab0f0a-1dae-4a62-9b00-4f57ff8ae4ba/jetais-partie-pardon-dans-un-autre-univers",
+    "image_url": "https://collegien.fr/s/agenda/bc4e356fee1972242c8f7eabf4dff517/bandeau-collectif-mtg-02-1790779889-resize.jpg"
   },
   {
     "date": "2027-01-23",
@@ -2218,6 +2448,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/concert-bar.png"
+  },
+  {
+    "date": "2027-02-20",
+    "time": "14h00",
+    "title": "Rencontre : Le Management 2.0",
+    "type": "atelier",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/20-02-2027-14h00-rencontre-le-management-2-0.html",
+    "image_url": "https://www.file7.com/wmedias/original/management-tilt-site.jpg"
   },
   {
     "date": "2027-02-23",

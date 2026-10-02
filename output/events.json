@@ -90,16 +90,6 @@
     "image_url": "images/lagnySurMarne_charlesVanel/trash.png"
   },
   {
-    "date": "2026-10-01",
-    "time": "14h30",
-    "title": "Atelier patchwork",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/73d69b28-901e-4ab7-aa1e-e4eca7d908c9/atelier-patchwork",
-    "image_url": "https://collegien.fr/s/agenda/e465ae46b07058f4ab5e96b98f101756/photo-patchwork-1788269619-resize.jpg"
-  },
-  {
     "date": "2026-10-02",
     "time": "19h00",
     "title": "Café des parents - Bien être parental",
@@ -240,16 +230,6 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/CH-Thierry-Concert9Planete-12-250x250.png"
   },
   {
-    "date": "2026-10-03",
-    "time": "21h00",
-    "title": "Best Of Alexandra Duvivier",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/best-of-alexandra-duvivier/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-03-27-163654.png"
-  },
-  {
     "date": "2026-10-04",
     "time": "15h00",
     "title": "Mulan",
@@ -331,6 +311,16 @@
   },
   {
     "date": "2026-10-07",
+    "time": "15h00",
+    "title": "Les ateliers familles",
+    "type": "atelier",
+    "venue": "Résidence intergénérationnelle",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/392a5bbd-9fb2-4a8d-a34c-42e45782ba0e/les-ateliers-familles",
+    "image_url": "https://collegien.fr/s/agenda/d1c373ab1570cfb9a7dbb53c186b37a2/photo-atelier-famille-1790927106-resize.jpg"
+  },
+  {
+    "date": "2026-10-07",
     "time": "10h15",
     "title": "Eveil Musical De 0 A 36 Mois",
     "type": "spectacle",
@@ -378,6 +368,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/eb095703-8263-41ca-981d-072296c91b9e/randonnee-6-km",
     "image_url": "https://collegien.fr/s/agenda/2ef35a8b78b572a47f56846acbeef5d3/gettyimages-1249855378-1788357463-resize.jpg"
+  },
+  {
+    "date": "2026-10-08",
+    "time": "14h00",
+    "title": "Atelier taïso et nutrition",
+    "type": "atelier",
+    "venue": "Résidence intergénérationnelle",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/7ca87b41-b5fa-4c7f-87bd-18a8c0011edd/atelier-taiso-et-nutrition",
+    "image_url": "https://collegien.fr/s/agenda/3b2d8f129ae2f408f2153cd9ce663043/gettyimages-1396052053-1788343341-resize-1790927636-resize.jpg"
   },
   {
     "date": "2026-10-09",
@@ -681,6 +681,16 @@
   },
   {
     "date": "2026-10-14",
+    "time": "15h00",
+    "title": "Les ateliers familles",
+    "type": "atelier",
+    "venue": "Résidence intergénérationnelle",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/bd47773d-e886-476f-a9a4-49b926d4c4ab/les-ateliers-familles",
+    "image_url": "https://collegien.fr/s/agenda/3e60e09c222f206c725385f53d7e567c/photo-atelier-famille-1790927203-resize.jpg"
+  },
+  {
+    "date": "2026-10-14",
     "time": "10h30",
     "title": "Pop Circus",
     "type": "spectacle",
@@ -718,6 +728,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/6dd0de33-714f-4329-a41e-1a033a82ccc2/monographie",
     "image_url": "https://collegien.fr/s/agenda/6624b6d8217cf71640993409df58204f/bandeau-monographie-morel-02-1790691749-resize.jpg"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "14h00",
+    "title": "Atelier taïso et nutrition",
+    "type": "atelier",
+    "venue": "Résidence intergénérationnelle",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/720f57b6-4fe0-42bd-bce9-6ff1b25c0bdd/atelier-taiso-et-nutrition",
+    "image_url": "https://collegien.fr/s/agenda/b887d8d5e65ac4dec3934028fe23ad72/gettyimages-1396052053-1788343341-resize-1790927777-resize.jpg"
   },
   {
     "date": "2026-10-15",
@@ -886,7 +906,7 @@
     "type": "spectacle",
     "venue": "We Welcome",
     "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-4/",
+    "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-5/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/SUR-LE-FIL.jpeg"
   },
   {
@@ -1028,6 +1048,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile-4/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/SPC_CYRANOS-1.jpg"
+  },
+  {
+    "date": "2026-10-29",
+    "time": "21h00",
+    "title": "Je Suis Lapin",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/je-suis-lapin/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Je_suis_Lapin_Final-A4-2-scaled.jpg"
   },
   {
     "date": "2026-10-30",
@@ -1198,16 +1228,6 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/joe-bel-elias-dris/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/V1-OK-Sarah-Balladere-scaled-e1780415657205-250x250.jpg"
-  },
-  {
-    "date": "2026-11-06",
-    "time": "21h00",
-    "title": "On Est Fait Pour Sentendre",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/on-est-fait-pour-sentendre/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/07/AFFICHE-WEB-On-est-fait-pour-sentendre-RVB-72dpi-1.jpg"
   },
   {
     "date": "2026-11-07",
@@ -1441,6 +1461,16 @@
   },
   {
     "date": "2026-11-15",
+    "time": "10h30",
+    "title": "Lune Et Li",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/lune-et-li-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Lune_et_Li_affiche_neutre-2.jpg"
+  },
+  {
+    "date": "2026-11-15",
     "time": "17h00",
     "title": "Ils Se Sont Aimes",
     "type": "spectacle",
@@ -1607,7 +1637,7 @@
     "venue": "We Welcome",
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/charge-mentale-sauve-qui-peut/",
-    "image_url": ""
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/vz-46268e3a-031e-41a9-89a7-1e7222e067ba-1.jpeg"
   },
   {
     "date": "2026-11-22",
@@ -1708,6 +1738,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/60979861-55fa-4803-ab75-f2cc9ebafa44/repas-de-fin-dannee",
     "image_url": "https://collegien.fr/s/agenda/12a1d073d5ed3fa12169c67c4e2ce415/photo-colis-seniors-1788355642-resize.jpg"
+  },
+  {
+    "date": "2026-11-27",
+    "time": "21h00",
+    "title": "Jen Ai Plein Lcouple",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/jen-ai-plein-lcouple/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Capture_decran_2024-05-26_a_19.39.26.png"
   },
   {
     "date": "2026-11-28",
@@ -1958,16 +1998,6 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/the-inspector-cluzo-2026/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/04/TIC_PRESS_2_PHOTO_cCyrilleVidal-250x250.jpg"
-  },
-  {
-    "date": "2026-12-11",
-    "time": "21h00",
-    "title": "Par Ici La Sortie",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/par-ici-la-sortie/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/AFFICHE-PAR-ICI-LA-SORTIE-WEB-copie.jpg"
   },
   {
     "date": "2026-12-12",
@@ -2370,6 +2400,16 @@
     "image_url": "https://www.file7.com/wmedias/original/RENCONTRE_DU_2EME_TYPE-440x340.jpg"
   },
   {
+    "date": "2027-01-30",
+    "time": "20h45",
+    "title": "DE PROFUNDIS / Ensemble Tuba Mirum",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/8bc71f6f-deea-40df-b542-a8aa9b5c8726/de-profundis-ensemble-tuba-mirum",
+    "image_url": "https://collegien.fr/s/agenda/65a31da7ede4dc9b03fb5bbf8f442ce9/affiche-frisson-baroque-02-recadre-1790933584-resize.jpg"
+  },
+  {
     "date": "2027-02-04",
     "time": "19h30",
     "title": "Soirée stand-up (au bar)",
@@ -2511,6 +2551,16 @@
   },
   {
     "date": "2027-02-27",
+    "time": "20h45",
+    "title": "les habitant·es",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/a7c7d83c-3857-494a-894a-b5cd67d21eb4/les-habitanes",
+    "image_url": "https://collegien.fr/s/agenda/6db291ac9963003618ca6aa15063c4d6/bandeau-site-les-habitant-es-1790934431-resize.jpg"
+  },
+  {
+    "date": "2027-02-27",
     "time": "21h00",
     "title": "Jessé - Message personnel",
     "type": "spectacle",
@@ -2630,6 +2680,16 @@
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Lart-du-couple.png"
   },
   {
+    "date": "2027-03-13",
+    "time": "20h45",
+    "title": "mon côté wertheimer, les mères poules ne font pas des mouettes",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/98028e27-9f87-47c7-a491-039d20e56d07/mon-cote-wertheimer-les-meres-poules-ne-font-pas-des-mouettes",
+    "image_url": "https://collegien.fr/s/agenda/0f21f0349462cacdc5796990d37760ae/bandeau-site-img-3837raphael-rojas-1790935285-resize.jpg"
+  },
+  {
     "date": "2027-03-14",
     "time": "11h00",
     "title": "Rémi - ma guitare à tiroirs",
@@ -2648,6 +2708,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/concert-bar.png"
+  },
+  {
+    "date": "2027-03-19",
+    "time": "20h45",
+    "title": "SHAKE",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/1c6273c5-98c1-4d5f-80f4-7681aba860e0/shake",
+    "image_url": "https://collegien.fr/s/agenda/6788076842014c83cedadbe6b0ba0314/bandeau-site-shake-1-at-noemielacote-1790935855-resize.jpg"
   },
   {
     "date": "2027-03-19",
@@ -2881,6 +2951,16 @@
   },
   {
     "date": "2027-04-24",
+    "time": "20h45",
+    "title": "STARMANIA",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/f88b68f9-0bac-4d2b-95d7-5ed78e9ba44c/starmania",
+    "image_url": "https://collegien.fr/s/agenda/2bd2e3373dce441c6c3bfadd1daa953e/bandeau-site-starmania-05-1790937465-resize.jpg"
+  },
+  {
+    "date": "2027-04-24",
     "time": "21h00",
     "title": "Le journal d'Édouard Baer à Serris",
     "type": "spectacle",
@@ -2908,6 +2988,16 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/magie-mentalisme-mathieu-stepson/",
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270425-MathieuStepson-spectacle26-27_Affiche-scaled-470x705.png"
+  },
+  {
+    "date": "2027-04-25",
+    "time": "16h00",
+    "title": "STARMANIA",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/82014beb-41fa-4356-bd59-14f6cbb2a061/starmania",
+    "image_url": "https://collegien.fr/s/agenda/2d71b2ae158c7c5912cc0bbde2bb9d95/bandeau-site-starmania-05-1790937711-resize.jpg"
   },
   {
     "date": "2027-04-30",
@@ -3130,6 +3220,16 @@
     "image_url": "images/coupvray_lAtmosphere/lancelot.jpg"
   },
   {
+    "date": "2027-05-29",
+    "time": "20h45",
+    "title": "MADE IN FRANCE",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/55f3e724-ccda-41fa-997a-e8558f97936c/made-in-france",
+    "image_url": "https://collegien.fr/s/agenda/a11ce019e96a4c60832eadd755a17a58/bandeau-site-made-in-france-marie-charbonnier-179-1790938633-resize.jpg"
+  },
+  {
     "date": "2027-06-19",
     "time": "",
     "title": "Fête de la musique",
@@ -3148,6 +3248,16 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/theatre-cherie-jai-pris-le-pain/",
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270626-CoteCourJardin-spectacle26-27_Affiche-scaled-470x705.png"
+  },
+  {
+    "date": "2027-08-30",
+    "time": "",
+    "title": "EN BELLE COMPAGNIE",
+    "type": "spectacle",
+    "venue": "Promenade Sylvie Mérigard",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/a30084bd-a934-45f8-9d49-e3b2888b8558/en-belle-compagnie",
+    "image_url": "https://collegien.fr/s/agenda/db5cea26ca37aa09e5365f3e7f5dd9eb/bandeau-pour-site-photo-expo-en-belle-compagnie-02-light-1790857594-resize.jpg"
   },
   {
     "date": "2098-86-51",

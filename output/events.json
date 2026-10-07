@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-06-01",
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 18/10)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-residence",
+    "image_url": "https://medias.artishoc.coop/fdb/bmWBxrr7PBwXaKxMVWostqpwgTINKJo8KP-w8JVwivU/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTFNRFV6IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--ee4af768f911d8976272114934918e104bea0bf1463356d57c79922fb08a1042/f09188d8c391/maissane-alibrahimi-along-the-inner-wall-residence-de-creation-la-ferme-du-buisson-2026-courtesy-de-l-artiste-en-1.jpg"
+  },
+  {
     "date": "2026-09-18",
     "time": "20h30",
     "title": "Smile",
@@ -100,26 +110,6 @@
     "image_url": "images/lagnySurMarne_charlesVanel/mulan.png"
   },
   {
-    "date": "2026-10-06",
-    "time": "14h30",
-    "title": "Bowling",
-    "type": "atelier",
-    "venue": "Bay 1 - Torcy",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/d7df917d-5dc2-4cc0-8088-9f080034b6a6/bowling",
-    "image_url": "https://collegien.fr/s/agenda/c61f571dbd2fb949d3fe5ae1608dd48b/gettyimages-1249855378-1788357087-resize.jpg"
-  },
-  {
-    "date": "2026-10-06",
-    "time": "",
-    "title": "Ateliers DJing",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/ateliers-djing-avec-arguel/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2024/07/djing-niveau-debutant-250x250.jpg"
-  },
-  {
     "date": "2026-10-07",
     "time": "18h30",
     "title": "ATELIER NATUROPATHIE : SANTÉ DES FEMMES DE LA PUBERTÉ À LA MÉNOPAUSE",
@@ -151,16 +141,6 @@
   },
   {
     "date": "2026-10-07",
-    "time": "10h15",
-    "title": "Eveil Musical De 0 A 36 Mois",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-2/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
-  },
-  {
-    "date": "2026-10-07",
     "time": "11h45",
     "title": "Eveil Musical 3 5 Ans",
     "type": "spectacle",
@@ -178,6 +158,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/standup-bar.png"
+  },
+  {
+    "date": "2026-10-08",
+    "time": "17h30",
+    "title": "Notre Salut",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/notre-salut-sme",
+    "image_url": "https://medias.artishoc.coop/fdb/Zhvrqc8NDGGzavo5f7h5VsCV1KFjGffaFuYUC6pm3MA/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTJPRE14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d28b9fcc3e1730f7628b5f8675a4294676fb376ed31861ed460a8a763b91616e/4963675823d4/notre-salut-1.jpg"
   },
   {
     "date": "2026-10-08",
@@ -280,16 +270,6 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/05/SITE-250x250.jpg"
   },
   {
-    "date": "2026-10-09",
-    "time": "21h00",
-    "title": "La Revanche Dune Brune",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
-  },
-  {
     "date": "2026-10-10",
     "time": "",
     "title": "Spectacle – Baptiste Trotignon Trio",
@@ -351,6 +331,46 @@
   },
   {
     "date": "2026-10-10",
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
+    "image_url": "https://medias.artishoc.coop/fdb/pqOAv-9QiA_nvauNDbA9p18FObyNGYCnj4kqzq_Fg6w/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "",
+    "title": "Brandon Gercara (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
+    "image_url": "https://medias.artishoc.coop/fdb/tS77yElTq_OVPNy2_HwHdsXasm_ffNdthUTamqqT8jE/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "18h00",
+    "title": "Rêve parade",
+    "type": "cirque",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
+    "image_url": "https://medias.artishoc.coop/fdb/8vcRAZrbdG5UNmAHURUYqjOXLT5BWExY9LXDD9uYn48/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "20h30",
+    "title": "Khalil Epi",
+    "type": "concert",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
+    "image_url": "https://medias.artishoc.coop/fdb/Ntg8tYfeYiDwJClLMLmFraithdC8OCixacBatFbnzxM/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
+  },
+  {
+    "date": "2026-10-10",
     "time": "20h00",
     "title": "CAMILLE YEMBE+Morgan",
     "type": "concert",
@@ -371,6 +391,26 @@
   },
   {
     "date": "2026-10-10",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-4/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-6/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
+  },
+  {
+    "date": "2026-10-10",
     "time": "14h30",
     "title": "Philibert Le Magicien",
     "type": "spectacle",
@@ -388,6 +428,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune-2/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "14h00",
+    "title": "Le Club ZAP",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/le-club-zap-8",
+    "image_url": "https://medias.artishoc.coop/fdb/-7RQGDm5A_hlGUDX11mpJHBRlrn2tEvZO7jrAWFBm7k/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBNamc1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--50e942d21d6db6ae42f95766b6a0006cdf1ce84c009e09658445868b7c9f0876/c609fd81ff71/club-zap-c-nina-de-castro-7-min.jpg"
   },
   {
     "date": "2026-10-11",
@@ -541,6 +591,16 @@
   },
   {
     "date": "2026-10-16",
+    "time": "20h30",
+    "title": "Prélude",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/prelude",
+    "image_url": "https://medias.artishoc.coop/fdb/Lu_Rmu0XuV9eOdZkMG4GR1GFVJP5oc_z_q49IDxXXLI/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--b9c63bda76359ccf5823df3818d558304bf1e0f9bb0852b6b5065dacbcf9c4a1/aaaa39298d78/carlos_fernandes1-copie.png"
+  },
+  {
+    "date": "2026-10-16",
     "time": "",
     "title": "FEEL + Ruthee",
     "type": "concert",
@@ -631,6 +691,16 @@
   },
   {
     "date": "2026-10-21",
+    "time": "",
+    "title": "Ateliers en famille (jusqu'au 09/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/ateliers-en-famille-brandon-maissane",
+    "image_url": "https://medias.artishoc.coop/fdb/2M8qJfOxh0rI8vuMgJd6okdUZrZjwut6vJURkAhToMY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBOVGd4IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--5c24783f1e8ec93f232fc33c134271e589a4bb6aad9797190be6475f8a8a97ce/3a6125b65cd5/ateliers-c-nina-de-castro-1.jpg"
+  },
+  {
+    "date": "2026-10-21",
     "time": "10h30",
     "title": "Bienvenue A Trouillarde",
     "type": "spectacle",
@@ -698,6 +768,26 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/24-10-2026-15h00-cafe-concert-chloe-antoniotti.html",
     "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ3-440x340.png"
+  },
+  {
+    "date": "2026-10-24",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-5/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-10-24",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-5/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2026-10-26",
@@ -920,6 +1010,26 @@
     "image_url": "https://collegien.fr/s/agenda/28acfe2da49d2b9a7f177458256f2540/gettyimages-2243799864-1788274548-resize.jpg"
   },
   {
+    "date": "2026-11-04",
+    "time": "09h30",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-20/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-11-04",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-22/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
+  },
+  {
     "date": "2026-11-05",
     "time": "19h30",
     "title": "Soirée stand-up (au bar)",
@@ -968,6 +1078,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/afb31a97-f178-4823-a3fd-52f94d6abf8b/decouverte-de-la-physiotherapie",
     "image_url": "https://collegien.fr/s/agenda/39d352b0395ba768e18f042c6e2a8621/gettyimages-1200966280-1788270916-resize.jpg"
+  },
+  {
+    "date": "2026-11-06",
+    "time": "",
+    "title": "Saïgon (jusqu'au 07/11)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/saigon",
+    "image_url": "https://medias.artishoc.coop/fdb/m9OX0SxDnKMnm7lJgFrz__3B7437Qw8K2VXAZw23U-Q/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek15IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d9780b72d2e9aacc0d81858840ac8982086d7be68ba03d61c0849e36a6032d15/ee9db10427c5/saigon_-jeanlouisfernandez_025.jpg"
   },
   {
     "date": "2026-11-06",
@@ -1068,6 +1188,26 @@
     "city": "Serris",
     "source_url": "https://billetterie.seetickets.fr/michael-hirsch-y-a-de-la-joie-ferme-des-communes-serris-07-novembre-2026-css5-velvilledeserris-pg101-ri11776195.html",
     "image_url": ""
+  },
+  {
+    "date": "2026-11-07",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-6/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-7/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2026-11-07",
@@ -1401,6 +1541,26 @@
   },
   {
     "date": "2026-11-21",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-7/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-11-21",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-8/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
+  },
+  {
+    "date": "2026-11-21",
     "time": "21h00",
     "title": "Charge Mentale Sauve Qui Peut",
     "type": "spectacle",
@@ -1580,6 +1740,26 @@
     "image_url": "https://collegien.fr/s/agenda/e6af401c28c1790eaef7d55c92ab6ab6/photo-colis-seniors-1788355116-resize.jpg"
   },
   {
+    "date": "2026-12-02",
+    "time": "09h30",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-21/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-12-02",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-23/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
+  },
+  {
     "date": "2026-12-03",
     "time": "21h00",
     "title": "David Sun Dans Titi",
@@ -1688,6 +1868,26 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/odyssee-ouaistephane-elisa-do-brasil/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/dhiwagaran-parthiban-pFuDLZsTQAQ-unsplash-scaled-e1788863529679-250x250.jpg"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-8/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-9/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2026-12-06",
@@ -1918,6 +2118,26 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/stage-lutherie-niveau-2/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/finalllllllllll-250x250.jpg"
+  },
+  {
+    "date": "2026-12-19",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-9/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-12-19",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-10/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2026-12-20",
@@ -3088,15 +3308,5 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/a30084bd-a934-45f8-9d49-e3b2888b8558/en-belle-compagnie",
     "image_url": "https://collegien.fr/s/agenda/db5cea26ca37aa09e5365f3e7f5dd9eb/bandeau-pour-site-photo-expo-en-belle-compagnie-02-light-1790857594-resize.jpg"
-  },
-  {
-    "date": "2098-86-51",
-    "time": "",
-    "title": "Ateliers d’Éveil musical 0-3 ans",
-    "type": "atelier",
-    "venue": "Centre Culturel",
-    "city": "Saint-Thibault-des-Vignes",
-    "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/ateliers-deveil-musical-0-3-ans/",
-    "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/05/705988651_1281959090816992_3070565411438688717_n-470x704.jpg"
   }
 ]

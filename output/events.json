@@ -110,46 +110,6 @@
     "image_url": "images/lagnySurMarne_charlesVanel/mulan.png"
   },
   {
-    "date": "2026-10-07",
-    "time": "18h30",
-    "title": "ATELIER NATUROPATHIE : SANTÉ DES FEMMES DE LA PUBERTÉ À LA MÉNOPAUSE",
-    "type": "spectacle",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/5634bfcf-338c-4fa0-9c12-1b832ddcce74/atelier-naturopathie-sante-des-femmes-de-la-puberte-a-la-menopause",
-    "image_url": "https://collegien.fr/s/agenda/5b4130c9e891d39891289001cc97d86b/gettyimages-2230865518-1-1788514337-resize.jpg"
-  },
-  {
-    "date": "2026-10-07",
-    "time": "14h30",
-    "title": "Visite du Musée Louis Braille",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/06f43f4d-4e86-4a5b-8322-651339af1619/visite-du-musee-louis-braille",
-    "image_url": "https://collegien.fr/s/agenda/15cf76466b97264765356fcc56d801d1/gettyimages-1249855378-1788358076-resize.jpg"
-  },
-  {
-    "date": "2026-10-07",
-    "time": "15h00",
-    "title": "Les ateliers familles",
-    "type": "atelier",
-    "venue": "Résidence intergénérationnelle",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/392a5bbd-9fb2-4a8d-a34c-42e45782ba0e/les-ateliers-familles",
-    "image_url": "https://collegien.fr/s/agenda/d1c373ab1570cfb9a7dbb53c186b37a2/photo-atelier-famille-1790927106-resize.jpg"
-  },
-  {
-    "date": "2026-10-07",
-    "time": "11h45",
-    "title": "Eveil Musical 3 5 Ans",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-2/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
-  },
-  {
     "date": "2026-10-08",
     "time": "19h30",
     "title": "Soirée stand-up (au bar)",
@@ -168,16 +128,6 @@
     "city": "Noisiel",
     "source_url": "https://www.lafermedubuisson.com/fr/notre-salut-sme",
     "image_url": "https://medias.artishoc.coop/fdb/Zhvrqc8NDGGzavo5f7h5VsCV1KFjGffaFuYUC6pm3MA/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTJPRE14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d28b9fcc3e1730f7628b5f8675a4294676fb376ed31861ed460a8a763b91616e/4963675823d4/notre-salut-1.jpg"
-  },
-  {
-    "date": "2026-10-08",
-    "time": "10h00",
-    "title": "Randonnée 6 km",
-    "type": "atelier",
-    "venue": "Rendez-vous sous la halle Place Mireille Morvan",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/eb095703-8263-41ca-981d-072296c91b9e/randonnee-6-km",
-    "image_url": "https://collegien.fr/s/agenda/2ef35a8b78b572a47f56846acbeef5d3/gettyimages-1249855378-1788357463-resize.jpg"
   },
   {
     "date": "2026-10-08",
@@ -372,11 +322,11 @@
   {
     "date": "2026-10-10",
     "time": "20h00",
-    "title": "CAMILLE YEMBE+Morgan",
+    "title": "Annulé : CAMILLE YEMBE+Morgan",
     "type": "concert",
     "venue": "File7",
     "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/10-10-2026-20h00-camille-yembe-morgan.html",
+    "source_url": "https://www.file7.com/fr/programme/programme/10-10-2026-20h00-annule-camille-yembe-morgan.html",
     "image_url": "https://www.file7.com/wmedias/original/CAMILLE_YEMBE_-_JNLAJDAP_-_PHOTO1_-_cAlexis_Vassiviere-440x340.jpg"
   },
   {
@@ -737,7 +687,7 @@
     "venue": "We Welcome",
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-5/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/SUR-LE-FIL.jpeg"
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Affiche-A1-619ko.jpg"
   },
   {
     "date": "2026-10-23",
@@ -3280,6 +3230,16 @@
     "image_url": "https://collegien.fr/s/agenda/a11ce019e96a4c60832eadd755a17a58/bandeau-site-made-in-france-marie-charbonnier-179-1790938633-resize.jpg"
   },
   {
+    "date": "2027-06-15",
+    "time": "",
+    "title": "LE ciel est à tout le monde, la terre aussi",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/2917aa49-24c1-48df-830f-f3ea51dd6ca2/le-ciel-est-a-tout-le-monde-la-terre-aussi",
+    "image_url": "https://collegien.fr/s/agenda/2bd235c31c97855b7ef2dc8b414779af/bandeau-le-ciel-est-a-tout-le-monde-sand-1791387509-resize.jpg"
+  },
+  {
     "date": "2027-06-19",
     "time": "",
     "title": "Fête de la musique",
@@ -3298,6 +3258,16 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/theatre-cherie-jai-pris-le-pain/",
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270626-CoteCourJardin-spectacle26-27_Affiche-scaled-470x705.png"
+  },
+  {
+    "date": "2027-07-03",
+    "time": "17h00",
+    "title": "SOIRÉe de clôture",
+    "type": "spectacle",
+    "venue": "La Courée",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/6f38e186-118e-4be5-bfa6-7e5becaadecd/soiree-de-cloture",
+    "image_url": "https://collegien.fr/s/agenda/2d95666e2649fcfc6e3af75e09f5adb9/paloma-colombe-01-bandeau-1791388468-resize.jpg"
   },
   {
     "date": "2027-08-30",

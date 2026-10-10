@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-06-01",
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 18/10)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-residence",
+    "image_url": "https://medias.artishoc.coop/fdb/bmWBxrr7PBwXaKxMVWostqpwgTINKJo8KP-w8JVwivU/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTFNRFV6IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--ee4af768f911d8976272114934918e104bea0bf1463356d57c79922fb08a1042/f09188d8c391/maissane-alibrahimi-along-the-inner-wall-residence-de-creation-la-ferme-du-buisson-2026-courtesy-de-l-artiste-en-1.jpg"
+  },
+  {
     "date": "2026-09-18",
     "time": "20h30",
     "title": "Smile",
@@ -120,46 +130,6 @@
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/261009-TributeBalavoine-spectacle26-27_Affiche-470x705.png"
   },
   {
-    "date": "2026-10-09",
-    "time": "18h30",
-    "title": "ATELIER DO IN",
-    "type": "spectacle",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/b40e1bdb-3791-4bc4-b54a-ccb3b10e977e/atelier-do-in",
-    "image_url": "https://collegien.fr/s/agenda/7f018eb7b301a66658931cb8a93fd6e8/gettyimages-2230865518-1-1788512753-resize.jpg"
-  },
-  {
-    "date": "2026-10-09",
-    "time": "14h00",
-    "title": "Initiation au Qi Gong",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/1139f785-350a-4aec-a4a2-3077d21e643f/initiation-au-qi-gong",
-    "image_url": "https://collegien.fr/s/agenda/e98741479a7b998f88b8f8c9f0b6b6f1/gettyimages-1249855378-1788357950-resize.jpg"
-  },
-  {
-    "date": "2026-10-09",
-    "time": "20h00",
-    "title": "Soirées Fan-Club : TEDAAK+Jasmine not Jafar",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/09-10-2026-20h00-soirees-fan-club-tedaak-jasmine-not-jafar.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_JNJ_-_TEDAAK-440x340.png"
-  },
-  {
-    "date": "2026-10-09",
-    "time": "",
-    "title": "Bukowski + ODC",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/bukowski-odc/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/05/SITE-250x250.jpg"
-  },
-  {
     "date": "2026-10-10",
     "time": "",
     "title": "Spectacle – Baptiste Trotignon Trio",
@@ -201,16 +171,6 @@
   },
   {
     "date": "2026-10-10",
-    "time": "10h00",
-    "title": "Écoute moi - Ateliers parents",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/72abe72f-03af-4a7b-a11e-8582e804c9fb/ecoute-moi-ateliers-parents",
-    "image_url": "https://collegien.fr/s/agenda/6e0e24295e8a86282cb559b860416812/gettyimages-2206258275-1788340536-resize.jpg"
-  },
-  {
-    "date": "2026-10-10",
     "time": "14h00",
     "title": "Atelier couture - coussin coeur",
     "type": "atelier",
@@ -218,6 +178,46 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/2bce2b99-f6b6-42e2-95b3-211cfa264788/atelier-couture-coussin-coeur",
     "image_url": "https://collegien.fr/s/agenda/a7f592cef8b130a6967a90617db5681b/photo-couture-1788269653-resize.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
+    "image_url": "https://medias.artishoc.coop/fdb/pqOAv-9QiA_nvauNDbA9p18FObyNGYCnj4kqzq_Fg6w/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/c1d89e54f8ec/visuel_brochure_maissane_alibrahimi-c-oriane-cotton-1.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "",
+    "title": "Brandon Gercara (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
+    "image_url": "https://medias.artishoc.coop/fdb/tS77yElTq_OVPNy2_HwHdsXasm_ffNdthUTamqqT8jE/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/6fd1c62ef5d1/still-2026-03-17-173703_1-107-2.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "18h00",
+    "title": "Rêve parade",
+    "type": "cirque",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/reve-parade-2026",
+    "image_url": "https://medias.artishoc.coop/fdb/8vcRAZrbdG5UNmAHURUYqjOXLT5BWExY9LXDD9uYn48/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFV5IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--b3f41a9a0e1744e8c1dc21c3b5d364121594c76e76b67c853ac5fa31c9397f2d/166ca01c70f3/c-joseph-banderet-arthur-sidoroff-reve-parade-antony-2021.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "20h30",
+    "title": "Khalil Epi",
+    "type": "concert",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/khalil-epi",
+    "image_url": "https://medias.artishoc.coop/fdb/Ntg8tYfeYiDwJClLMLmFraithdC8OCixacBatFbnzxM/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPRFk1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--8a25b8995957831197f8d5f38b66ac4d624fabfe14ce09b1c05a293e7e395d68/42f3a273ded3/khalil-1_.png"
   },
   {
     "date": "2026-10-10",
@@ -238,16 +238,6 @@
     "city": "Montévrain",
     "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/jose-cruz-56/150494",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Jose-Cruz.png"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "10h00",
-    "title": "Eveil Musical De 0 A 36 Mois",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-4/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
   },
   {
     "date": "2026-10-10",
@@ -278,6 +268,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/la-revanche-dune-brune-2/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/Capture-decran-2026-01-20-a-11.11.08.png"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "14h00",
+    "title": "Le Club ZAP",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/le-club-zap-8",
+    "image_url": "https://medias.artishoc.coop/fdb/-7RQGDm5A_hlGUDX11mpJHBRlrn2tEvZO7jrAWFBm7k/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBNamc1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--50e942d21d6db6ae42f95766b6a0006cdf1ce84c009e09658445868b7c9f0876/c609fd81ff71/club-zap-c-nina-de-castro-7-min.jpg"
   },
   {
     "date": "2026-10-11",
@@ -431,6 +431,16 @@
   },
   {
     "date": "2026-10-16",
+    "time": "20h30",
+    "title": "Prélude",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/prelude",
+    "image_url": "https://medias.artishoc.coop/fdb/Lu_Rmu0XuV9eOdZkMG4GR1GFVJP5oc_z_q49IDxXXLI/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek14IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--b9c63bda76359ccf5823df3818d558304bf1e0f9bb0852b6b5065dacbcf9c4a1/aaaa39298d78/carlos_fernandes1-copie.png"
+  },
+  {
+    "date": "2026-10-16",
     "time": "",
     "title": "FEEL + Ruthee",
     "type": "concert",
@@ -518,6 +528,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/80b41db7-5a6c-426f-9986-26a9892d0ab4/cafe-numerique-mieux-maitriser-son-smartphone",
     "image_url": "https://collegien.fr/s/agenda/12311d05c9aa67765703984239511212/gettyimages-1322157897-1788277220-resize.jpg"
+  },
+  {
+    "date": "2026-10-21",
+    "time": "",
+    "title": "Ateliers en famille (jusqu'au 09/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/ateliers-en-famille-brandon-maissane",
+    "image_url": "https://medias.artishoc.coop/fdb/2M8qJfOxh0rI8vuMgJd6okdUZrZjwut6vJURkAhToMY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBOVGd4IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--5c24783f1e8ec93f232fc33c134271e589a4bb6aad9797190be6475f8a8a97ce/3a6125b65cd5/ateliers-c-nina-de-castro-1.jpg"
   },
   {
     "date": "2026-10-21",
@@ -901,6 +921,16 @@
   },
   {
     "date": "2026-11-06",
+    "time": "",
+    "title": "Saïgon (jusqu'au 07/11)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/saigon",
+    "image_url": "https://medias.artishoc.coop/fdb/m9OX0SxDnKMnm7lJgFrz__3B7437Qw8K2VXAZw23U-Q/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek15IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d9780b72d2e9aacc0d81858840ac8982086d7be68ba03d61c0849e36a6032d15/ee9db10427c5/saigon_-jeanlouisfernandez_025.jpg"
+  },
+  {
+    "date": "2026-11-06",
     "time": "20h30",
     "title": "Giorgio le mentaliste",
     "type": "spectacle",
@@ -968,6 +998,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/021d3f4a-ceb5-4fd9-bae4-06e2fa80cb1c/atelier-repare-tout",
     "image_url": "https://collegien.fr/s/agenda/64c31821603ab476a318839606743bd6/photo-1-1788270146-resize.jpg"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "16h30",
+    "title": "Immobile & Rebondi",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/immobile-et-rebondi",
+    "image_url": "https://medias.artishoc.coop/fdb/0TFlHnrJlpU2yJfQ0YTqWi5ehzCTr40YiFdvo4w1iRw/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOall3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--97fd8dbcb6f52f07577a9153c11a122a5cfed387850f8ac8ab5d2ebd5a77794e/ad2f2b1b6c96/saut-sylvere-lamotte.jpg"
   },
   {
     "date": "2026-11-07",
@@ -1088,6 +1128,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/85b15e9e-5c95-4e6e-994e-7ed6b05ae745/atelier-intergenerationnel-repas-et-quizz-en-tout-genre",
     "image_url": "https://collegien.fr/s/agenda/2650d6089a6d640c5e85b2b88265dc2b/gettyimages-2215221243-1788354166-resize.jpg"
+  },
+  {
+    "date": "2026-11-13",
+    "time": "20h30",
+    "title": "Musiques en héritage",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/musiques-en-heritage",
+    "image_url": "https://medias.artishoc.coop/fdb/vlbWEjMk_5fb9AF8n0CYwQ8ZPITaVlDIkzvWqRc9mSY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek16IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0449fc7645c7aa96025632050e5f715e84759bc93b66f9026768f4615c487522/b86ac1ce221c/image00034-copie.jpg"
   },
   {
     "date": "2026-11-13",

@@ -200,36 +200,6 @@
     "image_url": "images/generic/comptines.png"
   },
   {
-    "date": "2026-10-14",
-    "time": "15h00",
-    "title": "Les ateliers familles",
-    "type": "atelier",
-    "venue": "Résidence intergénérationnelle",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/bd47773d-e886-476f-a9a4-49b926d4c4ab/les-ateliers-familles",
-    "image_url": "https://collegien.fr/s/agenda/3e60e09c222f206c725385f53d7e567c/photo-atelier-famille-1790927203-resize.jpg"
-  },
-  {
-    "date": "2026-10-14",
-    "time": "10h30",
-    "title": "Pop Circus",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/pop-circus-2/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/popcircus-scaled.jpg"
-  },
-  {
-    "date": "2026-10-14",
-    "time": "14h30",
-    "title": "Droles De Cubes",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/droles-de-cubes/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/Drole_de_cubes-1.jpeg"
-  },
-  {
     "date": "2026-10-15",
     "time": "14h30",
     "title": "Atelier patchwork",
@@ -258,16 +228,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/720f57b6-4fe0-42bd-bce9-6ff1b25c0bdd/atelier-taiso-et-nutrition",
     "image_url": "https://collegien.fr/s/agenda/b887d8d5e65ac4dec3934028fe23ad72/gettyimages-1396052053-1788343341-resize-1790927777-resize.jpg"
-  },
-  {
-    "date": "2026-10-15",
-    "time": "21h00",
-    "title": "Daron Noir",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/daron-noir/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/Affiche-neutre_DaronNoir_2026-2.jpg"
   },
   {
     "date": "2026-10-16",
@@ -1947,7 +1907,7 @@
     "venue": "We Welcome",
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/mere-noel-et-le-grand-cerf/",
-    "image_url": ""
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Affiche-mere-noel-grand-cerf-web-1-pdf.jpg"
   },
   {
     "date": "2026-12-23",

@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-09-18",
+    "time": "20h30",
+    "title": "Smile",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-smile",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Smile.png"
+  },
+  {
+    "date": "2026-09-19",
+    "time": "",
+    "title": "Journées européennes du patrimoine (jusqu'au 20/09)",
+    "type": "spectacle",
+    "venue": "Cité Menier",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-09-19",
+    "time": "",
+    "title": "Regards sur Noisiel — Christine et Joseph Aligon (expo, jusqu'au 10/10)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-09-19",
+    "time": "21h00",
+    "title": "Marine Leonardi - Mauvaise graine",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://www.fermedescommunes.fr/programmation-807/marine-leonardi-mauvaise-graine-3097.html",
+    "image_url": ""
+  },
+  {
     "date": "2026-09-20",
     "time": "17h00",
     "title": "Gueules Noires",
@@ -8,6 +48,26 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/gueules-noires.png"
+  },
+  {
+    "date": "2026-09-23",
+    "time": "20h30",
+    "title": "Verino",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-verino",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Verino.png"
+  },
+  {
+    "date": "2026-09-25",
+    "time": "20h30",
+    "title": "Sortez-moi de là !",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/sortez-moi-de-la-30/150496",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Sortez-moi-de-la.png"
   },
   {
     "date": "2026-09-26",
@@ -20,6 +80,16 @@
     "image_url": "images/lagnySurMarne_charlesVanel/trash.png"
   },
   {
+    "date": "2026-10-03",
+    "time": "21h00",
+    "title": "Ma Famille en Or",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/ma-famille-en-or-ferme-des-communes-serris-03-octobre-2026-css5-velvilledeserris-pg101-ri11776181.html",
+    "image_url": ""
+  },
+  {
     "date": "2026-10-04",
     "time": "15h00",
     "title": "Mulan",
@@ -28,6 +98,26 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/mulan.png"
+  },
+  {
+    "date": "2026-10-08",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/standup-bar.png"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/contes-musique.png"
   },
   {
     "date": "2026-10-10",
@@ -40,6 +130,46 @@
     "image_url": "images/lagnySurMarne_charlesVanel/le-proces-dune-vie.png"
   },
   {
+    "date": "2026-10-10",
+    "time": "20h30",
+    "title": "José Cruz",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/jose-cruz-56/150494",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Jose-Cruz.png"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "16h00",
+    "title": "Ma femme, la tienne, la nôtre",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/ma-femme-la-tienne-la-notre-19/150495",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Ma-femme-la-tienne-la-notre.png"
+  },
+  {
+    "date": "2026-10-11",
+    "time": "16h00",
+    "title": "Tous à l'opéra",
+    "type": "concert",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/tous-a-l-opera-ensemble-contraste-ferme-des-communes-serris-11-octobre-2026-css5-velvilledeserris-pg101-ri11789151.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-14",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/comptines.png"
+  },
+  {
     "date": "2026-10-16",
     "time": "20h30",
     "title": "Arnaud Tsamère, Tous contraints",
@@ -48,6 +178,66 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/arnaud-tsamere.png"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "",
+    "title": "Balade urbaine : Formes et couleurs de la ville",
+    "type": "atelier",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-10-22",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/concert-bar.png"
+  },
+  {
+    "date": "2026-11-05",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/standup-bar.png"
+  },
+  {
+    "date": "2026-11-05",
+    "time": "20h30",
+    "title": "La Fontaine",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-lafontaine",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/La-Fontaine.png"
+  },
+  {
+    "date": "2026-11-06",
+    "time": "20h30",
+    "title": "Giorgio le mentaliste",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-giorgio-le-mentaliste",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Giorgio.png"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/contes-musique.png"
   },
   {
     "date": "2026-11-07",
@@ -60,6 +250,66 @@
     "image_url": "images/lagnySurMarne_charlesVanel/les-coquettes.png"
   },
   {
+    "date": "2026-11-07",
+    "time": "20h30",
+    "title": "Tristan Pierre - Mélanjolie",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray_lAtmosphere/tristan-pierre-melanjolie.jpg"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "21h00",
+    "title": "Michaël Hirsch - Y'a de la joie !",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/michael-hirsch-y-a-de-la-joie-ferme-des-communes-serris-07-novembre-2026-css5-velvilledeserris-pg101-ri11776195.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-12",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/concert-bar.png"
+  },
+  {
+    "date": "2026-11-12",
+    "time": "20h30",
+    "title": "Du charbon dans les veines",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/760.gif"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "",
+    "title": "Balade insolite nocturne — À l'heure où les arbres murmurent (aussi le 21/11)",
+    "type": "atelier",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-14",
+    "time": "20h30",
+    "title": "Linh",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-linh",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Linh.png"
+  },
+  {
     "date": "2026-11-15",
     "time": "17h00",
     "title": "Une heure à t'attendre",
@@ -68,6 +318,76 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/une-heure-a-tattendre.png"
+  },
+  {
+    "date": "2026-11-17",
+    "time": "19h00",
+    "title": "Jean-Chat voit dans le noir",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/761.gif"
+  },
+  {
+    "date": "2026-11-18",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/comptines.png"
+  },
+  {
+    "date": "2026-11-20",
+    "time": "20h30",
+    "title": "The Opera Locos",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-the-opera-locos",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Opera-Locos.png"
+  },
+  {
+    "date": "2026-11-21",
+    "time": "",
+    "title": "Rencontres photographiques (expo, jusqu'au 12/12)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-21",
+    "time": "21h00",
+    "title": "Le malade imaginaire",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/le-malade-imaginaire-ferme-des-communes-serris-21-novembre-2026-css5-velvilledeserris-pg101-ri11776211.html",
+    "image_url": ""
+  },
+  {
+    "date": "2026-11-22",
+    "time": "11h00",
+    "title": "Mon premier opéra",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-mon-premier-opera",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Mon-premier-opera.png"
+  },
+  {
+    "date": "2026-11-26",
+    "time": "20h30",
+    "title": "Stephan Eicher « Poussière d'or »",
+    "type": "concert",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/762.gif"
   },
   {
     "date": "2026-11-27",
@@ -80,6 +400,46 @@
     "image_url": "images/lagnySurMarne_charlesVanel/le-chant-des-lions.png"
   },
   {
+    "date": "2026-11-27",
+    "time": "20h30",
+    "title": "Coup de bluff",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-coup-de-bluff",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Coup-de-bluff.png"
+  },
+  {
+    "date": "2026-11-29",
+    "time": "16h00",
+    "title": "Les parents viennent de mars (chez maman)",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/les-parents-viennent-de-mars-chez-maman-30/154785",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Les-parents-viennent-de-mars.png"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "",
+    "title": "Le Train de Noël (Dodo et Rémi)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray_lAtmosphere/le-train-de-noel.jpg"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "21h00",
+    "title": "Mathieu Stepson",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/mathieu-stepson-ferme-des-communes-serris-05-decembre-2026-css5-velvilledeserris-pg101-ri11776215.html",
+    "image_url": ""
+  },
+  {
     "date": "2026-12-10",
     "time": "20h30",
     "title": "L'Expérience théâtrale",
@@ -90,6 +450,16 @@
     "image_url": "images/lagnySurMarne_charlesVanel/lexperience-theatrale.png"
   },
   {
+    "date": "2026-12-10",
+    "time": "20h30",
+    "title": "Le Chœur des femmes",
+    "type": "spectacle",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/763.gif"
+  },
+  {
     "date": "2026-12-13",
     "time": "15h00",
     "title": "Destination Noël",
@@ -98,6 +468,76 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/destination-noel.png"
+  },
+  {
+    "date": "2026-12-16",
+    "time": "20h30",
+    "title": "Salomé Gasselin – Le Cairn Consort (LBS)",
+    "type": "concert",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/764.gif"
+  },
+  {
+    "date": "2026-12-19",
+    "time": "20h30",
+    "title": "Gospel Fire",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-gospel-fire",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Gospel.png"
+  },
+  {
+    "date": "2026-12-20",
+    "time": "15h00",
+    "title": "Choubidouwa",
+    "type": "concert",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/choubidouwa-ferme-des-communes-serris-20-decembre-2026-css5-velvilledeserris-pg101-ri11786967.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-07",
+    "time": "20h30",
+    "title": "Macera",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/766.gif"
+  },
+  {
+    "date": "2027-01-09",
+    "time": "",
+    "title": "Cécile Pignon (expo, jusqu'au 30/01)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-09",
+    "time": "18h00",
+    "title": "Plein Feu",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-09",
+    "time": "21h00",
+    "title": "L'invitation",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/l-invitation-ferme-des-communes-serris-09-janvier-2027-css5-velvilledeserris-pg101-ri11776225.html",
+    "image_url": ""
   },
   {
     "date": "2027-01-14",
@@ -120,6 +560,16 @@
     "image_url": "images/lagnySurMarne_charlesVanel/back-to-basics-vol-4.png"
   },
   {
+    "date": "2027-01-16",
+    "time": "20h30",
+    "title": "Et si c'était elle (Franck Buirod)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray_lAtmosphere/et-si-cetait-elle.jpg"
+  },
+  {
     "date": "2027-01-21",
     "time": "20h30",
     "title": "Le Plateau de l'humour",
@@ -128,6 +578,86 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/le-plateau-de-lhumour.png"
+  },
+  {
+    "date": "2027-01-21",
+    "time": "20h30",
+    "title": "Une vie sur mesure",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/767.gif"
+  },
+  {
+    "date": "2027-01-22",
+    "time": "20h30",
+    "title": "The French Twins",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-the-french-twins",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/French-twins.png"
+  },
+  {
+    "date": "2027-01-22",
+    "time": "21h00",
+    "title": "Nicolas Canteloup - Nouveau spectacle",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/nicolas-canteloup-nouveau-spectacle-ferme-des-communes-serris-22-janvier-2027-css5-velvilledeserris-pg101-ri11786973.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-01-23",
+    "time": "20h30",
+    "title": "Elles pardonnent mais n'oublient jamais",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/elles-pardonnent-mais-noublient-jamais-38/159768",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Elles-pardonnent.png"
+  },
+  {
+    "date": "2027-01-28",
+    "time": "19h00",
+    "title": "Odyssée, la conférence musicale",
+    "type": "concert",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/768.gif"
+  },
+  {
+    "date": "2027-01-29",
+    "time": "20h30",
+    "title": "Appelez-moi Walt",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-appelez-moi-walt",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Walt.png"
+  },
+  {
+    "date": "2027-02-04",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/standup-bar.png"
+  },
+  {
+    "date": "2027-02-04",
+    "time": "20h30",
+    "title": "Clairières dans le ciel – duo Nuvoletta (LBS)",
+    "type": "concert",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/770.gif"
   },
   {
     "date": "2027-02-05",
@@ -140,6 +670,16 @@
     "image_url": "images/lagnySurMarne_charlesVanel/le-repas-des-fauves.png"
   },
   {
+    "date": "2027-02-06",
+    "time": "20h30",
+    "title": "Comedy Club (Louise Duck, Morgan Poitrat, Najim Ziani, Veuria)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray_lAtmosphere/comedy-club-fevrier.jpg"
+  },
+  {
     "date": "2027-02-11",
     "time": "20h30",
     "title": "Giselle (Grand Ballet de Kiev)",
@@ -148,6 +688,36 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/giselle.png"
+  },
+  {
+    "date": "2027-02-18",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/concert-bar.png"
+  },
+  {
+    "date": "2027-02-24",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/comptines.png"
+  },
+  {
+    "date": "2027-02-25",
+    "time": "20h30",
+    "title": "Jean-Romuald, un garçon de son âge",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/771.gif"
   },
   {
     "date": "2027-02-26",
@@ -160,6 +730,46 @@
     "image_url": "images/lagnySurMarne_charlesVanel/le-dernier-cedre-du-liban.png"
   },
   {
+    "date": "2027-02-26",
+    "time": "20h30",
+    "title": "Mahé",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-mahe",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Mahe.png"
+  },
+  {
+    "date": "2027-02-27",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/contes-musique.png"
+  },
+  {
+    "date": "2027-02-27",
+    "time": "20h30",
+    "title": "Le Cid",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-le-cid",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Le-CID.png"
+  },
+  {
+    "date": "2027-02-27",
+    "time": "21h00",
+    "title": "Jessé - Message personnel",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/jesse-message-personnel-ferme-des-communes-serris-27-fevrier-2027-css5-velvilledeserris-pg101-ri11776231.html",
+    "image_url": ""
+  },
+  {
     "date": "2027-02-28",
     "time": "15h00",
     "title": "Deux rien",
@@ -168,6 +778,26 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/deux-rien.png"
+  },
+  {
+    "date": "2027-03-04",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/standup-bar.png"
+  },
+  {
+    "date": "2027-03-04",
+    "time": "20h30",
+    "title": "Le Barbier de Séville ou la précaution inutile",
+    "type": "spectacle",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/772.gif"
   },
   {
     "date": "2027-03-05",
@@ -180,6 +810,46 @@
     "image_url": "images/lagnySurMarne_charlesVanel/the-loop.png"
   },
   {
+    "date": "2027-03-06",
+    "time": "",
+    "title": "Journée internationale des droits des femmes (jusqu'au 13/03)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-06",
+    "time": "10h00",
+    "title": "Le Grand Voyage",
+    "type": "spectacle",
+    "venue": "Micro-Folie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/773.gif"
+  },
+  {
+    "date": "2027-03-06",
+    "time": "20h30",
+    "title": "Enzo Ricci - Quetzal",
+    "type": "concert",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray_lAtmosphere/enzo-ricci-quetzal.jpg"
+  },
+  {
+    "date": "2027-03-11",
+    "time": "20h30",
+    "title": "Je suis",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/774.gif"
+  },
+  {
     "date": "2027-03-12",
     "time": "20h30",
     "title": "Le Destin se moque des choix",
@@ -188,6 +858,96 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/le-destin-se-moque-des-choix.png"
+  },
+  {
+    "date": "2027-03-12",
+    "time": "20h30",
+    "title": "L'art du couple",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/lart-du-couple-70/159769",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Lart-du-couple.png"
+  },
+  {
+    "date": "2027-03-14",
+    "time": "11h00",
+    "title": "Rémi - ma guitare à tiroirs",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/remi-ma-guitare-a-tiroirs-montevrain",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Remi-Comptines.png"
+  },
+  {
+    "date": "2027-03-18",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/concert-bar.png"
+  },
+  {
+    "date": "2027-03-19",
+    "time": "20h30",
+    "title": "Balavoine, hommage",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-balavoine-hommage",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Balavoine.png"
+  },
+  {
+    "date": "2027-03-19",
+    "time": "21h00",
+    "title": "« Craquage » de Marion Mezadorian",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/775.gif"
+  },
+  {
+    "date": "2027-03-20",
+    "time": "",
+    "title": "Salon du Luz'Art (expo, jusqu'au 03/04)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-20",
+    "time": "20h30",
+    "title": "Guillaume Guisset en spectacle",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray_lAtmosphere/guillaume-guisset.jpg"
+  },
+  {
+    "date": "2027-03-20",
+    "time": "21h00",
+    "title": "Du charbon dans les veines",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/du-charbon-dans-les-veines-ferme-des-communes-serris-20-mars-2027-css5-velvilledeserris-pg101-ri11776247.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-03-24",
+    "time": "11h00",
+    "title": "Comptines (1-3 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/comptines.png"
   },
   {
     "date": "2027-03-26",
@@ -200,6 +960,26 @@
     "image_url": "images/lagnySurMarne_charlesVanel/heritieres.png"
   },
   {
+    "date": "2027-03-27",
+    "time": "16h00",
+    "title": "Contes en musique (4-6 ans)",
+    "type": "atelier",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/contes-musique.png"
+  },
+  {
+    "date": "2027-03-27",
+    "time": "18h30",
+    "title": "Zélie la pirate",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-zelie-la-pirate",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Zelie-la-Pirate.png"
+  },
+  {
     "date": "2027-03-28",
     "time": "17h00",
     "title": "Ciné-concert (Charlie Chaplin)",
@@ -208,6 +988,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/cine-concert.png"
+  },
+  {
+    "date": "2027-04-01",
+    "time": "19h30",
+    "title": "Soirée stand-up (au bar)",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/standup-bar.png"
   },
   {
     "date": "2027-04-02",
@@ -220,6 +1010,36 @@
     "image_url": "images/lagnySurMarne_charlesVanel/geremy-credeville.png"
   },
   {
+    "date": "2027-04-02",
+    "time": "20h30",
+    "title": "John Sulo",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-john-sulo",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/John-Sulo.png"
+  },
+  {
+    "date": "2027-04-15",
+    "time": "19h30",
+    "title": "Soirée concert (au bar)",
+    "type": "concert",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/generic/concert-bar.png"
+  },
+  {
+    "date": "2027-04-16",
+    "time": "20h30",
+    "title": "Zack et Stan",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-zack-stan",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Zack-et-Stan.png"
+  },
+  {
     "date": "2027-04-22",
     "time": "20h30",
     "title": "Juste Irena",
@@ -230,6 +1050,46 @@
     "image_url": "images/lagnySurMarne_charlesVanel/juste-irena.png"
   },
   {
+    "date": "2027-04-23",
+    "time": "20h30",
+    "title": "Fauxfaire Fauxvoir",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/777.gif"
+  },
+  {
+    "date": "2027-04-24",
+    "time": "20h30",
+    "title": "Comedy Club (Robin Gomez, Super Baston, Méchante Coline, Axel Ramponi)",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray_lAtmosphere/comedy-club-avril.jpg"
+  },
+  {
+    "date": "2027-04-24",
+    "time": "20h30",
+    "title": "L'affaire est dans le sac",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/laffaire-est-dans-le-sac-9/159767",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Laffaire-est-dans-le-sac.png"
+  },
+  {
+    "date": "2027-04-24",
+    "time": "21h00",
+    "title": "Le journal d'Édouard Baer à Serris",
+    "type": "spectacle",
+    "venue": "La Ferme des Communes",
+    "city": "Serris",
+    "source_url": "https://billetterie.seetickets.fr/le-journal-d-edouard-baer-a-serris-ferme-des-communes-24-avril-2027-css5-velvilledeserris-pg101-ri11787009.html",
+    "image_url": ""
+  },
+  {
     "date": "2027-04-30",
     "time": "20h30",
     "title": "Marius",
@@ -238,6 +1098,36 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/marius.png"
+  },
+  {
+    "date": "2027-04-30",
+    "time": "20h30",
+    "title": "No One Is Innocent",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-no-one-is-innocent",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/No-one-is-innocent.png"
+  },
+  {
+    "date": "2027-04-30",
+    "time": "20h30",
+    "title": "Billet d'humeur",
+    "type": "spectacle",
+    "venue": "La Sucrerie (fosse)",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/778.gif"
+  },
+  {
+    "date": "2027-05-05",
+    "time": "",
+    "title": "Martinefa (expo, jusqu'au 29/05)",
+    "type": "spectacle",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
   },
   {
     "date": "2027-05-11",
@@ -270,546 +1160,6 @@
     "image_url": ""
   },
   {
-    "date": "2027-05-14",
-    "time": "20h30",
-    "title": "Paul de Saint-Sernin",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2027-05-15",
-    "time": "20h30",
-    "title": "Mahé",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": ""
-  },
-  {
-    "date": "2026-10-08",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/standup-bar.png"
-  },
-  {
-    "date": "2026-11-05",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/standup-bar.png"
-  },
-  {
-    "date": "2027-02-04",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/standup-bar.png"
-  },
-  {
-    "date": "2027-03-04",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/standup-bar.png"
-  },
-  {
-    "date": "2027-04-01",
-    "time": "19h30",
-    "title": "Soirée stand-up (au bar)",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/standup-bar.png"
-  },
-  {
-    "date": "2026-10-22",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/concert-bar.png"
-  },
-  {
-    "date": "2026-11-12",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/concert-bar.png"
-  },
-  {
-    "date": "2027-02-18",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/concert-bar.png"
-  },
-  {
-    "date": "2027-03-18",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/concert-bar.png"
-  },
-  {
-    "date": "2027-04-15",
-    "time": "19h30",
-    "title": "Soirée concert (au bar)",
-    "type": "concert",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/concert-bar.png"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "16h00",
-    "title": "Contes en musique (4-6 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/contes-musique.png"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "16h00",
-    "title": "Contes en musique (4-6 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/contes-musique.png"
-  },
-  {
-    "date": "2027-02-27",
-    "time": "16h00",
-    "title": "Contes en musique (4-6 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/contes-musique.png"
-  },
-  {
-    "date": "2027-03-27",
-    "time": "16h00",
-    "title": "Contes en musique (4-6 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/contes-musique.png"
-  },
-  {
-    "date": "2026-10-14",
-    "time": "11h00",
-    "title": "Comptines (1-3 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/comptines.png"
-  },
-  {
-    "date": "2026-11-18",
-    "time": "11h00",
-    "title": "Comptines (1-3 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/comptines.png"
-  },
-  {
-    "date": "2027-02-24",
-    "time": "11h00",
-    "title": "Comptines (1-3 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/comptines.png"
-  },
-  {
-    "date": "2027-03-24",
-    "time": "11h00",
-    "title": "Comptines (1-3 ans)",
-    "type": "atelier",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/generic/comptines.png"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "20h30",
-    "title": "Tristan Pierre - Mélanjolie",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray_lAtmosphere/tristan-pierre-melanjolie.jpg"
-  },
-  {
-    "date": "2026-12-05",
-    "time": "",
-    "title": "Le Train de Noël (Dodo et Rémi)",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray_lAtmosphere/le-train-de-noel.jpg"
-  },
-  {
-    "date": "2027-01-16",
-    "time": "20h30",
-    "title": "Et si c'était elle (Franck Buirod)",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray_lAtmosphere/et-si-cetait-elle.jpg"
-  },
-  {
-    "date": "2027-02-06",
-    "time": "20h30",
-    "title": "Comedy Club (Louise Duck, Morgan Poitrat, Najim Ziani, Veuria)",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray_lAtmosphere/comedy-club-fevrier.jpg"
-  },
-  {
-    "date": "2027-03-06",
-    "time": "20h30",
-    "title": "Enzo Ricci - Quetzal",
-    "type": "concert",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray_lAtmosphere/enzo-ricci-quetzal.jpg"
-  },
-  {
-    "date": "2027-03-20",
-    "time": "20h30",
-    "title": "Guillaume Guisset en spectacle",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray_lAtmosphere/guillaume-guisset.jpg"
-  },
-  {
-    "date": "2027-04-24",
-    "time": "20h30",
-    "title": "Comedy Club (Robin Gomez, Super Baston, Méchante Coline, Axel Ramponi)",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray_lAtmosphere/comedy-club-avril.jpg"
-  },
-  {
-    "date": "2027-05-29",
-    "time": "20h30",
-    "title": "Lancelot",
-    "type": "spectacle",
-    "venue": "L'Atmosphère",
-    "city": "Coupvray",
-    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
-    "image_url": "images/coupvray_lAtmosphere/lancelot.jpg"
-  },
-  {
-    "date": "2026-09-18",
-    "time": "20h30",
-    "title": "Smile",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-smile",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Smile.png"
-  },
-  {
-    "date": "2026-09-23",
-    "time": "20h30",
-    "title": "Verino",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-verino",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Verino.png"
-  },
-  {
-    "date": "2026-09-25",
-    "time": "20h30",
-    "title": "Sortez-moi de là !",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/sortez-moi-de-la-30/150496",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Sortez-moi-de-la.png"
-  },
-  {
-    "date": "2026-10-10",
-    "time": "20h30",
-    "title": "José Cruz",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/jose-cruz-56/150494",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Jose-Cruz.png"
-  },
-  {
-    "date": "2026-10-11",
-    "time": "16h00",
-    "title": "Ma femme, la tienne, la nôtre",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/ma-femme-la-tienne-la-notre-19/150495",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Ma-femme-la-tienne-la-notre.png"
-  },
-  {
-    "date": "2026-11-05",
-    "time": "20h30",
-    "title": "La Fontaine",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-lafontaine",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/La-Fontaine.png"
-  },
-  {
-    "date": "2026-11-06",
-    "time": "20h30",
-    "title": "Giorgio le mentaliste",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-giorgio-le-mentaliste",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Giorgio.png"
-  },
-  {
-    "date": "2026-11-14",
-    "time": "20h30",
-    "title": "Linh",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-linh",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Linh.png"
-  },
-  {
-    "date": "2026-11-20",
-    "time": "20h30",
-    "title": "The Opera Locos",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-the-opera-locos",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Opera-Locos.png"
-  },
-  {
-    "date": "2026-11-22",
-    "time": "11h00",
-    "title": "Mon premier opéra",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-mon-premier-opera",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Mon-premier-opera.png"
-  },
-  {
-    "date": "2026-11-27",
-    "time": "20h30",
-    "title": "Coup de bluff",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-coup-de-bluff",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Coup-de-bluff.png"
-  },
-  {
-    "date": "2026-11-29",
-    "time": "16h00",
-    "title": "Les parents viennent de mars (chez maman)",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/les-parents-viennent-de-mars-chez-maman-30/154785",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Les-parents-viennent-de-mars.png"
-  },
-  {
-    "date": "2026-12-19",
-    "time": "20h30",
-    "title": "Gospel Fire",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-gospel-fire",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Gospel.png"
-  },
-  {
-    "date": "2027-01-22",
-    "time": "20h30",
-    "title": "The French Twins",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-the-french-twins",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/French-twins.png"
-  },
-  {
-    "date": "2027-01-23",
-    "time": "20h30",
-    "title": "Elles pardonnent mais n'oublient jamais",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/elles-pardonnent-mais-noublient-jamais-38/159768",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Elles-pardonnent.png"
-  },
-  {
-    "date": "2027-01-29",
-    "time": "20h30",
-    "title": "Appelez-moi Walt",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-appelez-moi-walt",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Walt.png"
-  },
-  {
-    "date": "2027-02-26",
-    "time": "20h30",
-    "title": "Mahé",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-mahe",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Mahe.png"
-  },
-  {
-    "date": "2027-02-27",
-    "time": "20h30",
-    "title": "Le Cid",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-le-cid",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Le-CID.png"
-  },
-  {
-    "date": "2027-03-12",
-    "time": "20h30",
-    "title": "L'art du couple",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/lart-du-couple-70/159769",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Lart-du-couple.png"
-  },
-  {
-    "date": "2027-03-14",
-    "time": "11h00",
-    "title": "Rémi - ma guitare à tiroirs",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/remi-ma-guitare-a-tiroirs-montevrain",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Remi-Comptines.png"
-  },
-  {
-    "date": "2027-03-19",
-    "time": "20h30",
-    "title": "Balavoine, hommage",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-balavoine-hommage",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Balavoine.png"
-  },
-  {
-    "date": "2027-03-27",
-    "time": "18h30",
-    "title": "Zélie la pirate",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-zelie-la-pirate",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Zelie-la-Pirate.png"
-  },
-  {
-    "date": "2027-04-02",
-    "time": "20h30",
-    "title": "John Sulo",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-john-sulo",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/John-Sulo.png"
-  },
-  {
-    "date": "2027-04-16",
-    "time": "20h30",
-    "title": "Zack et Stan",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-zack-stan",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Zack-et-Stan.png"
-  },
-  {
-    "date": "2027-04-24",
-    "time": "20h30",
-    "title": "L'affaire est dans le sac",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/laffaire-est-dans-le-sac-9/159767",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Laffaire-est-dans-le-sac.png"
-  },
-  {
-    "date": "2027-04-30",
-    "time": "20h30",
-    "title": "No One Is Innocent",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-no-one-is-innocent",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/No-one-is-innocent.png"
-  },
-  {
     "date": "2027-05-13",
     "time": "20h30",
     "title": "Manu Lanvin",
@@ -820,253 +1170,23 @@
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Manu-Lanvin.png"
   },
   {
-    "date": "2027-05-21",
+    "date": "2027-05-13",
     "time": "20h30",
-    "title": "Karine Dubernet",
-    "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://www.billetweb.fr/millesime-karine-dubernet",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Karine-Dubernet.png"
+    "title": "Lettres intimes – Théo F. / Quatuor Hanson (LBS)",
+    "type": "concert",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/779.gif"
   },
   {
-    "date": "2027-05-22",
+    "date": "2027-05-14",
     "time": "20h30",
-    "title": "En panne de toi",
+    "title": "Paul de Saint-Sernin",
     "type": "spectacle",
-    "venue": "Le Millésime",
-    "city": "Montévrain",
-    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/en-panne-de-toi-5/159766",
-    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/En-panne-de-toi.png"
-  },
-  {
-    "date": "2026-09-19",
-    "time": "",
-    "title": "Journées européennes du patrimoine (jusqu'au 20/09)",
-    "type": "spectacle",
-    "venue": "Cité Menier",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2026-09-19",
-    "time": "",
-    "title": "Regards sur Noisiel — Christine et Joseph Aligon (expo, jusqu'au 10/10)",
-    "type": "spectacle",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2026-10-17",
-    "time": "",
-    "title": "Balade urbaine : Formes et couleurs de la ville",
-    "type": "atelier",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2026-11-14",
-    "time": "",
-    "title": "Balade insolite nocturne — À l'heure où les arbres murmurent (aussi le 21/11)",
-    "type": "atelier",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2026-11-21",
-    "time": "",
-    "title": "Rencontres photographiques (expo, jusqu'au 12/12)",
-    "type": "spectacle",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2027-01-09",
-    "time": "18h00",
-    "title": "Plein Feu",
-    "type": "spectacle",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2027-01-09",
-    "time": "",
-    "title": "Cécile Pignon (expo, jusqu'au 30/01)",
-    "type": "spectacle",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2027-03-06",
-    "time": "",
-    "title": "Journée internationale des droits des femmes (jusqu'au 13/03)",
-    "type": "spectacle",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2027-03-20",
-    "time": "",
-    "title": "Salon du Luz'Art (expo, jusqu'au 03/04)",
-    "type": "spectacle",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2027-05-05",
-    "time": "",
-    "title": "Martinefa (expo, jusqu'au 29/05)",
-    "type": "spectacle",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2027-05-22",
-    "time": "",
-    "title": "Nuit européenne des musées — Entre ombres et lumière",
-    "type": "atelier",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
-    "image_url": ""
-  },
-  {
-    "date": "2026-09-19",
-    "time": "21h00",
-    "title": "Marine Leonardi - Mauvaise graine",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://www.fermedescommunes.fr/programmation-807/marine-leonardi-mauvaise-graine-3097.html",
-    "image_url": ""
-  },
-  {
-    "date": "2026-10-03",
-    "time": "21h00",
-    "title": "Ma Famille en Or",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/ma-famille-en-or-ferme-des-communes-serris-03-octobre-2026-css5-velvilledeserris-pg101-ri11776181.html",
-    "image_url": ""
-  },
-  {
-    "date": "2026-10-11",
-    "time": "16h00",
-    "title": "Tous à l'opéra",
-    "type": "concert",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/tous-a-l-opera-ensemble-contraste-ferme-des-communes-serris-11-octobre-2026-css5-velvilledeserris-pg101-ri11789151.html",
-    "image_url": ""
-  },
-  {
-    "date": "2026-11-07",
-    "time": "21h00",
-    "title": "Michaël Hirsch - Y'a de la joie !",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/michael-hirsch-y-a-de-la-joie-ferme-des-communes-serris-07-novembre-2026-css5-velvilledeserris-pg101-ri11776195.html",
-    "image_url": ""
-  },
-  {
-    "date": "2026-11-21",
-    "time": "21h00",
-    "title": "Le malade imaginaire",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/le-malade-imaginaire-ferme-des-communes-serris-21-novembre-2026-css5-velvilledeserris-pg101-ri11776211.html",
-    "image_url": ""
-  },
-  {
-    "date": "2026-12-05",
-    "time": "21h00",
-    "title": "Mathieu Stepson",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/mathieu-stepson-ferme-des-communes-serris-05-decembre-2026-css5-velvilledeserris-pg101-ri11776215.html",
-    "image_url": ""
-  },
-  {
-    "date": "2026-12-20",
-    "time": "15h00",
-    "title": "Choubidouwa",
-    "type": "concert",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/choubidouwa-ferme-des-communes-serris-20-decembre-2026-css5-velvilledeserris-pg101-ri11786967.html",
-    "image_url": ""
-  },
-  {
-    "date": "2027-01-09",
-    "time": "21h00",
-    "title": "L'invitation",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/l-invitation-ferme-des-communes-serris-09-janvier-2027-css5-velvilledeserris-pg101-ri11776225.html",
-    "image_url": ""
-  },
-  {
-    "date": "2027-01-22",
-    "time": "21h00",
-    "title": "Nicolas Canteloup - Nouveau spectacle",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/nicolas-canteloup-nouveau-spectacle-ferme-des-communes-serris-22-janvier-2027-css5-velvilledeserris-pg101-ri11786973.html",
-    "image_url": ""
-  },
-  {
-    "date": "2027-02-27",
-    "time": "21h00",
-    "title": "Jessé - Message personnel",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/jesse-message-personnel-ferme-des-communes-serris-27-fevrier-2027-css5-velvilledeserris-pg101-ri11776231.html",
-    "image_url": ""
-  },
-  {
-    "date": "2027-03-20",
-    "time": "21h00",
-    "title": "Du charbon dans les veines",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/du-charbon-dans-les-veines-ferme-des-communes-serris-20-mars-2027-css5-velvilledeserris-pg101-ri11776247.html",
-    "image_url": ""
-  },
-  {
-    "date": "2027-04-24",
-    "time": "21h00",
-    "title": "Le journal d'Édouard Baer à Serris",
-    "type": "spectacle",
-    "venue": "La Ferme des Communes",
-    "city": "Serris",
-    "source_url": "https://billetterie.seetickets.fr/le-journal-d-edouard-baer-a-serris-ferme-des-communes-24-avril-2027-css5-velvilledeserris-pg101-ri11787009.html",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
   },
   {
@@ -1087,6 +1207,16 @@
     "venue": "La Ferme des Communes",
     "city": "Serris",
     "source_url": "https://billetterie.seetickets.fr/adel-fugazi-le-temps-d-une-pause-ferme-des-communes-serris-15-mai-2027-css5-velvilledeserris-pg101-ri11777437.html",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-15",
+    "time": "20h30",
+    "title": "Mahé",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": ""
   },
   {
@@ -1118,5 +1248,55 @@
     "city": "Serris",
     "source_url": "https://billetterie.seetickets.fr/blandine-lehout-la-vie-de-ta-mere-ferme-des-communes-serris-16-mai-2027-css5-velvilledeserris-pg101-ri11777421.html",
     "image_url": ""
+  },
+  {
+    "date": "2027-05-20",
+    "time": "20h30",
+    "title": "Paul de Saint Sernin",
+    "type": "concert",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/780.gif"
+  },
+  {
+    "date": "2027-05-21",
+    "time": "20h30",
+    "title": "Karine Dubernet",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://www.billetweb.fr/millesime-karine-dubernet",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Karine-Dubernet.png"
+  },
+  {
+    "date": "2027-05-22",
+    "time": "",
+    "title": "Nuit européenne des musées — Entre ombres et lumière",
+    "type": "atelier",
+    "venue": "Pôle culturel Michel-Legrand",
+    "city": "Noisiel",
+    "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
+    "image_url": ""
+  },
+  {
+    "date": "2027-05-22",
+    "time": "20h30",
+    "title": "En panne de toi",
+    "type": "spectacle",
+    "venue": "Le Millésime",
+    "city": "Montévrain",
+    "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/en-panne-de-toi-5/159766",
+    "image_url": "https://www.montevrain.fr/app/uploads/2026/06/En-panne-de-toi.png"
+  },
+  {
+    "date": "2027-05-29",
+    "time": "20h30",
+    "title": "Lancelot",
+    "type": "spectacle",
+    "venue": "L'Atmosphère",
+    "city": "Coupvray",
+    "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
+    "image_url": "images/coupvray_lAtmosphere/lancelot.jpg"
   }
 ]

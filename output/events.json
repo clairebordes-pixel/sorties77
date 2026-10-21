@@ -111,16 +111,6 @@
   },
   {
     "date": "2026-10-10",
-    "time": "20h30",
-    "title": "Le Procès d'une vie",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/lagnySurMarne_charlesVanel/le-proces-dune-vie.png"
-  },
-  {
-    "date": "2026-10-10",
     "time": "16h00",
     "title": "Contes en musique (4-6 ans)",
     "type": "atelier",
@@ -128,6 +118,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/contes-musique.png"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "20h30",
+    "title": "Le Procès d'une vie",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/lagnySurMarne_charlesVanel/le-proces-dune-vie.png"
   },
   {
     "date": "2026-10-10",
@@ -211,26 +211,6 @@
   },
   {
     "date": "2026-10-21",
-    "time": "10h00",
-    "title": "ATELIER PRÉVENTION ET APPRENTISSAGE DE L’AUTO PALPATION",
-    "type": "spectacle",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/e2b67aa2-eab5-43b6-a268-42f798d23b08/atelier-prevention-et-apprentissage-de-lauto-palpation",
-    "image_url": "https://collegien.fr/s/agenda/9719a00ed0c5709d80dfef33795dcef3/gettyimages-2230865518-1-1788513838-resize.jpg"
-  },
-  {
-    "date": "2026-10-21",
-    "time": "10h15",
-    "title": "Café numérique - mieux maitriser son smartphone",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/80b41db7-5a6c-426f-9986-26a9892d0ab4/cafe-numerique-mieux-maitriser-son-smartphone",
-    "image_url": "https://collegien.fr/s/agenda/12311d05c9aa67765703984239511212/gettyimages-1322157897-1788277220-resize.jpg"
-  },
-  {
-    "date": "2026-10-21",
     "time": "",
     "title": "Ateliers en famille (jusqu'au 09/01)",
     "type": "spectacle",
@@ -238,16 +218,6 @@
     "city": "Noisiel",
     "source_url": "https://www.lafermedubuisson.com/fr/ateliers-en-famille-brandon-maissane",
     "image_url": "https://medias.artishoc.coop/fdb/2M8qJfOxh0rI8vuMgJd6okdUZrZjwut6vJURkAhToMY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBOVGd4IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--5c24783f1e8ec93f232fc33c134271e589a4bb6aad9797190be6475f8a8a97ce/3a6125b65cd5/ateliers-c-nina-de-castro-1.jpg"
-  },
-  {
-    "date": "2026-10-21",
-    "time": "10h30",
-    "title": "Bienvenue A Trouillarde",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/bienvenue-a-trouillarde/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/07/Capture-decran-2026-05-27-a-21.12.21.png"
   },
   {
     "date": "2026-10-22",
@@ -661,16 +631,6 @@
   },
   {
     "date": "2026-11-07",
-    "time": "20h30",
-    "title": "Les Coquettes",
-    "type": "spectacle",
-    "venue": "Espace Charles Vanel",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
-    "image_url": "images/lagnySurMarne_charlesVanel/les-coquettes.png"
-  },
-  {
-    "date": "2026-11-07",
     "time": "16h00",
     "title": "Contes en musique (4-6 ans)",
     "type": "atelier",
@@ -678,6 +638,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/contes-musique.png"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "20h30",
+    "title": "Les Coquettes",
+    "type": "spectacle",
+    "venue": "Espace Charles Vanel",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
+    "image_url": "images/lagnySurMarne_charlesVanel/les-coquettes.png"
   },
   {
     "date": "2026-11-07",
@@ -798,6 +768,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/b0cfcbd6-cd75-4aff-bdd5-747a888e10c9/atelier-patchwork",
     "image_url": "https://collegien.fr/s/agenda/0d9095b0d6bbe98ea0c9c02b11b59ee3/photo-patchwork-1788269793-resize.jpg"
+  },
+  {
+    "date": "2026-11-12",
+    "time": "20h30",
+    "title": "Du charbon dans les veines",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/760.gif"
   },
   {
     "date": "2026-11-12",
@@ -1010,6 +990,16 @@
     "image_url": "https://medias.artishoc.coop/fdb/PO3S7MV0goEhoN0SLHc_e9OqqJbNmG2UFWiCCRW3Nck/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPVEkxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--2a4d6aa81b84f9967130b5438a47fcffe2c43d5a18c49305e603105ebf5800b4/e6eacf7721f9/btl_ph-ilaria-costanzo-2164.jpg"
   },
   {
+    "date": "2026-11-17",
+    "time": "19h00",
+    "title": "Jean-Chat voit dans le noir",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/761.gif"
+  },
+  {
     "date": "2026-11-18",
     "time": "11h00",
     "title": "Comptines (1-3 ans)",
@@ -1018,6 +1008,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/comptines.png"
+  },
+  {
+    "date": "2026-11-18",
+    "time": "",
+    "title": "Cuizines Locales",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/cuizines-locales-6/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/Cuizines-Locales-Soul-Weeper-©-Elisa-Ciavaldini-48-250x250.jpg"
   },
   {
     "date": "2026-11-19",
@@ -1228,6 +1228,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/5ecb8689-c53d-41c0-a096-4c78304f9025/les-soirees-jeux-de-societe",
     "image_url": "https://collegien.fr/s/agenda/0172d289da48c48de8c5ebf3de9f7ee1/gettyimages-2220548328-1788275339-resize.jpg"
+  },
+  {
+    "date": "2026-11-26",
+    "time": "20h30",
+    "title": "Stephan Eicher « Poussière d'or »",
+    "type": "concert",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/762.gif"
   },
   {
     "date": "2026-11-27",
@@ -1571,6 +1581,16 @@
   },
   {
     "date": "2026-12-10",
+    "time": "20h30",
+    "title": "Le Chœur des femmes",
+    "type": "spectacle",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/763.gif"
+  },
+  {
+    "date": "2026-12-10",
     "time": "21h00",
     "title": "Elies Zoghlami Dans Altremie",
     "type": "spectacle",
@@ -1718,6 +1738,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/65fc707a-9c80-4029-b348-9f138d5b11e2/pratique-de-lia-venez-essayer-plusieurs-intelligences-artificielles",
     "image_url": "https://collegien.fr/s/agenda/09b69adcd7cbae914c6204984097d2da/gettyimages-1276435469-1788277419-resize.jpg"
+  },
+  {
+    "date": "2026-12-16",
+    "time": "20h30",
+    "title": "Salomé Gasselin – Le Cairn Consort (LBS)",
+    "type": "concert",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/764.gif"
   },
   {
     "date": "2026-12-16",
@@ -1870,6 +1900,16 @@
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/AFFICHE-LA-NOUVELLE-CHANSON-DU-PERE-NOEL.jpg"
   },
   {
+    "date": "2027-01-07",
+    "time": "20h30",
+    "title": "Macera",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/766.gif"
+  },
+  {
     "date": "2027-01-09",
     "time": "21h00",
     "title": "L'invitation",
@@ -1881,8 +1921,8 @@
   },
   {
     "date": "2027-01-09",
-    "time": "18h00",
-    "title": "Plein Feu",
+    "time": "",
+    "title": "Cécile Pignon (expo, jusqu'au 30/01)",
     "type": "spectacle",
     "venue": "Pôle culturel Michel-Legrand",
     "city": "Noisiel",
@@ -1891,8 +1931,8 @@
   },
   {
     "date": "2027-01-09",
-    "time": "",
-    "title": "Cécile Pignon (expo, jusqu'au 30/01)",
+    "time": "18h00",
+    "title": "Plein Feu",
     "type": "spectacle",
     "venue": "Pôle culturel Michel-Legrand",
     "city": "Noisiel",
@@ -1958,6 +1998,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/le-plateau-de-lhumour.png"
+  },
+  {
+    "date": "2027-01-21",
+    "time": "20h30",
+    "title": "Une vie sur mesure",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/767.gif"
   },
   {
     "date": "2027-01-22",
@@ -2028,6 +2078,16 @@
     "city": "Montévrain",
     "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/elles-pardonnent-mais-noublient-jamais-38/159768",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Elles-pardonnent.png"
+  },
+  {
+    "date": "2027-01-28",
+    "time": "19h00",
+    "title": "Odyssée, la conférence musicale",
+    "type": "concert",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/768.gif"
   },
   {
     "date": "2027-01-29",
@@ -2118,6 +2178,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/standup-bar.png"
+  },
+  {
+    "date": "2027-02-04",
+    "time": "20h30",
+    "title": "Clairières dans le ciel – duo Nuvoletta (LBS)",
+    "type": "concert",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/770.gif"
   },
   {
     "date": "2027-02-05",
@@ -2230,6 +2300,16 @@
     "image_url": "images/generic/comptines.png"
   },
   {
+    "date": "2027-02-25",
+    "time": "20h30",
+    "title": "Jean-Romuald, un garçon de son âge",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/771.gif"
+  },
+  {
     "date": "2027-02-26",
     "time": "20h30",
     "title": "Le Dernier cèdre du Liban",
@@ -2340,6 +2420,16 @@
     "image_url": "https://collegien.fr/s/agenda/ec47a5de1ebd60f559fee4afd739d59b/bandeau-site-immobile-rebondi2-1791037311-resize.jpg"
   },
   {
+    "date": "2027-03-04",
+    "time": "20h30",
+    "title": "Le Barbier de Séville ou la précaution inutile",
+    "type": "spectacle",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/772.gif"
+  },
+  {
     "date": "2027-03-05",
     "time": "",
     "title": "Théâtre – L’Invitation",
@@ -2391,6 +2481,16 @@
   },
   {
     "date": "2027-03-06",
+    "time": "10h00",
+    "title": "Le Grand Voyage",
+    "type": "spectacle",
+    "venue": "Micro-Folie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/773.gif"
+  },
+  {
+    "date": "2027-03-06",
     "time": "",
     "title": "Journée internationale des droits des femmes (jusqu'au 13/03)",
     "type": "spectacle",
@@ -2398,6 +2498,16 @@
     "city": "Noisiel",
     "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
     "image_url": ""
+  },
+  {
+    "date": "2027-03-11",
+    "time": "20h30",
+    "title": "Je suis",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/774.gif"
   },
   {
     "date": "2027-03-12",
@@ -2458,6 +2568,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/1c6273c5-98c1-4d5f-80f4-7681aba860e0/shake",
     "image_url": "https://collegien.fr/s/agenda/6788076842014c83cedadbe6b0ba0314/bandeau-site-shake-1-at-noemielacote-1790935855-resize.jpg"
+  },
+  {
+    "date": "2027-03-19",
+    "time": "21h00",
+    "title": "« Craquage » de Marion Mezadorian",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/775.gif"
   },
   {
     "date": "2027-03-19",
@@ -2711,6 +2831,16 @@
   },
   {
     "date": "2027-04-23",
+    "time": "20h30",
+    "title": "Fauxfaire Fauxvoir",
+    "type": "spectacle",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/777.gif"
+  },
+  {
+    "date": "2027-04-23",
     "time": "",
     "title": "Yarol Poupaud",
     "type": "concert",
@@ -2812,6 +2942,16 @@
   {
     "date": "2027-04-30",
     "time": "20h30",
+    "title": "Billet d'humeur",
+    "type": "spectacle",
+    "venue": "La Sucrerie (fosse)",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/778.gif"
+  },
+  {
+    "date": "2027-04-30",
+    "time": "20h30",
     "title": "No One Is Innocent",
     "type": "spectacle",
     "venue": "Le Millésime",
@@ -2878,6 +3018,16 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-manu-lanvin",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Manu-Lanvin.png"
+  },
+  {
+    "date": "2027-05-13",
+    "time": "20h30",
+    "title": "Lettres intimes – Théo F. / Quatuor Hanson (LBS)",
+    "type": "concert",
+    "venue": "Théâtre municipal",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/779.gif"
   },
   {
     "date": "2027-05-14",
@@ -2948,6 +3098,16 @@
     "city": "Serris",
     "source_url": "https://billetterie.seetickets.fr/blandine-lehout-la-vie-de-ta-mere-ferme-des-communes-serris-16-mai-2027-css5-velvilledeserris-pg101-ri11777421.html",
     "image_url": ""
+  },
+  {
+    "date": "2027-05-20",
+    "time": "20h30",
+    "title": "Paul de Saint Sernin",
+    "type": "concert",
+    "venue": "La Sucrerie",
+    "city": "Coulommiers",
+    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/780.gif"
   },
   {
     "date": "2027-05-21",

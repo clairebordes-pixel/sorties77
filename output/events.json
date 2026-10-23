@@ -201,6 +201,26 @@
   },
   {
     "date": "2026-10-23",
+    "time": "",
+    "title": "Chantier de jardinage RU/ENG  — October 2026",
+    "type": "atelier",
+    "venue": "Le Moulin Jaune",
+    "city": "Crécy-la-Chapelle",
+    "source_url": "https://www.billetweb.fr/shop.php?event=garden-workshop-mj-oct2026&multi=33459&color=e3bd00&from_multi=1",
+    "image_url": "https://www.billetweb.fr/files/event/150/1476650.jpg"
+  },
+  {
+    "date": "2026-10-23",
+    "time": "",
+    "title": "Visites guidées hors événements 2026",
+    "type": "atelier",
+    "venue": "Le Moulin Jaune",
+    "city": "Crécy-la-Chapelle",
+    "source_url": "https://www.billetweb.fr/shop.php?event=visites-guidees-hors-evenements-2026&multi=33459&color=e3bd00&from_multi=1",
+    "image_url": "https://www.billetweb.fr/files/event/150/1354775.jpg"
+  },
+  {
+    "date": "2026-10-23",
     "time": "14h30",
     "title": "Sur Le Fil Dariane",
     "type": "spectacle",
@@ -208,16 +228,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-4/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Affiche-A1-619ko.jpg"
-  },
-  {
-    "date": "2026-10-23",
-    "time": "21h00",
-    "title": "On Ne Couche Pas Aux Enterrements",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/on-ne-couche-pas-aux-enterrements/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/Capture-decran-2026-01-27-a-18.24.44.png"
   },
   {
     "date": "2026-10-24",
@@ -434,7 +444,7 @@
     "time": "15h00",
     "title": "Ciné famille : spécial Halloween",
     "type": "atelier",
-    "venue": "Fabrique citoyenne",
+    "venue": "Médiathèque de la Courée",
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/97c1fcc2-37b7-426e-b205-2de42a049005/cine-famille-special-halloween",
     "image_url": "https://collegien.fr/s/agenda/894db62f7b7a6ed2f2a277dae56a017c/gettyimages-2235619322-1788347686-resize.jpg"

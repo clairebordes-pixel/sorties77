@@ -250,16 +250,6 @@
     "image_url": "https://www.billetweb.fr/files/event/150/1354775.jpg"
   },
   {
-    "date": "2026-10-23",
-    "time": "14h30",
-    "title": "Sur Le Fil Dariane",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sur-le-fil-dariane-4/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Affiche-A1-619ko.jpg"
-  },
-  {
     "date": "2026-10-24",
     "time": "10h00",
     "title": "ATELIER JARDIN DE LA FABRIQUE",
@@ -1250,6 +1240,16 @@
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/762.gif"
   },
   {
+    "date": "2026-11-26",
+    "time": "21h00",
+    "title": "Mourad Le Coach",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/mourad-le-coach/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Capture-decran-2026-10-23-a-10.14.52.png"
+  },
+  {
     "date": "2026-11-27",
     "time": "20h30",
     "title": "Le Chant des lions",
@@ -1790,6 +1790,16 @@
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
+    "date": "2026-12-19",
+    "time": "15h00",
+    "title": "Lorange De Noel",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/lorange-de-noel-4/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/DP_LE28099Orange_de_NoC3ABl5B755D_1.jpg"
+  },
+  {
     "date": "2026-12-20",
     "time": "15h00",
     "title": "Choubidouwa",
@@ -1828,6 +1838,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/mouchette-sauve-noel/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/06/mouchette.jpeg"
+  },
+  {
+    "date": "2026-12-21",
+    "time": "14h30",
+    "title": "Lorange De Noel",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/lorange-de-noel-5/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/DP_LE28099Orange_de_NoC3ABl5B755D_1.jpg"
   },
   {
     "date": "2026-12-22",
@@ -2048,6 +2068,16 @@
     "city": "Montévrain",
     "source_url": "https://billetterie-coeurdescene.tickandlive.com/reserver/elles-pardonnent-mais-noublient-jamais-38/159768",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Elles-pardonnent.png"
+  },
+  {
+    "date": "2027-01-23",
+    "time": "",
+    "title": "Mother's Cake + chest.",
+    "type": "concert",
+    "venue": "Les Cuizines",
+    "city": "Chelles",
+    "source_url": "https://www.lescuizines.fr/events/mothers-cake-chest/",
+    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/10/SITE-250x250.jpg"
   },
   {
     "date": "2027-01-28",

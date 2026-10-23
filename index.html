@@ -411,7 +411,7 @@ let activeType = "toutes";
 let activeVille = "toutes";
 let query = "";
 let selectedDate = null;
-let viewYear = 2026, viewMonth = 8;
+let viewYear = new Date().getFullYear(), viewMonth = new Date().getMonth();
 
 function populateVilleSelect(){
   const villes = [...new Set(events.map(e => e.city))].sort();
@@ -447,6 +447,12 @@ async function loadEvents(){
     events = fallbackEvents;
     usingFallback = true;
   }
+
+  // on écarte les événements déjà passés (date antérieure à aujourd'hui) :
+  // une appli de "sorties" ne doit proposer que ce qui reste à venir
+  const todayStr = new Date().toISOString().slice(0,10);
+  events = events.filter(e => e.date >= todayStr);
+
   populateVilleSelect();
   showDataBanner();
   buildCategories();

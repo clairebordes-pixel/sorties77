@@ -131,6 +131,26 @@
   },
   {
     "date": "2026-10-10",
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
+    "image_url": "https://medias.artishoc.coop/fdb/-nB23yLpad7G3Sf79yTk4PrrznD8CPYTutAPwbV5XQY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/2aae092b1c3a/maissane_alibrahimi_cur_juliette_hage_abraz_2026_fermedubuisson_photo_emile_ouroumov-9.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "",
+    "title": "Brandon Gercara (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
+    "image_url": "https://medias.artishoc.coop/fdb/4hDZW-OcL7g9Inweylu_8daVpVtqvs-z1bFpIs_RydI/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/0e190432e0d7/salle_c_brandon_gercara_destin_vogoya_2026_fermedubuisson_photo_emile_ouroumov-5.jpg"
+  },
+  {
+    "date": "2026-10-10",
     "time": "20h30",
     "title": "José Cruz",
     "type": "spectacle",
@@ -190,6 +210,16 @@
     "image_url": ""
   },
   {
+    "date": "2026-10-21",
+    "time": "",
+    "title": "Ateliers en famille (jusqu'au 09/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/ateliers-en-famille-brandon-maissane",
+    "image_url": "https://medias.artishoc.coop/fdb/2M8qJfOxh0rI8vuMgJd6okdUZrZjwut6vJURkAhToMY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBOVGd4IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--5c24783f1e8ec93f232fc33c134271e589a4bb6aad9797190be6475f8a8a97ce/3a6125b65cd5/ateliers-c-nina-de-castro-1.jpg"
+  },
+  {
     "date": "2026-10-22",
     "time": "19h30",
     "title": "Soirée concert (au bar)",
@@ -198,26 +228,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/concert-bar.png"
-  },
-  {
-    "date": "2026-10-23",
-    "time": "",
-    "title": "Chantier de jardinage RU/ENG  — October 2026",
-    "type": "atelier",
-    "venue": "Le Moulin Jaune",
-    "city": "Crécy-la-Chapelle",
-    "source_url": "https://www.billetweb.fr/shop.php?event=garden-workshop-mj-oct2026&multi=33459&color=e3bd00&from_multi=1",
-    "image_url": "https://www.billetweb.fr/files/event/150/1476650.jpg"
-  },
-  {
-    "date": "2026-10-23",
-    "time": "",
-    "title": "Visites guidées hors événements 2026",
-    "type": "atelier",
-    "venue": "Le Moulin Jaune",
-    "city": "Crécy-la-Chapelle",
-    "source_url": "https://www.billetweb.fr/shop.php?event=visites-guidees-hors-evenements-2026&multi=33459&color=e3bd00&from_multi=1",
-    "image_url": "https://www.billetweb.fr/files/event/150/1354775.jpg"
   },
   {
     "date": "2026-10-24",
@@ -231,13 +241,13 @@
   },
   {
     "date": "2026-10-24",
-    "time": "15h00",
-    "title": "Café-Concert : Chloé Antoniotti",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/24-10-2026-15h00-cafe-concert-chloe-antoniotti.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ3-440x340.png"
+    "time": "",
+    "title": "Chantier de jardinage RU/ENG  — October 2026",
+    "type": "atelier",
+    "venue": "Le Moulin Jaune",
+    "city": "Crécy-la-Chapelle",
+    "source_url": "https://www.billetweb.fr/shop.php?event=garden-workshop-mj-oct2026&multi=33459&color=e3bd00&from_multi=1",
+    "image_url": "https://www.billetweb.fr/files/event/150/1476650.jpg"
   },
   {
     "date": "2026-10-24",
@@ -250,16 +260,6 @@
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
   },
   {
-    "date": "2026-10-24",
-    "time": "11h45",
-    "title": "Eveil Musical 3 5 Ans",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-5/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
-  },
-  {
     "date": "2026-10-26",
     "time": "11h00",
     "title": "Soupe et dessert à la citrouille",
@@ -268,6 +268,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/a998d914-bb0f-41bf-8022-394b1b296ef1/soupe-et-dessert-a-la-citrouille",
     "image_url": "https://collegien.fr/s/agenda/a226e450e214f350856e2980b6e55ac9/gettyimages-2235619322-1788347523-resize.jpg"
+  },
+  {
+    "date": "2026-10-26",
+    "time": "",
+    "title": "Visites guidées hors événements 2026",
+    "type": "atelier",
+    "venue": "Le Moulin Jaune",
+    "city": "Crécy-la-Chapelle",
+    "source_url": "https://www.billetweb.fr/shop.php?event=visites-guidees-hors-evenements-2026&multi=33459&color=e3bd00&from_multi=1",
+    "image_url": "https://www.billetweb.fr/files/event/150/1354775.jpg"
   },
   {
     "date": "2026-10-26",
@@ -388,16 +398,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/9c9963cf-db1e-40d6-be09-e1b2b332baa8/halloween-parents-et-ados",
     "image_url": "https://collegien.fr/s/agenda/e6cbc650cd5798a05dfd0f51d14cde5c/gettyimages-2235619322-1788348558-resize.jpg"
-  },
-  {
-    "date": "2026-10-30",
-    "time": "20h00",
-    "title": "Just Dance",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/30-10-2026-20h00-just-dance.html",
-    "image_url": "https://file7.com/wmedias/original/just_dance_2024-440x340.png"
   },
   {
     "date": "2026-10-30",
@@ -551,6 +551,16 @@
   },
   {
     "date": "2026-11-06",
+    "time": "",
+    "title": "Saïgon (jusqu'au 07/11)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/saigon",
+    "image_url": "https://medias.artishoc.coop/fdb/m9OX0SxDnKMnm7lJgFrz__3B7437Qw8K2VXAZw23U-Q/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek15IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d9780b72d2e9aacc0d81858840ac8982086d7be68ba03d61c0849e36a6032d15/ee9db10427c5/saigon_-jeanlouisfernandez_025.jpg"
+  },
+  {
+    "date": "2026-11-06",
     "time": "20h30",
     "title": "Giorgio le mentaliste",
     "type": "spectacle",
@@ -618,6 +628,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/021d3f4a-ceb5-4fd9-bae4-06e2fa80cb1c/atelier-repare-tout",
     "image_url": "https://collegien.fr/s/agenda/64c31821603ab476a318839606743bd6/photo-1-1788270146-resize.jpg"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "16h30",
+    "title": "Immobile & Rebondi",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/immobile-et-rebondi",
+    "image_url": "https://medias.artishoc.coop/fdb/0TFlHnrJlpU2yJfQ0YTqWi5ehzCTr40YiFdvo4w1iRw/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOall3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--97fd8dbcb6f52f07577a9153c11a122a5cfed387850f8ac8ab5d2ebd5a77794e/ad2f2b1b6c96/saut-sylvere-lamotte.jpg"
   },
   {
     "date": "2026-11-07",
@@ -751,13 +771,13 @@
   },
   {
     "date": "2026-11-13",
-    "time": "20h00",
-    "title": "REVNOIR+Solitaris+TRVMA",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/13-11-2026-20h00-revnoir-solitaris-trvma.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ4-440x340.png"
+    "time": "20h30",
+    "title": "Musiques en héritage",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/musiques-en-heritage",
+    "image_url": "https://medias.artishoc.coop/fdb/vlbWEjMk_5fb9AF8n0CYwQ8ZPITaVlDIkzvWqRc9mSY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek16IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0449fc7645c7aa96025632050e5f715e84759bc93b66f9026768f4615c487522/b86ac1ce221c/image00034-copie.jpg"
   },
   {
     "date": "2026-11-13",
@@ -801,13 +821,13 @@
   },
   {
     "date": "2026-11-14",
-    "time": "20h00",
-    "title": "Scène Ouverte",
+    "time": "16h00",
+    "title": "Journée publique : In Vogoya pou lo kèr",
     "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/14-11-2026-20h00-scene-ouverte.html",
-    "image_url": "https://www.file7.com/wmedias/original/pexels-lstan-2147029-440x340.jpg"
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/journee-publique-brandon-gercara",
+    "image_url": "https://medias.artishoc.coop/fdb/cswRjkJik343SiIoc3PlvW9oNtPDXrUZt_IFdVM63v4/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTJNVGd6IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--ffc18dec8e018ec422a9945423b4ba5b467e457bb78369f39d5ca4340a5a608c/ee48056fb632/brandon-gercara-lecture-performee-de-majik-kwir-frac-reunion-dans-le-cadre-du-festival-majik-kwi.jpg"
   },
   {
     "date": "2026-11-14",
@@ -901,6 +921,16 @@
   },
   {
     "date": "2026-11-17",
+    "time": "20h30",
+    "title": "Behind the Light",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/behind-the-light",
+    "image_url": "https://medias.artishoc.coop/fdb/PO3S7MV0goEhoN0SLHc_e9OqqJbNmG2UFWiCCRW3Nck/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPVEkxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--2a4d6aa81b84f9967130b5438a47fcffe2c43d5a18c49305e603105ebf5800b4/e6eacf7721f9/btl_ph-ilaria-costanzo-2164.jpg"
+  },
+  {
+    "date": "2026-11-17",
     "time": "19h00",
     "title": "Jean-Chat voit dans le noir",
     "type": "spectacle",
@@ -931,16 +961,6 @@
   },
   {
     "date": "2026-11-19",
-    "time": "14h30",
-    "title": "Super Week-end Kidz : Orel, Octave & Mélodie - séance scolaire",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/19-11-2026-14h30-super-week-end-kidz-orel-octave-melodie-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/OREL_OCTAVE_ET_MELODY-440x340.jpg"
-  },
-  {
-    "date": "2026-11-19",
     "time": "21h00",
     "title": "Kino Dans Panick Attack",
     "type": "spectacle",
@@ -951,13 +971,13 @@
   },
   {
     "date": "2026-11-20",
-    "time": "14h30",
-    "title": "Super Week-end Kidz : INTO THE WOODS - Séance scolaire",
+    "time": "20h30",
+    "title": "Vertiges",
     "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/20-11-2026-14h30-super-week-end-kidz-into-the-woods-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/INTO_THE_WOOD-440x340.jpg"
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/vertiges",
+    "image_url": "https://medias.artishoc.coop/fdb/j_c7lSlx2oJFQKu-7OPACm-5fna8WfdooEPrCClyNBU/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOamd3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--7e02a7bd760dbd1376243a519d787b819f0a89dc2cb4c31a0ff8ad427b82dccc/71d0a67f403a/251118_rdl_0162_1.jpg"
   },
   {
     "date": "2026-11-20",
@@ -998,16 +1018,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/feffa25b-8ec8-4391-bc09-e02c089b5e22/la-cyber-malveillance-comment-sen-premunir",
     "image_url": "https://collegien.fr/s/agenda/0738069b244a1c43c83112b735140a16/gettyimages-1276435469-1788277938-resize.jpg"
-  },
-  {
-    "date": "2026-11-21",
-    "time": "10h30",
-    "title": "Super Week-end Kidz : INTO THE WOODS",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/21-11-2026-10h30-super-week-end-kidz-into-the-woods.html",
-    "image_url": "https://www.file7.com/wmedias/original/INTO_THE_WOOD-440x340.jpg"
   },
   {
     "date": "2026-11-21",
@@ -1171,16 +1181,6 @@
   },
   {
     "date": "2026-11-27",
-    "time": "20h00",
-    "title": "Soirées Fan-Club : ​Erotic Secrets of Pompeii+Lila Ehjä",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/27-11-2026-20h00-soirees-fan-club-erotic-secrets-of-pompeii-lila-ehja.html",
-    "image_url": "https://www.file7.com/wmedias/original/zzz-ESOP_LILA_EHJA-440x340.png"
-  },
-  {
-    "date": "2026-11-27",
     "time": "20h30",
     "title": "Coup de bluff",
     "type": "spectacle",
@@ -1328,16 +1328,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/c360bd98-52fc-4fd1-b8ab-90db763bb137/distribution-des-colis-de-fin-dannee-petit-dejeuner",
     "image_url": "https://collegien.fr/s/agenda/efd7e9ed0e5e694ba6df444d84dfa37d/photo-colis-seniors-1788354916-resize.jpg"
-  },
-  {
-    "date": "2026-12-04",
-    "time": "20h00",
-    "title": "2L+Juste Shani+Chorale Sauvage",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/04-12-2026-20h00-2l-juste-shani-chorale-sauvage.html",
-    "image_url": "https://www.file7.com/wmedias/original/zz_-_2L_JUSTE_SHANI-440x340.png"
   },
   {
     "date": "2026-12-04",
@@ -1538,16 +1528,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/9b8a3b7f-2e9f-457f-9001-e9033013191f/atelier-jardin-de-la-fabrique",
     "image_url": "https://collegien.fr/s/agenda/765d5fb115a9f6a3e0b23b80a5b2e4c4/photo-potager-1788270422-resize.jpg"
-  },
-  {
-    "date": "2026-12-12",
-    "time": "13h00",
-    "title": "77 Connexion #19",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/12-12-2026-13h00-77-connexion-19.html",
-    "image_url": "https://file7.com/wmedias/original/77connexion-site.jpg"
   },
   {
     "date": "2026-12-12",
@@ -1911,26 +1891,6 @@
   },
   {
     "date": "2027-01-22",
-    "time": "10h30",
-    "title": "Écoute immersive de disque - THE DARK SIDE OF THE MOON DE PINK FLOYD - SEANCE SCOLAIRE",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/22-01-2027-10h30-ecoute-immersive-de-disque-the-dark-side-of-the-moon-de-pink-floyd-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon.png"
-  },
-  {
-    "date": "2027-01-22",
-    "time": "19h00",
-    "title": "Écoute immersive de disque - THE DARK SIDE OF THE MOON DE PINK FLOYD - VERNISSAGE",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/22-01-2027-19h00-ecoute-immersive-de-disque-the-dark-side-of-the-moon-de-pink-floyd-vernissage.html",
-    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon.png"
-  },
-  {
-    "date": "2027-01-22",
     "time": "21h00",
     "title": "Nicolas Canteloup lâche les chevaux",
     "type": "spectacle",
@@ -1948,16 +1908,6 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-the-french-twins",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/French-twins.png"
-  },
-  {
-    "date": "2027-01-23",
-    "time": "15h00",
-    "title": "Écoute immersive de disque - THE DARK SIDE OF THE MOON DE PINK FLOYD",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/23-01-2027-15h00-ecoute-immersive-de-disque-the-dark-side-of-the-moon-de-pink-floyd.html",
-    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon.png"
   },
   {
     "date": "2027-01-23",
@@ -2001,36 +1951,6 @@
   },
   {
     "date": "2027-01-29",
-    "time": "9h30",
-    "title": "Super Week-end Kidz : PALAWAN - Séances Relais petite Enfance",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/29-01-2027-09h30-super-week-end-kidz-palawan-seances-relais-petite-enfance.html",
-    "image_url": "https://www.file7.com/wmedias/original/PALAWAN-440x340.jpg"
-  },
-  {
-    "date": "2027-01-29",
-    "time": "14h30",
-    "title": "Super Week-end Kidz : Nuages - Séance scolaire",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/29-01-2027-14h30-super-week-end-kidz-nuages-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/NUAGE-440x340.png"
-  },
-  {
-    "date": "2027-01-29",
-    "time": "18h30",
-    "title": "Super Week-end Kidz : PALAWAN",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/29-01-2027-18h30-super-week-end-kidz-palawan.html",
-    "image_url": "https://www.file7.com/wmedias/original/PALAWAN-440x340.jpg"
-  },
-  {
-    "date": "2027-01-29",
     "time": "20h30",
     "title": "Appelez-moi Walt",
     "type": "spectacle",
@@ -2048,26 +1968,6 @@
     "city": "Saint-Thibault-des-Vignes",
     "source_url": "https://www.saintthibaultdesvignes.fr/spectacles/concert-ajc-urban-vibes/",
     "image_url": "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2026/07/270130-AJC-spectacle26-27_Affiche-470x705.png"
-  },
-  {
-    "date": "2027-01-30",
-    "time": "10h30",
-    "title": "Super Week-end Kidz : Nuages",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/30-01-2027-10h30-super-week-end-kidz-nuages.html",
-    "image_url": "https://www.file7.com/wmedias/original/NUAGE-440x340.png"
-  },
-  {
-    "date": "2027-01-30",
-    "time": "14h30",
-    "title": "Rencontre du 2ème type",
-    "type": "atelier",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/30-01-2027-14h30-rencontre-du-2eme-type.html",
-    "image_url": "https://www.file7.com/wmedias/original/RENCONTRE_DU_2EME_TYPE-440x340.jpg"
   },
   {
     "date": "2027-01-30",
@@ -2111,16 +2011,6 @@
   },
   {
     "date": "2027-02-05",
-    "time": "20h00",
-    "title": "Soirées Fan-Club : Guadal Tejaz+MDNS",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/05-02-2027-20h00-soirees-fan-club-guadal-tejaz-mdns.html",
-    "image_url": "https://www.file7.com/wmedias/original/zz_-_QUADAL_TEJAZ_-_MDNS_-_SITE-440x340.png"
-  },
-  {
-    "date": "2027-02-05",
     "time": "",
     "title": "Bilal Hassani",
     "type": "concert",
@@ -2128,26 +2018,6 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/bilal-hassani/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/09/cTheo-Paul-Dufour-BD-e1788257028750-250x250.jpg"
-  },
-  {
-    "date": "2027-02-06",
-    "time": "17h00",
-    "title": "Dans Les Bacs - Avec Pony Pony Run Run",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/06-02-2027-17h00-dans-les-bacs-avec-pony-pony-run-run.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ8-440x340.png"
-  },
-  {
-    "date": "2027-02-06",
-    "time": "20h00",
-    "title": "Pony Pony Run Run",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/06-02-2027-20h00-pony-pony-run-run.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_IMAGE_SITE_-_MAJ8-440x340.png"
   },
   {
     "date": "2027-02-06",
@@ -2178,16 +2048,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/concert-bar.png"
-  },
-  {
-    "date": "2027-02-20",
-    "time": "14h00",
-    "title": "Rencontre : Le Management 2.0",
-    "type": "atelier",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/20-02-2027-14h00-rencontre-le-management-2-0.html",
-    "image_url": "https://www.file7.com/wmedias/original/management-tilt-site.jpg"
   },
   {
     "date": "2027-02-23",
@@ -2231,16 +2091,6 @@
   },
   {
     "date": "2027-02-26",
-    "time": "20h00",
-    "title": "Soirées Fan-Club : MAÏCEE+Luxie",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/26-02-2027-20h00-soirees-fan-club-maicee-luxie.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_MAICEE_LUXIE-440x340.png"
-  },
-  {
-    "date": "2027-02-26",
     "time": "20h30",
     "title": "Mahé",
     "type": "spectacle",
@@ -2258,16 +2108,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/contes-musique.png"
-  },
-  {
-    "date": "2027-02-27",
-    "time": "20h00",
-    "title": "METEOR-HITS - Karaoké",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/27-02-2027-20h00-meteor-hits-karaoke.html",
-    "image_url": "https://www.file7.com/wmedias/original/photo_mh_2019-440x340.JPG"
   },
   {
     "date": "2027-02-27",
@@ -2368,16 +2208,6 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/elephanz/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/250929-Elephanz-935-c-Guillaume-Blot-BD-250x250.jpg"
-  },
-  {
-    "date": "2027-03-06",
-    "time": "20h00",
-    "title": "Zélie",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/06-03-2027-20h00-zelie.html",
-    "image_url": "https://www.file7.com/wmedias/original/zzz_-_ZELIE-440x340.png"
   },
   {
     "date": "2027-03-06",
@@ -2591,16 +2421,6 @@
   },
   {
     "date": "2027-03-27",
-    "time": "15h00",
-    "title": "Café-Concert : Safia Nolin",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/27-03-2027-15h00-cafe-concert-safia-nolin.html",
-    "image_url": "https://www.file7.com/wmedias/original/ZZZ_-_Image_site_-_bon_format-440x340.png"
-  },
-  {
-    "date": "2027-03-27",
     "time": "18h30",
     "title": "Zélie la pirate",
     "type": "spectacle",
@@ -2630,16 +2450,6 @@
     "image_url": "images/generic/standup-bar.png"
   },
   {
-    "date": "2027-04-01",
-    "time": "10h15",
-    "title": "Super Week-end Kidz : Peace & Lobe - Séance scolaire",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/01-04-2027-10h15-super-week-end-kidz-peace-lobe-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/PEACE_AND_LOBE-440x340.jpg"
-  },
-  {
     "date": "2027-04-02",
     "time": "20h30",
     "title": "Gérémy Crédeville, Enchanteur",
@@ -2648,26 +2458,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/lagnySurMarne_charlesVanel/geremy-credeville.png"
-  },
-  {
-    "date": "2027-04-02",
-    "time": "14h30",
-    "title": "Super Week-end Kidz : DIKOTOM - Séance scolaire",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/02-04-2027-14h30-super-week-end-kidz-dikotom-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/DIKOTOM-440x340.jpg"
-  },
-  {
-    "date": "2027-04-02",
-    "time": "18h30",
-    "title": "Super Week-end Kidz : DIKOTOM",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/02-04-2027-18h30-super-week-end-kidz-dikotom.html",
-    "image_url": "https://www.file7.com/wmedias/original/DIKOTOM-440x340.jpg"
   },
   {
     "date": "2027-04-02",
@@ -2688,36 +2478,6 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-john-sulo",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/John-Sulo.png"
-  },
-  {
-    "date": "2027-04-03",
-    "time": "14h00",
-    "title": "Atelier parent - enfant : Deviens meneur.se de bal",
-    "type": "atelier",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/03-04-2027-14h00-atelier-parent-enfant-deviens-meneur-se-de-bal.html",
-    "image_url": "https://file7.com/wmedias/original/OUAGA_2000-440x340.jpg"
-  },
-  {
-    "date": "2027-04-03",
-    "time": "16h15",
-    "title": "Super Week-end Kidz : OUAGA 2000",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/03-04-2027-16h15-super-week-end-kidz-ouaga-2000.html",
-    "image_url": "https://www.file7.com/wmedias/original/OUAGA_2000-440x340.jpg"
-  },
-  {
-    "date": "2027-04-09",
-    "time": "20h00",
-    "title": "Ladaniva",
-    "type": "concert",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/09-04-2027-20h00-ladaniva.html",
-    "image_url": "https://www.file7.com/wmedias/original/Ladaniva_Yasaman_cover_photo_HD_RVB-440x340.jpg"
   },
   {
     "date": "2027-04-15",
@@ -3058,36 +2818,6 @@
     "city": "Noisiel",
     "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
     "image_url": ""
-  },
-  {
-    "date": "2027-05-25",
-    "time": "10h30",
-    "title": "Tournée des Kidz : Partir",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/25-05-2027-10h30-tournee-des-kidz-partir.html",
-    "image_url": "https://www.file7.com/wmedias/original/PARTIR-440x340.png"
-  },
-  {
-    "date": "2027-05-26",
-    "time": "10h30",
-    "title": "Tournée des Kidz : Partir",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/26-05-2027-10h30-tournee-des-kidz-partir.html",
-    "image_url": "https://www.file7.com/wmedias/original/PARTIR-440x340.png"
-  },
-  {
-    "date": "2027-05-27",
-    "time": "10h30",
-    "title": "Tournée des Kidz : Partir",
-    "type": "spectacle",
-    "venue": "File7",
-    "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/27-05-2027-10h30-tournee-des-kidz-partir.html",
-    "image_url": "https://www.file7.com/wmedias/original/PARTIR-440x340.png"
   },
   {
     "date": "2027-05-28",

@@ -231,16 +231,6 @@
   },
   {
     "date": "2026-10-28",
-    "time": "15h00",
-    "title": "Création monstrueuse",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/00735c43-0ac4-4cfb-bf97-ace79c4cf085/creation-monstrueuse",
-    "image_url": "https://collegien.fr/s/agenda/bd1354624fbae3b2149878941c60df99/gettyimages-2235619322-1788348086-resize.jpg"
-  },
-  {
-    "date": "2026-10-28",
     "time": "",
     "title": "Guitare : la pentatonique",
     "type": "concert",
@@ -248,16 +238,6 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/atelier-guitare-la-pentatonique-autrement/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/koneski-guitare-250x250.jpg"
-  },
-  {
-    "date": "2026-10-28",
-    "time": "14h30",
-    "title": "Sorciere Pirate Et Crocodile",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile-2/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/SPC_CYRANOS-1.jpg"
   },
   {
     "date": "2026-10-29",
@@ -656,7 +636,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=760",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/760.gif"
   },
   {
@@ -856,7 +836,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=761",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/761.gif"
   },
   {
@@ -1076,7 +1056,7 @@
     "type": "concert",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=762",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/762.gif"
   },
   {
@@ -1386,7 +1366,7 @@
     "type": "spectacle",
     "venue": "Théâtre municipal",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=763",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/763.gif"
   },
   {
@@ -1526,7 +1506,7 @@
     "type": "concert",
     "venue": "Théâtre municipal",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=764",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/764.gif"
   },
   {
@@ -1706,7 +1686,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=766",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/766.gif"
   },
   {
@@ -1806,7 +1786,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=767",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/767.gif"
   },
   {
@@ -1866,7 +1846,7 @@
     "type": "concert",
     "venue": "Théâtre municipal",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=768",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/768.gif"
   },
   {
@@ -1916,7 +1896,7 @@
     "type": "concert",
     "venue": "Théâtre municipal",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=770",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/770.gif"
   },
   {
@@ -2006,7 +1986,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=771",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/771.gif"
   },
   {
@@ -2106,7 +2086,7 @@
     "type": "spectacle",
     "venue": "Théâtre municipal",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=772",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/772.gif"
   },
   {
@@ -2166,7 +2146,7 @@
     "type": "spectacle",
     "venue": "Micro-Folie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=773",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/773.gif"
   },
   {
@@ -2186,7 +2166,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=774",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/774.gif"
   },
   {
@@ -2256,7 +2236,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=775",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/775.gif"
   },
   {
@@ -2446,7 +2426,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=777",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/777.gif"
   },
   {
@@ -2556,7 +2536,7 @@
     "type": "spectacle",
     "venue": "La Sucrerie (fosse)",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=778",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/778.gif"
   },
   {
@@ -2636,7 +2616,7 @@
     "type": "concert",
     "venue": "Théâtre municipal",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=779",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/779.gif"
   },
   {
@@ -2716,7 +2696,7 @@
     "type": "concert",
     "venue": "La Sucrerie",
     "city": "Coulommiers",
-    "source_url": "https://indiv.themisweb.fr/0105/fListeManifs.aspx?idstructure=0105",
+    "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=780",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/780.gif"
   },
   {

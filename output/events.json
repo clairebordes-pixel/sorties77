@@ -230,16 +230,6 @@
     "image_url": "images/generic/concert-bar.png"
   },
   {
-    "date": "2026-10-28",
-    "time": "",
-    "title": "Guitare : la pentatonique",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/atelier-guitare-la-pentatonique-autrement/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/07/koneski-guitare-250x250.jpg"
-  },
-  {
     "date": "2026-10-29",
     "time": "18h30",
     "title": "Soirée Jeux - spécial Loup Garou",
@@ -271,23 +261,13 @@
   },
   {
     "date": "2026-10-29",
-    "time": "10h30",
+    "time": "14h30",
     "title": "Sorciere Pirate Et Crocodile",
     "type": "spectacle",
     "venue": "We Welcome",
     "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile-4/",
+    "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile-3/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/SPC_CYRANOS-1.jpg"
-  },
-  {
-    "date": "2026-10-29",
-    "time": "21h00",
-    "title": "Je Suis Lapin",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/je-suis-lapin/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Je_suis_Lapin_Final-A4-2-scaled.jpg"
   },
   {
     "date": "2026-10-30",

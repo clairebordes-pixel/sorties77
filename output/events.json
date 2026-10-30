@@ -230,46 +230,6 @@
     "image_url": "images/generic/concert-bar.png"
   },
   {
-    "date": "2026-10-29",
-    "time": "18h30",
-    "title": "Soirée Jeux - spécial Loup Garou",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/6a41aff8-c3bc-499e-a7fe-ac05890261fb/soiree-jeux-special-loup-garou",
-    "image_url": "https://collegien.fr/s/agenda/1ec3e7af38e33222bde173fecaef6bfa/gettyimages-2235619322-1788348361-resize.jpg"
-  },
-  {
-    "date": "2026-10-29",
-    "time": "14h30",
-    "title": "Atelier patchwork",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/c4dbb101-e32b-406a-9e95-3f71b8a2e479/atelier-patchwork",
-    "image_url": "https://collegien.fr/s/agenda/0fc170ecbb8ff1afb2c6de48ea5343e7/photo-patchwork-1788269828-resize.jpg"
-  },
-  {
-    "date": "2026-10-29",
-    "time": "19h00",
-    "title": "LES SOIRÉES JEUX DE SOCIÉTÉ - SPÉCIAL LOUP GAROU",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/001d6676-df02-4531-bad7-d6d6ba5a3c7b/les-soirees-jeux-de-societe-special-loup-garou",
-    "image_url": "https://collegien.fr/s/agenda/46f76a4bda9a9579eab38a8f6eabcda1/gettyimages-2220548328-1788275578-resize.jpg"
-  },
-  {
-    "date": "2026-10-29",
-    "time": "14h30",
-    "title": "Sorciere Pirate Et Crocodile",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile-3/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/SPC_CYRANOS-1.jpg"
-  },
-  {
     "date": "2026-10-30",
     "time": "18h00",
     "title": "Horreur sur la ville",
@@ -840,6 +800,16 @@
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/Cuizines-Locales-Soul-Weeper-©-Elisa-Ciavaldini-48-250x250.jpg"
   },
   {
+    "date": "2026-11-18",
+    "time": "15h00",
+    "title": "Les ateliers familles",
+    "type": "atelier",
+    "venue": "Résidence intergénérationnelle – espace Part’âge",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/fb51b062-8be7-4f92-b99d-671eaed52f5c/les-ateliers-familles",
+    "image_url": "https://collegien.fr/s/agenda/975e6107778ce7a40b9878bfb96a16a7/gettyimages-1135416015-1793357694-resize.jpg"
+  },
+  {
     "date": "2026-11-19",
     "time": "21h00",
     "title": "Kino Dans Panick Attack",
@@ -988,6 +958,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/1a2bfd8d-4df2-4d3a-b7ac-40592db31697/atelier-special-lart-de-rester-actif",
     "image_url": "https://collegien.fr/s/agenda/327708dd10d68b1361ad3addbaca01f2/gettyimages-1322157897-1788353787-resize.jpg"
+  },
+  {
+    "date": "2026-11-25",
+    "time": "15h00",
+    "title": "Les ateliers familles",
+    "type": "atelier",
+    "venue": "Résidence intergénérationnelle – espace Part’âge",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/a7b0c3d5-cbaa-45a2-8dab-79cf31848e08/les-ateliers-familles",
+    "image_url": "https://collegien.fr/s/agenda/b8af7d0fbf094517781e0382102d7b27/gettyimages-1135416015-1793356553-resize.jpg"
   },
   {
     "date": "2026-11-25",
@@ -1148,6 +1128,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/dc3388fb-d5eb-4e89-9de5-4fa0afc1a5a9/distribution-des-colis-de-fin-dannee-gouter-convivial",
     "image_url": "https://collegien.fr/s/agenda/e6af401c28c1790eaef7d55c92ab6ab6/photo-colis-seniors-1788355116-resize.jpg"
+  },
+  {
+    "date": "2026-12-02",
+    "time": "15h00",
+    "title": "Les ateliers familles",
+    "type": "atelier",
+    "venue": "Résidence intergénérationnelle – espace Part’âge",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/190dcb75-1458-483d-9512-012f93515f83/les-ateliers-familles",
+    "image_url": "https://collegien.fr/s/agenda/0ebf197205c00fc6e0aac7261a8c1bdc/gettyimages-1135416015-1793356656-resize.jpg"
   },
   {
     "date": "2026-12-02",

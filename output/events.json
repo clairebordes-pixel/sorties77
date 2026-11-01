@@ -210,16 +210,6 @@
     "image_url": ""
   },
   {
-    "date": "2026-10-21",
-    "time": "",
-    "title": "Ateliers en famille (jusqu'au 09/01)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/ateliers-en-famille-brandon-maissane",
-    "image_url": "https://medias.artishoc.coop/fdb/2M8qJfOxh0rI8vuMgJd6okdUZrZjwut6vJURkAhToMY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTBOVGd4IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--5c24783f1e8ec93f232fc33c134271e589a4bb6aad9797190be6475f8a8a97ce/3a6125b65cd5/ateliers-c-nina-de-castro-1.jpg"
-  },
-  {
     "date": "2026-10-22",
     "time": "19h30",
     "title": "Soirée concert (au bar)",
@@ -228,56 +218,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/concert-bar.png"
-  },
-  {
-    "date": "2026-10-31",
-    "time": "14h00",
-    "title": "Le smartphone et ses applications du quotidien",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/7134dea6-8c07-42f2-a417-feb8992ac8e9/le-smartphone-et-ses-applications-du-quotidien",
-    "image_url": "https://collegien.fr/s/agenda/488c1e0332065eb80e1129139a67d6e0/gettyimages-1322157897-1788427146-resize.jpg"
-  },
-  {
-    "date": "2026-10-31",
-    "time": "15h00",
-    "title": "Soirée Halloween",
-    "type": "spectacle",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/26c0f94f-dc48-485c-b841-95c4a3cedd4c/soiree-halloween",
-    "image_url": "https://collegien.fr/s/agenda/ef0d17b3bdb4ee2aa741ba28c7255c53/gettyimages-2235619322-1788348781-resize.jpg"
-  },
-  {
-    "date": "2026-10-31",
-    "time": "15h00",
-    "title": "Ciné famille : spécial Halloween",
-    "type": "spectacle",
-    "venue": "Médiathèque de la Courée",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/97c1fcc2-37b7-426e-b205-2de42a049005/cine-famille-special-halloween",
-    "image_url": "https://collegien.fr/s/agenda/894db62f7b7a6ed2f2a277dae56a017c/gettyimages-2235619322-1788347686-resize.jpg"
-  },
-  {
-    "date": "2026-10-31",
-    "time": "14h30",
-    "title": "Chocottes Et Chamallows",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/chocottes-et-chamallows-12/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/06/affiche-chocottes_clean_2@4x-fotor-2025041962112-scaled-1.png"
-  },
-  {
-    "date": "2026-11-01",
-    "time": "10h30",
-    "title": "Sorciere Pirate Et Crocodile",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/sorciere-pirate-et-crocodile-5/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/SPC_CYRANOS-1.jpg"
   },
   {
     "date": "2026-11-02",
@@ -1740,6 +1680,16 @@
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/766.gif"
   },
   {
+    "date": "2027-01-08",
+    "time": "21h00",
+    "title": "Baisers Coquillages Et Crustaces",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/baisers-coquillages-et-crustaces/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Baisers-coquillages-et-crustaces.jpg"
+  },
+  {
     "date": "2027-01-09",
     "time": "21h00",
     "title": "L'invitation",
@@ -1768,6 +1718,46 @@
     "city": "Noisiel",
     "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
     "image_url": ""
+  },
+  {
+    "date": "2027-01-10",
+    "time": "10h30",
+    "title": "Droles De Cubes",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/droles-de-cubes-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/Drole_de_cubes-1.jpeg"
+  },
+  {
+    "date": "2027-01-13",
+    "time": "09h30",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-22/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2027-01-13",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-24/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
+  },
+  {
+    "date": "2027-01-13",
+    "time": "14h30",
+    "title": "Musicals Kids",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/musicals-kids/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Musicals-kids-scaled.png"
   },
   {
     "date": "2027-01-14",
@@ -1818,6 +1808,36 @@
     "city": "Coupvray",
     "source_url": "https://www.coupvray.fr/billetterie-de-latmosphere/",
     "image_url": "images/coupvray_lAtmosphere/et-si-cetait-elle.jpg"
+  },
+  {
+    "date": "2027-01-16",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-10/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2027-01-16",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-11/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
+  },
+  {
+    "date": "2027-01-17",
+    "time": "10h30",
+    "title": "Pop Circus",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/pop-circus/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/popcircus-scaled.jpg"
   },
   {
     "date": "2027-01-21",
@@ -1878,6 +1898,16 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-the-french-twins",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/French-twins.png"
+  },
+  {
+    "date": "2027-01-22",
+    "time": "21h00",
+    "title": "Bebe A Tout Prix",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/bebe-a-tout-prix/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/05/bb.png"
   },
   {
     "date": "2027-01-23",
@@ -1970,6 +2000,16 @@
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Walt.png"
   },
   {
+    "date": "2027-01-29",
+    "time": "21h00",
+    "title": "Amant Malgre Lui",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/amant-malgre-lui/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/IMG_7398-2.jpg"
+  },
+  {
     "date": "2027-01-30",
     "time": "",
     "title": "Concert – AJC Urban Vibes",
@@ -2008,6 +2048,26 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/8bc71f6f-deea-40df-b542-a8aa9b5c8726/de-profundis-ensemble-tuba-mirum",
     "image_url": "https://collegien.fr/s/agenda/65a31da7ede4dc9b03fb5bbf8f442ce9/affiche-frisson-baroque-02-recadre-1790933584-resize.jpg"
+  },
+  {
+    "date": "2027-01-30",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-11/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2027-01-30",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-12/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2027-02-04",

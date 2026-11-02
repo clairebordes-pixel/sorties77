@@ -1421,6 +1421,16 @@
   },
   {
     "date": "2026-12-12",
+    "time": "19h00",
+    "title": "Jam Session",
+    "type": "concert",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/12-12-2026-19h00-jam-session.html",
+    "image_url": "https://file7.com/wmedias/original/jam-session-site.jpg"
+  },
+  {
+    "date": "2026-12-12",
     "time": "20h45",
     "title": "CARMEN",
     "type": "spectacle",
@@ -1867,7 +1877,7 @@
     "venue": "File7",
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/22-01-2027-10h30-ecoute-immersive-de-disque-the-dark-side-of-the-moon-de-pink-floyd-seance-scolaire.html",
-    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon.png"
+    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon-440x340.png"
   },
   {
     "date": "2027-01-22",
@@ -1877,7 +1887,7 @@
     "venue": "File7",
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/22-01-2027-19h00-ecoute-immersive-de-disque-the-dark-side-of-the-moon-de-pink-floyd-vernissage.html",
-    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon.png"
+    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon-440x340.png"
   },
   {
     "date": "2027-01-22",
@@ -1917,7 +1927,7 @@
     "venue": "File7",
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/23-01-2027-15h00-ecoute-immersive-de-disque-the-dark-side-of-the-moon-de-pink-floyd.html",
-    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon.png"
+    "image_url": "https://www.file7.com/wmedias/original/Dark_Side_of_the_Moon-440x340.png"
   },
   {
     "date": "2027-01-23",

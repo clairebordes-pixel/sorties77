@@ -3,402 +3,130 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sorties 77</title>
+<meta name="theme-color" content="#f7f4ee">
+<title>Sorties 77 — Ce week-end, on sort ?</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Creepster&family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-  :root{
-    --paper:#F8F3E9;
-    --card:#FFFFFF;
-    --ink:#1B1626;
-    --muted:#786F86;
-    --line: rgba(27,22,38,0.09);
-
-    --indigo:#4F3CC9;
-    --indigo-deep:#2E2170;
-    --indigo-bg:#EAE6FB;
-
-    --coral:#FF5A45;
-    --coral-deep:#B23422;
-    --coral-bg:#FFE3DE;
-
-    --amber:#FFB627;
-    --amber-deep:#8A5A05;
-    --amber-bg:#FFF1D2;
-
-    --teal:#20B2A0;
-    --teal-deep:#0D6E60;
-    --teal-bg:#D9F5F0;
-
-    --pink:#FF4FA0;
-    --pink-deep:#A82A6C;
-    --pink-bg:#FFE1F1;
-  }
-  *{box-sizing:border-box;}
-  body{
-    margin:0;
-    background:var(--paper);
-    color:var(--ink);
-    font-family:'Inter', sans-serif;
-  }
-  .wrap{max-width:1080px;margin:0 auto;padding:0 1.75rem 4rem;}
-
-  /* NAV */
-  nav{
-    display:flex;align-items:center;justify-content:space-between;
-    padding:1.5rem 0;
-  }
-  .logo{
-    font-family:'Unbounded', sans-serif;
-    font-weight:800;
-    font-size:22px;
-    color:var(--indigo-deep);
-    letter-spacing:-0.01em;
-  }
-  .logo span{color:var(--coral);}
-  .navlinks{display:flex;gap:1.75rem;font-size:14px;font-weight:600;color:var(--ink);}
-
-  /* HERO */
-  .hero{
-    display:grid;
-    grid-template-columns:1.1fr 0.9fr;
-    gap:2rem;
-    align-items:center;
-    padding:1.5rem 0 2.5rem;
-  }
-  .hero h1{
-    font-family:'Unbounded', sans-serif;
-    font-weight:700;
-    font-size:40px;
-    line-height:1.08;
-    margin:0 0 0.9rem;
-    color:var(--ink);
-  }
-  .hero h1 .accent{color:var(--coral);}
-  .hero p{font-size:15px;color:var(--muted);margin:0 0 1.5rem;max-width:38ch;}
-
-  .hero-visual{
-    height:230px;
-    border-radius:28px;
-    background:
-      radial-gradient(circle at 30% 30%, rgba(255,255,255,0.35), transparent 45%),
-      linear-gradient(135deg, var(--indigo), var(--pink) 60%, var(--coral));
-    position:relative;
-    overflow:hidden;
-  }
-  .hero-visual .blob{
-    position:absolute; border-radius:50%;
-    background:rgba(255,255,255,0.16);
-  }
-  .hero-visual .b1{width:150px;height:150px; top:-40px; right:-30px;}
-  .hero-visual .b2{width:90px;height:90px; bottom:-20px; left:20px;}
-  .hero-visual .label{
-    position:absolute; bottom:1.1rem; left:1.2rem;
-    color:#fff; font-family:'Unbounded',sans-serif; font-weight:700; font-size:15px;
-  }
-
-  .searchbar{
-    display:flex;
-    align-items:stretch;
-    background:var(--card);
-    border-radius:18px;
-    border:2px solid var(--line);
-    box-shadow:0 10px 24px rgba(27,22,38,0.06);
-    overflow:hidden;
-  }
-  .searchbar input[type=text]{
-    flex:1;
-    border:none;
-    padding:1rem 1.1rem;
-    font-family:inherit;
-    font-size:14px;
-    background:transparent;
-    color:var(--ink);
-  }
-  .searchbar input:focus{outline:none;}
-  .searchbar select{
-    border:none;
-    border-left:1px solid var(--line);
-    background:transparent;
-    font-family:inherit;
-    font-size:14px;
-    color:var(--ink);
-    padding:0 0.9rem;
-  }
-  .searchbar button{
-    border:none;
-    background:var(--indigo);
-    color:#fff;
-    font-family:inherit;
-    font-weight:600;
-    font-size:14px;
-    padding:0 1.5rem;
-    cursor:pointer;
-  }
-  .searchbar button:hover{background:var(--indigo-deep);}
-
-  /* SECTION HEADINGS */
-  .section-head{
-    display:flex;align-items:center;justify-content:space-between;
-    margin:2.5rem 0 1.1rem;
-  }
-  .section-head h2{
-    font-family:'Unbounded', sans-serif;
-    font-weight:700;
-    font-size:19px;
-    margin:0;
-    display:flex;align-items:center;gap:0.5rem;
-  }
-  .section-head h2::before{
-    content:"";
-    width:9px;height:9px;
-    background:var(--coral);
-    border-radius:3px;
-    transform:rotate(15deg);
-    display:inline-block;
-  }
-  .section-head a{font-size:13px;font-weight:600;color:var(--indigo);text-decoration:none;}
-
-  /* CATEGORY PILLS */
-  .categories{
-    display:flex;gap:1.5rem;flex-wrap:wrap;
-    margin-top:0.5rem;
-  }
-  .cat{
-    display:flex;flex-direction:column;align-items:center;
-    gap:0.5rem;
-    cursor:pointer;
-    width:88px;
-    text-align:center;
-  }
-  .cat .circle{
-    width:60px;height:60px;border-radius:50%;
-    display:flex;align-items:center;justify-content:center;
-    color:#fff;
-  }
-  .cat .circle svg{width:26px;height:26px;}
-  .cat span{font-size:12.5px;font-weight:600;}
-  .cat.active .circle{outline:3px solid var(--ink);outline-offset:2px;}
-
-  /* CALENDAR (déplié sur clic date) */
-  .cal-wrap{display:none;margin-top:1rem;}
-  .cal-wrap.open{display:block;}
-  .cal-card{
-    background:var(--card);
-    border-radius:20px;
-    border:2px solid var(--line);
-    padding:1.25rem 1.4rem 1.5rem;
-  }
-  .cal-nav{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;}
-  .cal-nav h3{font-family:'Unbounded',sans-serif;font-weight:600;font-size:16px;margin:0;text-transform:capitalize;color:var(--indigo-deep);}
-  .navbtn{
-    width:30px;height:30px;border-radius:9px;border:2px solid var(--line);
-    background:var(--card);font-size:15px;font-weight:600;color:var(--indigo-deep);
-    cursor:pointer;display:flex;align-items:center;justify-content:center;
-  }
-  .navbtn:hover{background:var(--indigo-bg);}
-  .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;}
-  .cal-dow{text-align:center;font-size:10.5px;font-weight:600;color:var(--muted);padding-bottom:4px;}
-  .cal-day{
-    aspect-ratio:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
-    border-radius:10px;font-size:12.5px;font-weight:500;cursor:pointer;color:var(--ink);
-  }
-  .cal-day.pad{visibility:hidden;cursor:default;}
-  .cal-day:hover{background:var(--indigo-bg);}
-  .cal-day.has-event{font-weight:700;}
-  .cal-day .dot{width:5px;height:5px;border-radius:50%;background:var(--coral);margin-top:2px;}
-  .cal-day.selected{background:var(--indigo);color:#fff;}
-  .cal-day.selected .dot{background:#fff;}
-
-  .selected-bar{display:flex;align-items:center;gap:0.6rem;margin:1rem 0 0.2rem;}
-  .selected-bar .pill{
-    font-size:13px;font-weight:600;background:var(--indigo);color:#fff;
-    padding:0.35rem 0.85rem;border-radius:99px;
-  }
-  .selected-bar button{
-    font-family:inherit;font-size:13px;font-weight:600;color:var(--coral-deep);
-    background:none;border:none;cursor:pointer;text-decoration:underline;
-  }
-
-  /* CARDS GRID */
-  .grid{
-    display:grid;
-    grid-template-columns:repeat(4, 1fr);
-    gap:1.1rem;
-  }
-  .card{
-    background:var(--card);
-    border-radius:18px;
-    border:2px solid var(--line);
-    overflow:hidden;
-    display:flex;flex-direction:column;
-    text-decoration:none;
-    color:inherit;
-  }
-  .thumb{
-    height:110px;
-    position:relative;
-    display:flex;align-items:center;justify-content:center;
-  }
-  .thumb svg{width:34px;height:34px;color:rgba(255,255,255,0.9);}
-  .badge{
-    position:absolute; top:0.6rem; left:0.6rem;
-    font-size:10.5px;font-weight:700;letter-spacing:0.02em;text-transform:uppercase;
-    padding:0.25rem 0.6rem;border-radius:99px;color:#fff;
-  }
-  .card .info{padding:0.85rem 0.95rem 1rem;flex:1;display:flex;flex-direction:column;}
-  .card .title{
-    font-weight:700;font-size:14px;margin:0 0 0.5rem;line-height:1.25;
-    min-height:2.4em;
-  }
-  .card .meta{
-    font-size:12.5px;color:var(--muted);
-    display:flex;align-items:center;gap:0.35rem;
-    margin-bottom:0.25rem;
-  }
-  .card .venue{margin-top:auto;padding-top:0.5rem;font-size:12.5px;font-weight:600;color:var(--indigo-deep);}
-
-  .empty{grid-column:1/-1;padding:3rem 0;text-align:center;color:var(--muted);font-size:14px;}
-
-  footer{
-    margin-top:3rem;padding-top:1.75rem;border-top:2px solid var(--line);
-    font-size:13px;color:var(--muted);line-height:1.6;
-  }
-  footer b{color:var(--ink);}
-
-  @media (max-width: 800px){
-    .hero{grid-template-columns:1fr;}
-    .hero h1{font-size:32px;}
-    .grid{grid-template-columns:repeat(2,1fr);}
-    .searchbar{flex-wrap:wrap;}
-    .searchbar select{border-left:none;border-top:1px solid var(--line);}
-  }
-
-  /* ===== HALLOWEEN (supprimer tout ce bloc, jusqu'à "FIN HALLOWEEN", pour revenir au look normal) ===== */
-  :root{
-    --paper:#150E1E;
-    --card:#241833;
-    --ink:#F3EBFA;
-    --muted:#A998BF;
-    --line: rgba(255,140,40,0.22);
-
-    --indigo:#8E44E0;  --indigo-deep:#D2B3FF;  --indigo-bg:#3A2358;
-    --coral:#FF7A1A;   --coral-deep:#FFB070;   --coral-bg:#4A2810;
-    --amber:#F5C518;   --amber-deep:#FFE27A;   --amber-bg:#3F3410;
-    --teal:#3DBE5C;    --teal-deep:#9BF0AE;    --teal-bg:#173B22;
-    --pink:#D63FA0;    --pink-deep:#FF9AD8;    --pink-bg:#4A1838;
-  }
-  body{
-    background:
-      radial-gradient(circle at 85% -5%, rgba(255,122,26,0.18), transparent 40%),
-      radial-gradient(circle at 5% 30%, rgba(142,68,224,0.18), transparent 45%),
-      var(--paper);
-    background-attachment:fixed;
-  }
-  .logo, .hero h1, .section-head h2, .cal-nav h3, .hero-visual .label{
-    font-family:'Creepster','Unbounded',sans-serif;
-    font-weight:400;
-    letter-spacing:0.04em;
-  }
-  .logo{font-size:30px;color:var(--coral);text-shadow:0 0 14px rgba(255,122,26,0.55);}
-  .logo::before{content:"🎃 ";}
-  .logo span{color:var(--teal-deep);}
-  .hero h1{font-size:52px;line-height:1.05;text-shadow:0 0 18px rgba(142,68,224,0.6);}
-  .hero h1 .accent{color:var(--coral);text-shadow:0 0 16px rgba(255,122,26,0.7);}
-  .section-head h2{font-size:26px;}
-  .section-head h2::before{content:"🦇";width:auto;height:auto;background:none;transform:none;}
-  .hero-visual{
-    background:
-      radial-gradient(circle at 70% 35%, #FFD27A 0 38px, #FF9A2E 40px 46px, transparent 48px),
-      linear-gradient(160deg,#2A1346,#5B1F7A 55%,#FF7A1A 130%);
-  }
-  .hero-visual .blob{background:rgba(255,255,255,0.07);}
-  .hero-visual::before{content:"🦇 🦇   🦇";position:absolute;top:1rem;left:1.2rem;font-size:22px;letter-spacing:0.6rem;opacity:.85;}
-  .hero-visual::after{content:"👻";position:absolute;right:1.4rem;bottom:1rem;font-size:42px;animation:float 3.2s ease-in-out infinite;}
-  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
-  .hero-visual .label{font-size:20px;color:#FFE9C7;}
-  .searchbar{background:var(--card);border-color:var(--line);box-shadow:0 0 22px rgba(255,122,26,0.15);}
-  .searchbar input[type=text]{color:var(--ink);}
-  .searchbar select{color:var(--ink);background:var(--card);}
-  .searchbar button{background:var(--coral);color:#1B0F10;}
-  .searchbar button:hover{background:#FF9440;}
-  .section-head a{color:var(--coral);}
-  .cat .circle{box-shadow:0 0 16px rgba(255,255,255,0.08);}
-  .cat.active .circle{outline-color:var(--coral);}
-  .cal-day.selected{background:var(--coral);color:#1B0F10;}
-  .selected-bar .pill{background:var(--coral);color:#1B0F10;}
-  .navbtn{background:var(--card);}
-  .card{box-shadow:0 6px 18px rgba(0,0,0,0.35);transition:transform .15s, box-shadow .15s, border-color .15s;}
-  .card:hover{transform:translateY(-3px) rotate(-0.6deg);border-color:var(--coral);box-shadow:0 0 22px rgba(255,122,26,0.35);}
-  .card .venue{color:var(--coral-deep);}
-  footer{border-top-color:var(--line);}
-  footer::after{content:"🎃 🕸️ 🦇 🕯️ 👻";display:block;margin-top:1rem;font-size:22px;letter-spacing:0.5rem;opacity:.8;}
-  @media (max-width: 800px){
-    .hero h1{font-size:38px;}
-    .logo{font-size:24px;white-space:nowrap;}
-    .searchbar input[type=text]{flex:1 1 100%;}
-    .searchbar select{flex:1 1 50%;padding:0.8rem 0.9rem;}
-    .searchbar button{flex:1 1 50%;padding:0.8rem 0.5rem;}
-  }
-  /* FIN HALLOWEEN */
+:root{--paper:#f7f4ee;--white:#fff;--ink:#211b32;--muted:#756e7e;--line:#e8e1d9;--violet:#4936a8;--violet2:#33246f;--coral:#f0644b;--mint:#dff1e9;--yellow:#f5cf70;
+--coral-deep:#b23422;--teal:#20b2a0;--teal-deep:#0d6e60;--amber:#ffb627;--amber-deep:#8a5a05;--amber-bg:#fff1d2;--indigo:#4936a8;--indigo-deep:#33246f;--pink:#e0489a;--pink-deep:#a82a6c}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,Arial,sans-serif}
+.wrap{max-width:1160px;margin:0 auto;padding:0 28px 60px}
+nav{height:88px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line)}
+.logo{font-family:Unbounded,sans-serif;font-weight:800;font-size:21px;letter-spacing:-1px;color:var(--violet2)}
+.logo span{color:var(--coral)}
+.navlinks{display:flex;gap:27px;font-size:13px;font-weight:700;color:var(--muted)}
+.navlinks a{color:inherit;text-decoration:none}.navlinks a:hover{color:var(--coral)}
+.navlinks .nav-pill{background:var(--violet);color:#fff;padding:11px 17px;border-radius:999px}
+.hero{display:grid;grid-template-columns:1.1fr .9fr;align-items:center;gap:38px;padding:55px 0 43px}
+.eyebrow{font-size:11px;text-transform:uppercase;letter-spacing:2px;font-weight:800;color:var(--coral);margin-bottom:18px}
+.hero h1{font-family:Unbounded,sans-serif;font-size:clamp(36px,4.5vw,58px);line-height:1.12;letter-spacing:-2.7px;margin:0 0 18px;color:var(--ink)}
+.hero h1 .accent{color:var(--coral)}
+.hero p{font-size:15px;line-height:1.7;color:var(--muted);max-width:470px;margin:0}
+.hero-visual{height:275px;border-radius:24px;background:var(--violet2);position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;color:white}
+.hero-visual:before{content:"";position:absolute;width:260px;height:260px;border:1px solid rgba(255,255,255,.22);border-radius:50%;box-shadow:0 0 0 28px rgba(255,255,255,.04),0 0 0 58px rgba(255,255,255,.035);right:-25px;top:-80px}
+.hero-visual:after{content:"";position:absolute;width:180px;height:180px;border-radius:50%;background:var(--coral);left:-55px;bottom:-90px}
+.visual-date{position:absolute;top:24px;left:27px;font-size:11px;letter-spacing:2px;font-weight:800;color:#d9d1ff}
+.visual-big{font-family:Unbounded,sans-serif;font-size:clamp(80px,12vw,142px);font-weight:800;line-height:1;letter-spacing:-9px;color:var(--yellow);position:relative;z-index:1}
+.visual-caption{position:absolute;bottom:25px;right:27px;font-size:12px;font-weight:700;letter-spacing:.5px;z-index:2}
+.searchbar{position:relative;display:grid;grid-template-columns:1.5fr 1fr auto;gap:0;background:#fff;padding:9px;border-radius:15px;box-shadow:0 13px 35px rgba(39,28,63,.09);border:1px solid var(--line);margin:0 24px 42px}
+.searchbar input,.searchbar select{border:0;background:transparent;padding:13px 16px;font:500 14px Inter,Arial;color:var(--ink);outline:none;min-width:0}
+.searchbar select{border-left:1px solid var(--line)}
+.searchbar button{border:0;border-radius:10px;background:var(--coral);color:#fff;padding:0 21px;font-weight:800;font-size:13px;cursor:pointer}
+.searchbar button:hover{background:var(--violet)}
+.section-head{display:flex;justify-content:space-between;align-items:end;gap:16px;margin:0 0 17px}
+.section-head h2{font-family:Unbounded,sans-serif;font-size:24px;letter-spacing:-1px;margin:0}
+.section-head p{font-size:13px;color:var(--muted);margin:8px 0 0}
+.period-tabs{display:flex;gap:9px;flex-wrap:wrap;margin:0 0 24px}
+.period-tabs button{border:1px solid #ded7e9;background:#fff;color:var(--violet2);border-radius:999px;padding:11px 18px;font:700 13px Inter,Arial;cursor:pointer;transition:.18s}
+.period-tabs button:hover{border-color:var(--coral);transform:translateY(-1px)}
+.period-tabs button.active{background:var(--violet);color:#fff;border-color:var(--violet)}
+#count{font-size:12px;color:var(--muted);white-space:nowrap}
+.cal-wrap{display:none;margin:0 0 24px}.cal-wrap.open{display:block}
+.cal-card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px;max-width:500px}
+.cal-nav{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.cal-nav h3{font-size:15px;margin:0;text-transform:capitalize}
+.navbtn{width:34px;height:34px;border-radius:9px;border:1px solid var(--line);background:var(--paper);color:var(--ink);font-size:20px;cursor:pointer}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}
+.cal-dow{text-align:center;font-size:11px;font-weight:700;color:var(--muted);padding:7px}
+.cal-day{aspect-ratio:1;display:flex;flex-direction:column;align-items:center;justify-content:center;border-radius:9px;font-size:13px;cursor:pointer}
+.cal-day.pad{visibility:hidden}.cal-day:hover{background:var(--mint)}.cal-day.has-event{font-weight:800;color:var(--violet)}
+.cal-day .dot{width:5px;height:5px;border-radius:50%;background:var(--coral);margin-top:2px}
+.cal-day.selected{background:var(--violet);color:white}.cal-day.selected .dot{background:white}
+.selected-bar{display:flex;align-items:center;gap:10px;margin:-8px 0 20px}
+.selected-bar .pill{font-size:12px;font-weight:800;background:var(--mint);color:var(--violet2);padding:8px 13px;border-radius:999px}
+.selected-bar button{font:700 12px Inter,Arial;color:var(--coral);background:none;border:0;cursor:pointer;text-decoration:underline}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.card{background:#fff;border:1px solid var(--line);border-radius:15px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:transform .2s,box-shadow .2s}
+.card:hover{transform:translateY(-4px);box-shadow:0 15px 35px rgba(39,28,63,.11)}
+.thumb{height:165px;position:relative;display:flex;align-items:center;justify-content:center;background-size:cover!important;background-position:center!important;overflow:hidden}
+.thumb:after{content:"";position:absolute;inset:45% 0 0;background:linear-gradient(transparent,rgba(22,15,38,.42))}
+.thumb svg{width:42px;height:42px;color:rgba(255,255,255,.92);position:relative;z-index:1}
+.badge{position:absolute;top:13px;left:13px;z-index:2;font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;padding:7px 10px;border-radius:999px;color:var(--violet2);background:#fff}
+.card .info{padding:17px 18px 18px;flex:1;display:flex;flex-direction:column}
+.card .title{font-family:Unbounded,sans-serif;font-weight:700;font-size:14px;letter-spacing:-.35px;margin:0 0 14px;line-height:1.45;min-height:2.8em}
+.card .meta{font-size:12px;color:var(--muted);display:flex;align-items:center;gap:7px;margin:0 0 8px}
+.card .venue{margin:auto 0 0;padding-top:14px;font-size:12px;font-weight:700;color:var(--violet)}
+.empty{grid-column:1/-1;padding:40px 20px;text-align:center;background:#fff;border:1px dashed #d8d0e3;border-radius:14px;color:var(--muted)}
+footer{margin-top:55px;padding-top:22px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);line-height:1.7}
+footer b{color:var(--ink)}
+@media(max-width:800px){.wrap{padding:0 18px 45px}.hero{grid-template-columns:1fr;gap:24px;padding:38px 0 30px}.hero-visual{height:210px}.searchbar{margin:0 0 34px;grid-template-columns:1fr 1fr}.searchbar input{grid-column:1/-1;border-bottom:1px solid var(--line)}.searchbar select{border-left:0}.searchbar button{min-height:44px}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.wrap{padding:0 14px 35px}nav{height:72px}.logo{font-size:18px}.navlinks{gap:12px;font-size:11px}.navlinks a:first-child{display:none}.navlinks .nav-pill{padding:9px 12px}.hero{padding-top:31px}.hero h1{font-size:34px;letter-spacing:-1.8px}.hero-visual{height:170px;border-radius:17px}.visual-big{font-size:92px}.searchbar{grid-template-columns:1fr;padding:8px}.searchbar input{grid-column:auto}.searchbar select{border-top:1px solid var(--line);padding:12px 16px}.searchbar button{min-height:45px}.section-head h2{font-size:19px}.period-tabs{gap:7px}.period-tabs button{padding:10px 13px;font-size:12px}.grid{grid-template-columns:1fr}.thumb{height:185px}.card .title{font-size:14px}}
 </style>
 </head>
 <body>
 <div class="wrap">
-
   <nav>
     <div class="logo">SORTIES<span> 77</span></div>
-    <div class="navlinks"><span>Explorer</span><span>Favoris</span></div>
+    <div class="navlinks"><a href="#agenda">L'agenda</a><a href="#agenda" class="nav-pill">Trouver une sortie ↗</a></div>
   </nav>
-
-  <div class="hero">
+  <section class="hero">
     <div>
-      <h1>QU'EST-CE QU'ON<br>FAIT <span class="accent">CE MOIS-CI ?</span></h1>
-      <p>Tous les spectacles et concerts des salles autour de chez toi, en Seine-et-Marne.</p>
-      <div class="searchbar">
-        <input type="text" id="search" placeholder="Concert, théâtre, cirque…">
-        <select id="villeSelect"><option value="toutes">Toutes les villes</option></select>
-        <button id="dateToggle">📅 Choisir une date</button>
+      <div class="eyebrow">L'agenda culturel en Seine-et-Marne</div>
+      <h1>CE WEEK-END,<br>ON <span class="accent">SORT ?</span></h1>
+      <p>Concerts, spectacles, humour, théâtre… Toutes les idées de sorties près de chez toi, réunies au même endroit.</p>
+    </div>
+    <div class="hero-visual" aria-label="Sorties 77, idées de sorties en Seine-et-Marne">
+      <div class="visual-date">VENDREDI · SAMEDI · DIMANCHE</div>
+      <div class="visual-big">77</div>
+      <div class="visual-caption">LE WEEK-END PREND UNE AUTRE DIMENSION.</div>
+    </div>
+  </section>
+  <div class="searchbar">
+    <input type="text" id="search" placeholder="Un artiste, un spectacle, une salle…">
+    <select id="villeSelect"><option value="toutes">Toutes les villes</option></select>
+    <button id="dateToggle">Choisir une date　↗</button>
+  </div>
+  <section id="agenda">
+    <div class="section-head">
+      <div><h2 id="periodTitle">Ce week-end</h2><p>Choisis ton moment, on s'occupe des idées.</p></div>
+      <span id="count"></span>
+    </div>
+    <div class="period-tabs" aria-label="Période de recherche">
+      <button type="button" data-period="weekend" class="active">Ce week-end</button>
+      <button type="button" data-period="semaine">Cette semaine</button>
+      <button type="button" data-period="avenir">Toutes les prochaines dates</button>
+    </div>
+    <div class="cal-wrap" id="calWrap">
+      <div class="cal-card">
+        <div class="cal-nav"><button class="navbtn" id="prevMonth">‹</button><h3 id="monthLabel"></h3><button class="navbtn" id="nextMonth">›</button></div>
+        <div class="cal-grid" id="calGrid"></div>
       </div>
     </div>
-    <div class="hero-visual">
-      <div class="blob b1"></div>
-      <div class="blob b2"></div>
-      <div class="label">77 · Marne-la-Vallée & alentours</div>
-    </div>
-  </div>
-
-  <div class="section-head"><h2>Explorer par catégorie</h2></div>
-  <div class="categories" id="categories"></div>
-
-  <div class="cal-wrap" id="calWrap">
-    <div class="cal-card">
-      <div class="cal-nav">
-        <button class="navbtn" id="prevMonth">‹</button>
-        <h3 id="monthLabel"></h3>
-        <button class="navbtn" id="nextMonth">›</button>
-      </div>
-      <div class="cal-grid" id="calGrid"></div>
-    </div>
-  </div>
-
-  <div class="selected-bar" id="selectedBar" style="display:none;">
-    <span class="pill" id="selectedPill"></span>
-    <button id="clearDate">réinitialiser</button>
-  </div>
-
-  <div class="section-head"><h2>Événements</h2><span id="count" style="font-size:13px;color:var(--muted);"></span></div>
-  <div class="grid" id="list"></div>
-
+    <div class="selected-bar" id="selectedBar" style="display:none"><span class="pill" id="selectedPill"></span><button id="clearDate">effacer la date</button></div>
+    <div class="grid" id="list"></div>
+  </section>
   <footer>
-    <p><b>Sources agrégées :</b> Les Cuizines (Chelles), File7 (Magny-le-Hongre), La Courée (Collégien), Le Millésime (Montévrain), Ferme du Buisson (Noisiel), Auditorium Jean-Cocteau (Noisiel), Ferme des Communes (Serris), La Sucrerie et Théâtre municipal (Coulommiers).</p>
-    <p>Prototype personnel — données saisies manuellement, mise à jour automatique à venir.</p>
+    <p><b>Sources agrégées :</b> Les Cuizines (Chelles), File7 (Magny-le-Hongre), Collégien, Le Millésime (Montévrain), Ferme du Buisson, Auditorium Jean-Cocteau et Pôle culturel Michel-Legrand (Noisiel), Ferme des Communes (Serris), La Sucrerie et Théâtre municipal (Coulommiers), Espace Charles Vanel et We Welcome (Lagny-sur-Marne), L'Atmosphère (Coupvray), Ferme Corsange (Bailly-Romainvilliers), Centre culturel Marc Brinon (Saint-Thibault-des-Vignes), Le Moulin Jaune (Crécy-la-Chapelle).</p>
+    <p>Prototype personnel — les événements affichés dépendent des données disponibles dans le fichier events.json.</p>
   </footer>
-
 </div>
 
 <script>
+
 const fallbackEvents = [
   {date:"2026-09-04", time:"19h00", title:"Victor Hugoat", type:"concert", venue:"Ferme des Communes", city:"Serris"},
   {date:"2026-09-10", time:"20h00", title:"Jovany & Le Dernier Saltimbanque", type:"saison", venue:"La Sucrerie", city:"Coulommiers"},
@@ -475,7 +203,7 @@ const monthNames = ["janvier","février","mars","avril","mai","juin","juillet","
 
 let events = [];
 let usingFallback = false;
-let activeType = "toutes";
+let activePeriod = "weekend";
 let activeVille = "toutes";
 let query = "";
 let selectedDate = null;
@@ -495,6 +223,7 @@ document.getElementById('villeSelect').addEventListener('change', e => { activeV
 document.getElementById('search').addEventListener('input', e => { query = e.target.value; render(); });
 
 function showDataBanner(){
+  if(!usingFallback) return;
   const banner = document.createElement('div');
   banner.style.cssText = "background:var(--amber-bg);color:var(--amber-deep);padding:0.6rem 1rem;border-radius:12px;font-size:13px;font-weight:600;margin-bottom:1rem;";
   banner.textContent = usingFallback
@@ -518,40 +247,49 @@ async function loadEvents(){
 
   // on écarte les événements déjà passés (date antérieure à aujourd'hui) :
   // une appli de "sorties" ne doit proposer que ce qui reste à venir
-  const todayStr = new Date().toISOString().slice(0,10);
+  const todayStr = localDateString(new Date());
   events = events.filter(e => e.date >= todayStr);
 
   populateVilleSelect();
   showDataBanner();
-  buildCategories();
   buildCalendar();
   render();
 }
 
-// categories
-function buildCategories(){
-  const el = document.getElementById('categories');
-  el.innerHTML = "";
-  Object.keys(TYPES).forEach(key => {
-    const t = TYPES[key];
-    const div = document.createElement('div');
-    div.className = 'cat';
-    div.innerHTML = `<div class="circle" style="background:${t.color}">${ICONS[key]}</div><span>${t.label}</span>`;
-    div.onclick = () => {
-      activeType = (activeType === key) ? 'toutes' : key;
-      buildCategories();
-      render();
-    };
-    if(activeType === key) div.classList.add('active');
-    el.appendChild(div);
-  });
-}
-
 // calendar
+function localDateString(date){
+  return `${date.getFullYear()}-${pad(date.getMonth()+1)}-${pad(date.getDate())}`;
+}
+function weekendRange(){
+  const now = new Date();
+  const day = now.getDay();
+  const offset = day === 6 ? -1 : day === 0 ? -2 : (5-day+7)%7;
+  const friday = new Date(now.getFullYear(), now.getMonth(), now.getDate()+offset);
+  const sunday = new Date(friday.getFullYear(), friday.getMonth(), friday.getDate()+2);
+  return [localDateString(friday), localDateString(sunday)];
+}
+function periodRange(){
+  const today = new Date();
+  const start = localDateString(today);
+  if(activePeriod === "avenir") return null;
+  if(activePeriod === "weekend") return weekendRange();
+  const end = new Date(today.getFullYear(), today.getMonth(), today.getDate()+(7-today.getDay())%7);
+  return [start, localDateString(end)];
+}
+document.querySelectorAll('[data-period]').forEach(button => {
+  button.addEventListener('click', () => {
+    activePeriod = button.dataset.period;
+    selectedDate = null;
+    document.querySelectorAll('[data-period]').forEach(b => b.classList.toggle('active', b === button));
+    buildCalendar();
+    render();
+  });
+});
 document.getElementById('dateToggle').addEventListener('click', () => {
   document.getElementById('calWrap').classList.toggle('open');
 });
 
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function pad(n){ return n < 10 ? '0'+n : ''+n; }
 function eventsOn(dateStr){ return events.filter(e => e.date === dateStr); }
 
@@ -567,7 +305,7 @@ function buildCalendar(){
   const first = new Date(viewYear, viewMonth, 1);
   let startPad = first.getDay() - 1; if(startPad < 0) startPad = 6;
   const daysInMonth = new Date(viewYear, viewMonth + 1, 0).getDate();
-  const todayStr = new Date().toISOString().slice(0,10);
+  const todayStr = localDateString(new Date());
 
   for(let i=0;i<startPad;i++){
     const p = document.createElement('div'); p.className = 'cal-day pad';
@@ -599,14 +337,19 @@ function render(){
 
   let filtered = events.filter(e => {
     const mVille = activeVille === 'toutes' || e.city === activeVille;
-    const mType = activeType === 'toutes' || e.type === activeType;
+    const range = periodRange();
+    const mPeriod = selectedDate || !range || (e.date >= range[0] && e.date <= range[1]);
     const q = query.trim().toLowerCase();
     const mQuery = !q || (e.title + e.venue + e.city).toLowerCase().includes(q);
     const mDate = !selectedDate || e.date === selectedDate;
-    return mVille && mType && mQuery && mDate;
+    return mVille && mPeriod && mQuery && mDate;
   });
 
-  document.getElementById('count').textContent = filtered.length + (filtered.length > 1 ? ' événements' : ' événement');
+  document.getElementById('count').textContent = filtered.length + (filtered.length > 1 ? ' sorties' : ' sortie');
+  const range = periodRange();
+  const label = activePeriod === 'weekend' ? 'Ce week-end' : activePeriod === 'semaine' ? 'Cette semaine' : 'À venir';
+  document.querySelectorAll('[data-period]').forEach(b => b.classList.toggle('active', !selectedDate && b.dataset.period === activePeriod));
+  document.getElementById('periodTitle').textContent = selectedDate ? 'À cette date' : label;
 
   if(selectedDate){
     bar.style.display = 'flex';
@@ -617,7 +360,7 @@ function render(){
   }
 
   if(filtered.length === 0){
-    list.innerHTML = '<div class="empty">Aucun événement ne correspond à ta recherche.</div>';
+    list.innerHTML = '<div class="empty">' + ((activePeriod !== 'avenir' && !selectedDate) ? 'Rien de prévu sur cette période. Essaie « Toutes les prochaines dates ».' : 'Aucun événement ne correspond à ta recherche.') + '</div>';
     return;
   }
 
@@ -635,24 +378,25 @@ function render(){
       card.rel = 'noopener';
     }
     const thumbStyle = e.image_url
-      ? `background-image:url('${e.image_url}');background-size:cover;background-position:center;`
+      ? `background-image:url('${esc(String(e.image_url).replace(/'/g,'%27').replace(/"/g,'%22'))}');background-size:cover;background-position:center;`
       : `background:linear-gradient(135deg, ${t.color}, ${t.colorDeep});`;
     card.innerHTML = `
       <div class="thumb" style="${thumbStyle}">
-        <span class="badge" style="background:rgba(0,0,0,0.35)">${t.label}</span>
+        <span class="badge">${t.label}</span>
         ${e.image_url ? '' : (ICONS[e.type] || '')}
       </div>
       <div class="info">
-        <p class="title">${e.title}</p>
-        <p class="meta">🗓️ ${dateLabel}${e.time ? ' · ' + e.time : ''}</p>
-        <p class="meta">📍 ${e.city}</p>
-        <p class="venue">${e.venue}</p>
+        <p class="title">${esc(e.title)}</p>
+        <p class="meta">🗓️ ${dateLabel}${e.time ? ' · ' + esc(e.time) : ''}</p>
+        <p class="meta">📍 ${esc(e.city)}</p>
+        <p class="venue">${esc(e.venue)}</p>
       </div>`;
     list.appendChild(card);
   });
 }
 
 loadEvents();
+
 </script>
 </body>
 </html>

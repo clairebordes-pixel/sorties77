@@ -131,6 +131,26 @@
   },
   {
     "date": "2026-10-10",
+    "time": "",
+    "title": "Maïssane Alibrahimi (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/maissane-alibrahimi-abraz",
+    "image_url": "https://medias.artishoc.coop/fdb/-nB23yLpad7G3Sf79yTk4PrrznD8CPYTutAPwbV5XQY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVFk0IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--896b34d38f730a6408b99e84d01ec28d56707e99abd38256eca502482bedbab7/2aae092b1c3a/maissane_alibrahimi_cur_juliette_hage_abraz_2026_fermedubuisson_photo_emile_ouroumov-9.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "",
+    "title": "Brandon Gercara (jusqu'au 24/01)",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/brandon-gercara",
+    "image_url": "https://medias.artishoc.coop/fdb/4hDZW-OcL7g9Inweylu_8daVpVtqvs-z1bFpIs_RydI/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOVGMxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0ac436faa41ab2e2399fb7b909c1e1aa9fe58763f194e51a4428b39860b14ec9/0e190432e0d7/salle_c_brandon_gercara_destin_vogoya_2026_fermedubuisson_photo_emile_ouroumov-5.jpg"
+  },
+  {
+    "date": "2026-10-10",
     "time": "20h30",
     "title": "José Cruz",
     "type": "spectacle",
@@ -221,23 +241,13 @@
   },
   {
     "date": "2026-11-06",
-    "time": "19h00",
-    "title": "Café des parents - Que se passe-t-il dans la tête de mon ado ?",
+    "time": "",
+    "title": "Saïgon (jusqu'au 07/11)",
     "type": "spectacle",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/a7104bde-e8a7-40d6-bdc7-9480d839477c/que-se-passe-t-il-dans-la-tete-de-mon-ado",
-    "image_url": "https://collegien.fr/s/agenda/4491777b1aa8b5b32c2e8666dbe1a495/gettyimages-1044468834-1-1788346470-resize.jpg"
-  },
-  {
-    "date": "2026-11-06",
-    "time": "14h00",
-    "title": "DÉCOUVERTE DE LA PHYSIOTHÉRAPIE",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/afb31a97-f178-4823-a3fd-52f94d6abf8b/decouverte-de-la-physiotherapie",
-    "image_url": "https://collegien.fr/s/agenda/39d352b0395ba768e18f042c6e2a8621/gettyimages-1200966280-1788270916-resize.jpg"
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/saigon",
+    "image_url": "https://medias.artishoc.coop/fdb/m9OX0SxDnKMnm7lJgFrz__3B7437Qw8K2VXAZw23U-Q/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek15IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d9780b72d2e9aacc0d81858840ac8982086d7be68ba03d61c0849e36a6032d15/ee9db10427c5/saigon_-jeanlouisfernandez_025.jpg"
   },
   {
     "date": "2026-11-06",
@@ -248,16 +258,6 @@
     "city": "Montévrain",
     "source_url": "https://www.billetweb.fr/millesime-giorgio-le-mentaliste",
     "image_url": "https://www.montevrain.fr/app/uploads/2026/06/Giorgio.png"
-  },
-  {
-    "date": "2026-11-06",
-    "time": "",
-    "title": "Joe Bel",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/joe-bel-elias-dris/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/V1-OK-Sarah-Balladere-scaled-e1780415657205-250x250.jpg"
   },
   {
     "date": "2026-11-07",
@@ -301,13 +301,23 @@
   },
   {
     "date": "2026-11-07",
-    "time": "10h00",
+    "time": "13h30",
     "title": "INITIATION AUX PREMIERS SECOURS",
-    "type": "spectacle",
+    "type": "atelier",
     "venue": "Fabrique citoyenne",
     "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/c5ece915-097b-49c3-a1c6-fc8a02d68e56/initiation-aux-premiers-secours",
-    "image_url": "https://collegien.fr/s/agenda/85690f81aadc1749175c187784afc9ee/photos-rpe-1-1788352744-resize.jpg"
+    "source_url": "https://collegien.fr/agenda/2759f272-e567-424e-971c-84b176dc18d1/initiation-aux-premiers-secours",
+    "image_url": "https://collegien.fr/s/agenda/b030afbb3a8af8fb0759241c97466ee4/gettyimages-1386276499-1788275858-resize.jpg"
+  },
+  {
+    "date": "2026-11-07",
+    "time": "16h30",
+    "title": "Immobile & Rebondi",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/immobile-et-rebondi",
+    "image_url": "https://medias.artishoc.coop/fdb/0TFlHnrJlpU2yJfQ0YTqWi5ehzCTr40YiFdvo4w1iRw/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOall3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--97fd8dbcb6f52f07577a9153c11a122a5cfed387850f8ac8ab5d2ebd5a77794e/ad2f2b1b6c96/saut-sylvere-lamotte.jpg"
   },
   {
     "date": "2026-11-07",
@@ -338,16 +348,6 @@
     "city": "Serris",
     "source_url": "https://billetterie.seetickets.fr/michael-hirsch-y-a-de-la-joie-ferme-des-communes-serris-07-novembre-2026-css5-velvilledeserris-pg101-ri11776195.html",
     "image_url": "https://www.fermedescommunes.fr/fileadmin/_processed_/6/7/csm_Affiche-Tourne__e-web_ed41fa0f94.jpg"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "10h00",
-    "title": "Eveil Musical De 0 A 36 Mois",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-6/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
   },
   {
     "date": "2026-11-07",
@@ -451,6 +451,16 @@
   },
   {
     "date": "2026-11-13",
+    "time": "20h30",
+    "title": "Musiques en héritage",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/musiques-en-heritage",
+    "image_url": "https://medias.artishoc.coop/fdb/vlbWEjMk_5fb9AF8n0CYwQ8ZPITaVlDIkzvWqRc9mSY/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek16IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--0449fc7645c7aa96025632050e5f715e84759bc93b66f9026768f4615c487522/b86ac1ce221c/image00034-copie.jpg"
+  },
+  {
+    "date": "2026-11-13",
     "time": "20h00",
     "title": "REVNOIR+Solitaris+TRVMA",
     "type": "concert",
@@ -498,6 +508,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/e41cce34-4f78-4c40-b5c3-3fdb7861bd2a/ecoute-moi-ateliers-ados",
     "image_url": "https://collegien.fr/s/agenda/9752d873fa71c19dc602bf2a0696f9b5/gettyimages-2206258275-1788340199-resize.jpg"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "16h00",
+    "title": "Journée publique : In Vogoya pou lo kèr",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/journee-publique-brandon-gercara",
+    "image_url": "https://medias.artishoc.coop/fdb/cswRjkJik343SiIoc3PlvW9oNtPDXrUZt_IFdVM63v4/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ETTJNVGd6IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--ffc18dec8e018ec422a9945423b4ba5b467e457bb78369f39d5ca4340a5a608c/ee48056fb632/brandon-gercara-lecture-performee-de-majik-kwir-frac-reunion-dans-le-cadre-du-festival-majik-kwi.jpg"
   },
   {
     "date": "2026-11-14",
@@ -601,6 +621,16 @@
   },
   {
     "date": "2026-11-17",
+    "time": "20h30",
+    "title": "Behind the Light",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/behind-the-light",
+    "image_url": "https://medias.artishoc.coop/fdb/PO3S7MV0goEhoN0SLHc_e9OqqJbNmG2UFWiCCRW3Nck/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPVEkxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--2a4d6aa81b84f9967130b5438a47fcffe2c43d5a18c49305e603105ebf5800b4/e6eacf7721f9/btl_ph-ilaria-costanzo-2164.jpg"
+  },
+  {
+    "date": "2026-11-17",
     "time": "19h00",
     "title": "Jean-Chat voit dans le noir",
     "type": "spectacle",
@@ -668,6 +698,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/kino-dans-panick-attack/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/03/kino-affiche.png"
+  },
+  {
+    "date": "2026-11-20",
+    "time": "20h30",
+    "title": "Vertiges",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/vertiges",
+    "image_url": "https://medias.artishoc.coop/fdb/j_c7lSlx2oJFQKu-7OPACm-5fna8WfdooEPrCClyNBU/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOamd3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--7e02a7bd760dbd1376243a519d787b819f0a89dc2cb4c31a0ff8ad427b82dccc/71d0a67f403a/251118_rdl_0162_1.jpg"
   },
   {
     "date": "2026-11-20",

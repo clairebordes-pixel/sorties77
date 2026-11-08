@@ -241,16 +241,6 @@
   },
   {
     "date": "2026-11-06",
-    "time": "",
-    "title": "Saïgon (jusqu'au 07/11)",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/saigon",
-    "image_url": "https://medias.artishoc.coop/fdb/m9OX0SxDnKMnm7lJgFrz__3B7437Qw8K2VXAZw23U-Q/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek15IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--d9780b72d2e9aacc0d81858840ac8982086d7be68ba03d61c0849e36a6032d15/ee9db10427c5/saigon_-jeanlouisfernandez_025.jpg"
-  },
-  {
-    "date": "2026-11-06",
     "time": "20h30",
     "title": "Giorgio le mentaliste",
     "type": "spectacle",
@@ -291,36 +281,6 @@
   },
   {
     "date": "2026-11-07",
-    "time": "14h00",
-    "title": "Atelier répare-tout",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/021d3f4a-ceb5-4fd9-bae4-06e2fa80cb1c/atelier-repare-tout",
-    "image_url": "https://collegien.fr/s/agenda/64c31821603ab476a318839606743bd6/photo-1-1788270146-resize.jpg"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "13h30",
-    "title": "INITIATION AUX PREMIERS SECOURS",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/2759f272-e567-424e-971c-84b176dc18d1/initiation-aux-premiers-secours",
-    "image_url": "https://collegien.fr/s/agenda/b030afbb3a8af8fb0759241c97466ee4/gettyimages-1386276499-1788275858-resize.jpg"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "16h30",
-    "title": "Immobile & Rebondi",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/immobile-et-rebondi",
-    "image_url": "https://medias.artishoc.coop/fdb/0TFlHnrJlpU2yJfQ0YTqWi5ehzCTr40YiFdvo4w1iRw/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOall3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--97fd8dbcb6f52f07577a9153c11a122a5cfed387850f8ac8ab5d2ebd5a77794e/ad2f2b1b6c96/saut-sylvere-lamotte.jpg"
-  },
-  {
-    "date": "2026-11-07",
     "time": "20h30",
     "title": "Tristan Pierre - Mélanjolie",
     "type": "spectacle",
@@ -331,16 +291,6 @@
   },
   {
     "date": "2026-11-07",
-    "time": "20h45",
-    "title": "DICK ANNEGARN",
-    "type": "spectacle",
-    "venue": "La Courée",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/ca2bbc13-a569-433d-a4b3-243f2ebaa1fa/dick-annegarn",
-    "image_url": "https://collegien.fr/s/agenda/465636eb4a7ff4b267f3b765d07a02da/dick1-credits-thierry-rajic-bandeau-site-1790689315-resize.jpg"
-  },
-  {
-    "date": "2026-11-07",
     "time": "21h00",
     "title": "Michaël Hirsch - Y'a de la joie !",
     "type": "spectacle",
@@ -348,26 +298,6 @@
     "city": "Serris",
     "source_url": "https://billetterie.seetickets.fr/michael-hirsch-y-a-de-la-joie-ferme-des-communes-serris-07-novembre-2026-css5-velvilledeserris-pg101-ri11776195.html",
     "image_url": "https://www.fermedescommunes.fr/fileadmin/_processed_/6/7/csm_Affiche-Tourne__e-web_ed41fa0f94.jpg"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "11h45",
-    "title": "Eveil Musical 3 5 Ans",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-7/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
-  },
-  {
-    "date": "2026-11-07",
-    "time": "21h00",
-    "title": "Paris Comedy Club",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/paris-comedy-club-12/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/09/Capture-decran-2024-04-18-a-20.10.59-min.jpeg"
   },
   {
     "date": "2026-11-09",
@@ -558,6 +488,26 @@
     "city": "Noisiel",
     "source_url": "https://www.ville-noisiel.fr/2026/08/21/nouvelle-saison-culturelle-variee-accessible-familiale/",
     "image_url": ""
+  },
+  {
+    "date": "2026-11-14",
+    "time": "10h00",
+    "title": "Eveil Musical De 0 A 36 Mois",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-de-0-a-36-mois-28/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-4.png"
+  },
+  {
+    "date": "2026-11-14",
+    "time": "11h45",
+    "title": "Eveil Musical 3 5 Ans",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/eveil-musical-3-5-ans-30/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/09/Eveil-musical-affiche-5.png"
   },
   {
     "date": "2026-11-15",
@@ -998,6 +948,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/8f607ed4-9b04-4276-9f07-da525259bcbf/atelier-couture-sac-a-baguettes-et-eponges-lavable",
     "image_url": "https://collegien.fr/s/agenda/952c3ff98a6acdc36497d839e31aa57c/photo-couture-1788269754-resize.jpg"
+  },
+  {
+    "date": "2026-11-28",
+    "time": "20h30",
+    "title": "Face aux murs",
+    "type": "cirque",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/face-aux-murs",
+    "image_url": "https://medias.artishoc.coop/fdb/fNwX4fJIwCeoGkOrMa34Wu_Im11UWKUskV4YYt-ywtE/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOamt3IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--1e7c714bff08e78c410f0351ba20fad15e9aa9678f4450399eb98d827d1c9268/ce4f19e8ba74/horssurfacefaceauxmurs_janvier2025_camillelaverde_sanslogo_001.jpg"
   },
   {
     "date": "2026-11-28",

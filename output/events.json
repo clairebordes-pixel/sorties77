@@ -301,16 +301,6 @@
   },
   {
     "date": "2026-11-12",
-    "time": "14h30",
-    "title": "Atelier patchwork",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/b0cfcbd6-cd75-4aff-bdd5-747a888e10c9/atelier-patchwork",
-    "image_url": "https://collegien.fr/s/agenda/0d9095b0d6bbe98ea0c9c02b11b59ee3/photo-patchwork-1788269793-resize.jpg"
-  },
-  {
-    "date": "2026-11-12",
     "time": "20h30",
     "title": "Du charbon dans les veines",
     "type": "spectacle",
@@ -318,16 +308,6 @@
     "city": "Coulommiers",
     "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=760",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/760.gif"
-  },
-  {
-    "date": "2026-11-12",
-    "time": "14h00",
-    "title": "Atelier taïso et nutrition",
-    "type": "atelier",
-    "venue": "Résidence intergénérationnelle",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/23b090f3-372b-4e72-a90d-d57db4d62466/atelier-taiso-et-nutrition",
-    "image_url": "https://collegien.fr/s/agenda/ef72d53990bc4805684c9b61fa64a102/gettyimages-1396052053-1788344174-resize-1793630136-resize.jpg"
   },
   {
     "date": "2026-11-13",
@@ -388,16 +368,6 @@
     "city": "Chelles",
     "source_url": "https://www.lescuizines.fr/events/tracy-de-sa-leys/",
     "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/SITE-1-250x250.jpg"
-  },
-  {
-    "date": "2026-11-13",
-    "time": "21h00",
-    "title": "Leurs Desirs Font Desordres",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/leurs-desirs-font-desordres/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2025/06/Capture_dE28099C3A9cran_2025-04-03_C3A0_17.07.22.png"
   },
   {
     "date": "2026-11-14",
@@ -508,16 +478,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/lune-et-li-2/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Lune_et_Li_affiche_neutre-2.jpg"
-  },
-  {
-    "date": "2026-11-15",
-    "time": "17h00",
-    "title": "Ils Se Sont Aimes",
-    "type": "spectacle",
-    "venue": "We Welcome",
-    "city": "Lagny-sur-Marne",
-    "source_url": "https://we-welcome.fr/reservation/ils-se-sont-aimes/",
-    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/04/Affiche-Ils-se-sont-aimes-1-HD-2-scaled.jpg"
   },
   {
     "date": "2026-11-16",

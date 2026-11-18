@@ -341,36 +341,6 @@
   },
   {
     "date": "2026-11-17",
-    "time": "18h30",
-    "title": "ATELIER : QUAND LE CONFLIT DEVIENT UNE OCCASION POUR SE COMPRENDRE",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/c9535044-26c2-41f3-9dd8-9f41d42d82e6/atelier-quand-le-conflit-devient-une-occasion-pour-se-comprendre",
-    "image_url": "https://collegien.fr/s/agenda/f5b1b89d98b7286673128a5fb112cb9a/gettyimages-2239973999-1788273201-resize.jpg"
-  },
-  {
-    "date": "2026-11-17",
-    "time": "14h00",
-    "title": "DU NOUVEAU À LA FABRIQUE : ET SI ON TRAVAILLAIT ENSEMBLE ? ESPACE COWORKING",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/17b0829d-8f9e-4054-abd0-d84f569308e3/du-nouveau-a-la-fabrique-et-si-on-travaillait-ensemble-espace-coworking",
-    "image_url": "https://collegien.fr/s/agenda/aee92f16efd522b9326c25cc3237ac15/gettyimages-2243799864-1788274653-resize.jpg"
-  },
-  {
-    "date": "2026-11-17",
-    "time": "20h30",
-    "title": "Behind the Light",
-    "type": "spectacle",
-    "venue": "Ferme du Buisson",
-    "city": "Noisiel",
-    "source_url": "https://www.lafermedubuisson.com/fr/behind-the-light",
-    "image_url": "https://medias.artishoc.coop/fdb/PO3S7MV0goEhoN0SLHc_e9OqqJbNmG2UFWiCCRW3Nck/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTVPVEkxIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--2a4d6aa81b84f9967130b5438a47fcffe2c43d5a18c49305e603105ebf5800b4/e6eacf7721f9/btl_ph-ilaria-costanzo-2164.jpg"
-  },
-  {
-    "date": "2026-11-17",
     "time": "19h00",
     "title": "Jean-Chat voit dans le noir",
     "type": "spectacle",
@@ -388,16 +358,6 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://esp-charlesvanel.notre-billetterie.com/billets?kld=2627",
     "image_url": "images/generic/comptines.png"
-  },
-  {
-    "date": "2026-11-18",
-    "time": "14h30",
-    "title": "Le Garçon De Toutes Les Couleurs",
-    "type": "spectacle",
-    "venue": "La Ferme Corsange",
-    "city": "Bailly-Romainvilliers",
-    "source_url": "https://www.vostickets.net/billet?id=LA_FERME_CORSANGE",
-    "image_url": "https://vosbillets-images.s3.eu-west-par.io.cloud.ovh.net/public/site/841/spectacle/32811/images/20260610170437404.webp"
   },
   {
     "date": "2026-11-18",
@@ -1158,6 +1118,26 @@
     "city": "Noisiel",
     "source_url": "https://www.lafermedubuisson.com/fr/festival-toutouie-2026",
     "image_url": "https://medias.artishoc.coop/fdb/eXKbwvDKLGrTDcaDTHM6d-rIfutxr7_VZffquouU57E/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXdNek0yIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--1ea1ca4bf9584ea8c44bc959318d46d701a150203c87f19df420c9680425d8c6/88614fa9ab77/toutouie.png"
+  },
+  {
+    "date": "2026-12-12",
+    "time": "14h00",
+    "title": "#Hashtag Déclic",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/hashtag-declic",
+    "image_url": "https://medias.artishoc.coop/fdb/5LXwSl9AyVtXzLwuDRtjjtnUOPD_XUmBZDzxs4YgdeU/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOekE1IiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--f996106b20119ac060b71fa2dbd57658e6ecf7546e08c121c57b8025a9f11fca/2fb263c2d82c/hashtag-declic-michele-crosera-fondazione-teatro-la-fenice-di-venezia-03.jpg"
+  },
+  {
+    "date": "2026-12-12",
+    "time": "15h00",
+    "title": "Mini-Maxi",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/mini-maxi",
+    "image_url": "https://medias.artishoc.coop/fdb/lTqHnIONud8twHLeJAY7HJR26pv4ZQq5vq4vWGFikbo/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOek0wIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--df7d4b2153d7e664717dd03856359548121534ec16951da78b8a7a331951d620/eaff9cf4cb8e/mini-1-credit-lorianne-torlasco.jpg"
   },
   {
     "date": "2026-12-12",

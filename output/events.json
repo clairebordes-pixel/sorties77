@@ -360,26 +360,6 @@
     "image_url": "images/generic/comptines.png"
   },
   {
-    "date": "2026-11-18",
-    "time": "",
-    "title": "Cuizines Locales",
-    "type": "concert",
-    "venue": "Les Cuizines",
-    "city": "Chelles",
-    "source_url": "https://www.lescuizines.fr/events/cuizines-locales-6/",
-    "image_url": "https://www.lescuizines.fr/wp-content/uploads/2026/06/Cuizines-Locales-Soul-Weeper-©-Elisa-Ciavaldini-48-250x250.jpg"
-  },
-  {
-    "date": "2026-11-18",
-    "time": "15h00",
-    "title": "Atelier familles",
-    "type": "atelier",
-    "venue": "Résidence intergénérationnelle",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/fb51b062-8be7-4f92-b99d-671eaed52f5c/les-ateliers-familles",
-    "image_url": "https://collegien.fr/s/agenda/975e6107778ce7a40b9878bfb96a16a7/gettyimages-1135416015-1793357694-resize.jpg"
-  },
-  {
     "date": "2026-11-19",
     "time": "14h30",
     "title": "Super Week-end Kidz : Orel, Octave & Mélodie - séance scolaire",
@@ -388,16 +368,6 @@
     "city": "Magny-le-Hongre",
     "source_url": "https://www.file7.com/fr/programme/programme/19-11-2026-14h30-super-week-end-kidz-orel-octave-melodie-seance-scolaire.html",
     "image_url": "https://www.file7.com/wmedias/original/OREL_OCTAVE_ET_MELODY-440x340.jpg"
-  },
-  {
-    "date": "2026-11-19",
-    "time": "14h00",
-    "title": "Atelier taïso et nutrtion",
-    "type": "atelier",
-    "venue": "Résidence intergénérationnelle",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/3a4819c7-d06f-4d21-ba77-7fecc627335f/atelier-taiso",
-    "image_url": "https://collegien.fr/s/agenda/f0b1d5879866f2c2eba77f39993d1184/gettyimages-1396052053-1788344174-resize-1793630192-resize.jpg"
   },
   {
     "date": "2026-11-19",
@@ -1117,7 +1087,7 @@
     "venue": "Ferme du Buisson",
     "city": "Noisiel",
     "source_url": "https://www.lafermedubuisson.com/fr/festival-toutouie-2026",
-    "image_url": "https://medias.artishoc.coop/fdb/eXKbwvDKLGrTDcaDTHM6d-rIfutxr7_VZffquouU57E/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXdNek0yIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--1ea1ca4bf9584ea8c44bc959318d46d701a150203c87f19df420c9680425d8c6/88614fa9ab77/toutouie.png"
+    "image_url": "https://medias.artishoc.coop/fdb/4ht2Xm4l9uw81CnDL4MUYA5YWEJDW_q4bVMi1ONKsY8/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXdNek0yIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--1ea1ca4bf9584ea8c44bc959318d46d701a150203c87f19df420c9680425d8c6/32a4a6c1ebc7/2025-12-13_tout-ouie_fdb_thierry-guillaume_selec-096.jpg"
   },
   {
     "date": "2026-12-12",
@@ -1138,6 +1108,16 @@
     "city": "Noisiel",
     "source_url": "https://www.lafermedubuisson.com/fr/mini-maxi",
     "image_url": "https://medias.artishoc.coop/fdb/lTqHnIONud8twHLeJAY7HJR26pv4ZQq5vq4vWGFikbo/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOek0wIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--df7d4b2153d7e664717dd03856359548121534ec16951da78b8a7a331951d620/eaff9cf4cb8e/mini-1-credit-lorianne-torlasco.jpg"
+  },
+  {
+    "date": "2026-12-12",
+    "time": "15h00",
+    "title": "Village curieux 2026",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/village-curieux-2026",
+    "image_url": "https://medias.artishoc.coop/fdb/_--LsGEFIH47THf2iFs0LtgvNFvONu0u-5k4TChuhmA/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ERTNOelEwIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--f6defe1d6237d761570cf53458ae84ff7739921b3809674638b046f25a691ca2/601c0a987605/2025-12-13_tout-ouie_fdb_thierry-guillaume_selec-068.jpg"
   },
   {
     "date": "2026-12-12",
@@ -1248,6 +1228,16 @@
     "city": "Lagny-sur-Marne",
     "source_url": "https://we-welcome.fr/reservation/le-pere-noel-est-enrhume-11/",
     "image_url": "https://we-welcome.fr/wp-content/uploads/2025/06/Copie-de-AFFICHES-3-1.png"
+  },
+  {
+    "date": "2026-12-17",
+    "time": "14h30",
+    "title": "Jazz Entertainment",
+    "type": "spectacle",
+    "venue": "We Welcome",
+    "city": "Lagny-sur-Marne",
+    "source_url": "https://we-welcome.fr/reservation/jazz-entertainment-2/",
+    "image_url": "https://we-welcome.fr/wp-content/uploads/2026/10/Jazz-entertainment.png"
   },
   {
     "date": "2026-12-18",
@@ -2292,11 +2282,11 @@
   {
     "date": "2027-03-13",
     "time": "20h00",
-    "title": "​McAnuffFamily & theLigerians+CHARLIE GYAL & JAH ZIEK",
+    "title": "​Mc Anuff Family & The Ligerians+CHARLIE GYAL & JAH ZIEK",
     "type": "concert",
     "venue": "File7",
     "city": "Magny-le-Hongre",
-    "source_url": "https://www.file7.com/fr/programme/programme/13-03-2027-20h00-mcanufffamily-theligerians-charlie-gyal-jah-ziek.html",
+    "source_url": "https://www.file7.com/fr/programme/programme/13-03-2027-20h00-mc-anuff-family-the-ligerians-charlie-gyal-jah-ziek.html",
     "image_url": "https://www.file7.com/wmedias/original/McAnuff_Family_2_1-440x340.jpg"
   },
   {
@@ -2938,6 +2928,16 @@
     "city": "Coulommiers",
     "source_url": "https://indiv.themisweb.fr/0105/fChoixSeanceWidget.aspx?idstructure=0105&EventId=780",
     "image_url": "https://indiv.themisweb.fr/files/0105/INDIV/images/manifestations/780.gif"
+  },
+  {
+    "date": "2027-05-21",
+    "time": "19h00",
+    "title": "Madeleine K-POP Tour",
+    "type": "concert",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/21-05-2027-19h00-madeleine-k-pop-tour.html",
+    "image_url": "https://www.file7.com/wmedias/original/ZZZZZZ_-_2027_-_PRINTEMPS_-_MADELEINE_-_SITE-440x340.png"
   },
   {
     "date": "2027-05-21",

@@ -90,16 +90,6 @@
     "image_url": ""
   },
   {
-    "date": "2026-10-03",
-    "time": "20h00",
-    "title": "PAR LA BILLETTERIE EN LIGNE Achetez vos billets sur Weezevent en quelques clics",
-    "type": "spectacle",
-    "venue": "Pôle culturel Michel-Legrand",
-    "city": "Noisiel",
-    "source_url": "https://my.weezevent.com/el-spectacolo ",
-    "image_url": ""
-  },
-  {
     "date": "2026-10-04",
     "time": "15h00",
     "title": "Mulan",
@@ -681,6 +671,16 @@
   },
   {
     "date": "2026-12-04",
+    "time": "17h45",
+    "title": "Soirée INTERGÉNÉRATIONNEL - Batman escape",
+    "type": "spectacle",
+    "venue": "Club",
+    "city": "Collégien",
+    "source_url": "https://collegien.fr/agenda/0cdf2700-2202-453a-93d3-b91932f9b6b7/atelier-intergenerationnel-escape-game",
+    "image_url": "https://collegien.fr/s/agenda/f44ee263952e65b3610b8ba51229d1f9/900x600-1795516496-resize.jpg"
+  },
+  {
+    "date": "2026-12-04",
     "time": "19h00",
     "title": "Café des parents - Divergences parentales",
     "type": "spectacle",
@@ -688,16 +688,6 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/6cd4f969-ba6d-4617-a115-a45764f6233f/divergences-parentales",
     "image_url": "https://collegien.fr/s/agenda/42a6845a557bef704ad8ac9cb4461d43/gettyimages-1044468834-1-1788346762-resize.jpg"
-  },
-  {
-    "date": "2026-12-04",
-    "time": "16h30",
-    "title": "ATELIER INTERGÉNÉRATIONNEL - Escape Game",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/0cdf2700-2202-453a-93d3-b91932f9b6b7/atelier-intergenerationnel-escape-game",
-    "image_url": "https://collegien.fr/s/agenda/7e0a0209b929d097bd3e8ef30567a5c1/gettyimages-2215221243-1788354551-resize.jpg"
   },
   {
     "date": "2026-12-04",
@@ -1098,6 +1088,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/65fc707a-9c80-4029-b348-9f138d5b11e2/pratique-de-lia-venez-essayer-plusieurs-intelligences-artificielles",
     "image_url": "https://collegien.fr/s/agenda/09b69adcd7cbae914c6204984097d2da/gettyimages-1276435469-1788277419-resize.jpg"
+  },
+  {
+    "date": "2026-12-16",
+    "time": "20h30",
+    "title": "D'autres familles que la mienne",
+    "type": "spectacle",
+    "venue": "Ferme du Buisson",
+    "city": "Noisiel",
+    "source_url": "https://www.lafermedubuisson.com/fr/dautres-familles-que-la-mienne",
+    "image_url": "https://medias.artishoc.coop/fdb/EyzD4r9xbWuQYX-JtdLQdwfm-0L29gXO5wnZ449Kw4A/rs:fit:600:600:0/q:75/f:webp/plain/https://cdn.artishoc.coop/ec53d277-9e98-4ece-b328-281d642dc9cb/v1/medias/eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik5ESXhOek0yIiwiZXhwIjpudWxsLCJwdXIiOiJtZWRpYS9tZWRpYV9pZCJ9fQ==--093e31e4cd787ed1a148576e9db0485fc9e07f810cfaf6159225aa195957ef7d/140b3112fab4/df_-danicabijeljac1-copie.jpg"
   },
   {
     "date": "2026-12-16",

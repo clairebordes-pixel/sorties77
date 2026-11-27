@@ -381,26 +381,6 @@
   },
   {
     "date": "2026-11-26",
-    "time": "14h30",
-    "title": "Atelier Patchwork",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/eaacc1e1-3650-459e-ae7d-60e4302e4d61/atelier-patchwork",
-    "image_url": "https://collegien.fr/s/agenda/74378afe5e8b20910cf1f939e57f0480/photo-patchwork-1788269724-resize.jpg"
-  },
-  {
-    "date": "2026-11-26",
-    "time": "19h00",
-    "title": "LES SOIRÉES JEUX DE SOCIÉTÉ",
-    "type": "atelier",
-    "venue": "Fabrique citoyenne",
-    "city": "Collégien",
-    "source_url": "https://collegien.fr/agenda/5ecb8689-c53d-41c0-a096-4c78304f9025/les-soirees-jeux-de-societe",
-    "image_url": "https://collegien.fr/s/agenda/0172d289da48c48de8c5ebf3de9f7ee1/gettyimages-2220548328-1788275339-resize.jpg"
-  },
-  {
-    "date": "2026-11-26",
     "time": "20h30",
     "title": "Stephan Eicher « Poussière d'or »",
     "type": "concert",
@@ -728,6 +708,16 @@
     "city": "Collégien",
     "source_url": "https://collegien.fr/agenda/1bbab966-6bb1-4d26-84f7-f3094c233156/atelier-taiso-et-nutrition",
     "image_url": "https://collegien.fr/s/agenda/2217ad1dd50c1017d3df6b44b7c45508/gettyimages-1396052053-1788343586-resize.jpg"
+  },
+  {
+    "date": "2026-12-08",
+    "time": "10h00",
+    "title": "Tournée des cantines : LUAZÓ",
+    "type": "concert",
+    "venue": "File7",
+    "city": "Magny-le-Hongre",
+    "source_url": "https://www.file7.com/fr/programme/programme/08-12-2026-10h00-tournee-des-cantines-luazo.html",
+    "image_url": "https://file7.com/wmedias/original/luazocouv-low-440x340.png"
   },
   {
     "date": "2026-12-09",
